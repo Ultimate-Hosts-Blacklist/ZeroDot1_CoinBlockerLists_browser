@@ -2040,6 +2040,11 @@
             "expiration_date": "03-dec-2018",
             "state": "future"
         },
+        "oei1.gq": {
+            "epoch": "1559433600",
+            "expiration_date": "02-jun-2019",
+            "state": "future"
+        },
         "offerreality.com": {
             "epoch": "1563494400",
             "expiration_date": "19-jul-2019",
@@ -2325,10 +2330,15 @@
             "expiration_date": "26-sep-2019",
             "state": "future"
         },
+        "scaleway.ovh": {
+            "epoch": "1552953600",
+            "expiration_date": "19-mar-2019",
+            "state": "future"
+        },
         "seasonaloffers.club": {
             "epoch": "1540857600",
             "expiration_date": "30-oct-2018",
-            "state": "future"
+            "state": "past"
         },
         "secumine.net": {
             "epoch": "1566777600",
@@ -2655,6 +2665,11 @@
             "expiration_date": "29-mar-2019",
             "state": "future"
         },
+        "ultra-cdn.pl": {
+            "epoch": "1561593600",
+            "expiration_date": "27-jun-2019",
+            "state": "future"
+        },
         "unrummaged.com": {
             "epoch": "1550534400",
             "expiration_date": "19-feb-2019",
@@ -2893,6 +2908,11 @@
         "wrxgandsfcz.ru": {
             "epoch": "1556841600",
             "expiration_date": "03-may-2019",
+            "state": "future"
+        },
+        "wty46.com": {
+            "epoch": "1544054400",
+            "expiration_date": "06-dec-2018",
             "state": "future"
         },
         "xbasfbno.info": {
