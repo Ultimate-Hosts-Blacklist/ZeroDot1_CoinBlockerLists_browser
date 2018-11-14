@@ -2050,6 +2050,11 @@
             "expiration_date": "03-mar-2019",
             "state": "future"
         },
+        "notmining.org": {
+            "epoch": "1544832000",
+            "expiration_date": "15-dec-2018",
+            "state": "future"
+        },
         "npdaqy6x1j.me": {
             "epoch": "1545350400",
             "expiration_date": "21-dec-2018",
@@ -2090,9 +2095,19 @@
             "expiration_date": "29-mar-2019",
             "state": "future"
         },
+        "olecintri.com": {
+            "epoch": "1572220800",
+            "expiration_date": "28-oct-2019",
+            "state": "future"
+        },
         "omine.org": {
             "epoch": "1559174400",
             "expiration_date": "30-may-2019",
+            "state": "future"
+        },
+        "onvid.club": {
+            "epoch": "1571529600",
+            "expiration_date": "20-oct-2019",
             "state": "future"
         },
         "openkatalog.com": {
@@ -2293,7 +2308,7 @@
         "reservedoffers.club": {
             "epoch": "1542067200",
             "expiration_date": "13-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "retadint.com": {
             "epoch": "1547164800",
@@ -2500,6 +2515,11 @@
             "expiration_date": "12-dec-2018",
             "state": "future"
         },
+        "statpipe.ru": {
+            "epoch": "1571443200",
+            "expiration_date": "19-oct-2019",
+            "state": "future"
+        },
         "stonecalcom.com": {
             "epoch": "1551830400",
             "expiration_date": "06-mar-2019",
@@ -2533,6 +2553,11 @@
         "svivqrhrh.ru": {
             "epoch": "1556928000",
             "expiration_date": "04-may-2019",
+            "state": "future"
+        },
+        "sweetbook.net": {
+            "epoch": "1573516800",
+            "expiration_date": "12-nov-2019",
             "state": "future"
         },
         "swiftmining.win": {
@@ -2885,6 +2910,11 @@
             "expiration_date": "03-mar-2019",
             "state": "future"
         },
+        "wilf.cn": {
+            "epoch": "1552089600",
+            "expiration_date": "09-mar-2019",
+            "state": "future"
+        },
         "willacrit.com": {
             "epoch": "1547769600",
             "expiration_date": "18-jan-2019",
@@ -2898,7 +2928,7 @@
         "wittyoffers.club": {
             "epoch": "1542067200",
             "expiration_date": "13-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "wkkjfcgjofbix.ru": {
             "epoch": "1557014400",
