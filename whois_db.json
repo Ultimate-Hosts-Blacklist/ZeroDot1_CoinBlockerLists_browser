@@ -2620,6 +2620,11 @@
             "expiration_date": "04-aug-2020",
             "state": "future"
         },
+        "thepiratebay.cr": {
+            "epoch": "1569456000",
+            "expiration_date": "26-sep-2019",
+            "state": "future"
+        },
         "thepiratebay.org": {
             "epoch": "1656374400",
             "expiration_date": "28-jun-2022",
