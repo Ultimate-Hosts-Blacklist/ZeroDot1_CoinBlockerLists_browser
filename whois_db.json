@@ -333,7 +333,7 @@
         "blockchained.party": {
             "epoch": "1544400000",
             "expiration_date": "10-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "bmnadutub.ru": {
             "epoch": "1553817600",
@@ -438,7 +438,7 @@
         "chainblock.science": {
             "epoch": "1544400000",
             "expiration_date": "10-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "chmproxy.bid": {
             "epoch": "1549065600",
@@ -573,7 +573,7 @@
         "coinhive.info": {
             "epoch": "1544659200",
             "expiration_date": "13-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "coinhive.net": {
             "epoch": "1557446400",
@@ -616,8 +616,8 @@
             "state": "future"
         },
         "coinimp.net": {
-            "epoch": "1544313600",
-            "expiration_date": "09-dec-2018",
+            "epoch": "1575849600",
+            "expiration_date": "09-dec-2019",
             "state": "future"
         },
         "coinive.com": {
@@ -816,8 +816,8 @@
             "state": "future"
         },
         "digxmr.com": {
-            "epoch": "1544572800",
-            "expiration_date": "12-dec-2018",
+            "epoch": "1576108800",
+            "expiration_date": "12-dec-2019",
             "state": "future"
         },
         "directprimal.com": {
@@ -1148,7 +1148,7 @@
         "g-content.bid": {
             "epoch": "1544572800",
             "expiration_date": "12-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "g1thub.com": {
             "epoch": "1566000000",
@@ -1193,7 +1193,7 @@
         "gitgrub.pro": {
             "epoch": "1544659200",
             "expiration_date": "13-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "gnrdomimplementation.com": {
             "epoch": "1552435200",
@@ -1236,9 +1236,9 @@
             "state": "future"
         },
         "gridiogrid.com": {
-            "epoch": "1544227200",
-            "expiration_date": "08-dec-2018",
-            "state": "past"
+            "epoch": "1575763200",
+            "expiration_date": "08-dec-2019",
+            "state": "future"
         },
         "hashforcash.us": {
             "epoch": "1569628800",
@@ -1246,8 +1246,8 @@
             "state": "future"
         },
         "hashing.win": {
-            "epoch": "1544400000",
-            "expiration_date": "10-dec-2018",
+            "epoch": "1575936000",
+            "expiration_date": "10-dec-2019",
             "state": "future"
         },
         "hashto.cash": {
@@ -1313,12 +1313,12 @@
         "hodlers.party": {
             "epoch": "1544400000",
             "expiration_date": "10-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "hodling.faith": {
             "epoch": "1544400000",
             "expiration_date": "10-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "hostingcloud.accountant": {
             "epoch": "1554336000",
@@ -1508,7 +1508,7 @@
         "jquery-uim.download": {
             "epoch": "1544572800",
             "expiration_date": "12-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "jqwww.download": {
             "epoch": "1553817600",
