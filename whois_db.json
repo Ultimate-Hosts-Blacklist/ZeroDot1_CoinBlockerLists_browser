@@ -571,9 +571,9 @@
             "state": "future"
         },
         "coinhive.info": {
-            "epoch": "1544659200",
-            "expiration_date": "13-dec-2018",
-            "state": "past"
+            "epoch": "1576195200",
+            "expiration_date": "13-dec-2019",
+            "state": "future"
         },
         "coinhive.net": {
             "epoch": "1557446400",
@@ -778,7 +778,7 @@
         "dataservices.download": {
             "epoch": "1544832000",
             "expiration_date": "15-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "de-mi-nis-ner.info": {
             "epoch": "1554163200",
@@ -848,7 +848,7 @@
         "earncoins.club": {
             "epoch": "1544832000",
             "expiration_date": "15-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "easyhash.io": {
             "epoch": "1568764800",
@@ -1191,9 +1191,9 @@
             "state": "future"
         },
         "gitgrub.pro": {
-            "epoch": "1544659200",
-            "expiration_date": "13-dec-2018",
-            "state": "past"
+            "epoch": "1576195200",
+            "expiration_date": "13-dec-2019",
+            "state": "future"
         },
         "gnrdomimplementation.com": {
             "epoch": "1552435200",
@@ -1401,8 +1401,8 @@
             "state": "future"
         },
         "infamylists.com": {
-            "epoch": "1544918400",
-            "expiration_date": "16-dec-2018",
+            "epoch": "1576454400",
+            "expiration_date": "16-dec-2019",
             "state": "future"
         },
         "ingorob.com": {
@@ -1663,7 +1663,7 @@
         "kjli.fi": {
             "epoch": "1545004800",
             "expiration_date": "17-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "ksimdw.ru": {
             "epoch": "1556841600",
@@ -1796,9 +1796,9 @@
             "state": "future"
         },
         "minemytraffic.com": {
-            "epoch": "1537488000",
-            "expiration_date": "21-sep-2018",
-            "state": "past"
+            "epoch": "1575676800",
+            "expiration_date": "07-dec-2019",
+            "state": "future"
         },
         "minerad.com": {
             "epoch": "1547683200",
