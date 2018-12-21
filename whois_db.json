@@ -1930,6 +1930,11 @@
             "expiration_date": "19-jan-2019",
             "state": "future"
         },
+        "mwor.gq": {
+            "epoch": "1572739200",
+            "expiration_date": "03-nov-2019",
+            "state": "future"
+        },
         "my-rigs.com": {
             "epoch": "1546992000",
             "expiration_date": "09-jan-2019",
@@ -1943,12 +1948,12 @@
         "myoffers.bid": {
             "epoch": "1545264000",
             "expiration_date": "20-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "myoffers.party": {
             "epoch": "1545264000",
             "expiration_date": "20-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "myregeneaf.com": {
             "epoch": "1569369600",
@@ -2061,14 +2066,14 @@
             "state": "future"
         },
         "notmining.org": {
-            "epoch": "1544832000",
-            "expiration_date": "15-dec-2018",
+            "epoch": "1576368000",
+            "expiration_date": "15-dec-2019",
             "state": "future"
         },
         "npdaqy6x1j.me": {
             "epoch": "1545350400",
             "expiration_date": "21-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "nullrefexcep.com": {
             "epoch": "1565481600",
@@ -2471,8 +2476,8 @@
             "state": "future"
         },
         "spacepools.org": {
-            "epoch": "1545350400",
-            "expiration_date": "21-dec-2018",
+            "epoch": "1576886400",
+            "expiration_date": "21-dec-2019",
             "state": "future"
         },
         "sparechange.io": {
@@ -2721,8 +2726,8 @@
             "state": "future"
         },
         "uebawtz7.me": {
-            "epoch": "1545264000",
-            "expiration_date": "20-dec-2018",
+            "epoch": "1576800000",
+            "expiration_date": "20-dec-2019",
             "state": "future"
         },
         "ugmfvqsu.ru": {
@@ -2793,7 +2798,7 @@
         "vg02h8z1ul.me": {
             "epoch": "1545350400",
             "expiration_date": "21-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "viaxmr.com": {
             "epoch": "1560556800",
@@ -2803,7 +2808,7 @@
         "vjcyehtqm9.me": {
             "epoch": "1545350400",
             "expiration_date": "21-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "vkcdnservice.com": {
             "epoch": "1550534400",
@@ -2813,7 +2818,7 @@
         "vl8c4g7tmo.me": {
             "epoch": "1545350400",
             "expiration_date": "21-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "voumxy.ru": {
             "epoch": "1555286400",
