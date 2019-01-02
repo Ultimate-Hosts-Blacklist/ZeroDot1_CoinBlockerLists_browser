@@ -281,9 +281,9 @@
             "state": "future"
         },
         "bestcoinsignals.com": {
-            "epoch": "1546041600",
-            "expiration_date": "29-dec-2018",
-            "state": "past"
+            "epoch": "1577577600",
+            "expiration_date": "29-dec-2019",
+            "state": "future"
         },
         "besti.ga": {
             "epoch": "1556150400",
@@ -603,7 +603,7 @@
         "coinhove.com": {
             "epoch": "1546387200",
             "expiration_date": "02-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "coinhub.win": {
             "epoch": "1545091200",
