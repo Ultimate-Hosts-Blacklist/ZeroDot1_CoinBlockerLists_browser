@@ -231,8 +231,8 @@
             "state": "future"
         },
         "bablace.com": {
-            "epoch": "1546646400",
-            "expiration_date": "05-jan-2019",
+            "epoch": "1578182400",
+            "expiration_date": "05-jan-2020",
             "state": "future"
         },
         "baiduccdn1.com": {
@@ -601,9 +601,9 @@
             "state": "future"
         },
         "coinhove.com": {
-            "epoch": "1546387200",
-            "expiration_date": "02-jan-2019",
-            "state": "past"
+            "epoch": "1577923200",
+            "expiration_date": "02-jan-2020",
+            "state": "future"
         },
         "coinhub.win": {
             "epoch": "1545091200",
@@ -1593,12 +1593,12 @@
         "jurty.ml": {
             "epoch": "1546560000",
             "expiration_date": "04-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "jurtym.cf": {
             "epoch": "1546560000",
             "expiration_date": "04-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "juststatic.info": {
             "epoch": "1560297600",
