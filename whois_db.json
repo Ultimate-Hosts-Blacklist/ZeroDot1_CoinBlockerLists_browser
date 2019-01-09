@@ -658,7 +658,7 @@
         "coinwebmining.com": {
             "epoch": "1546992000",
             "expiration_date": "09-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "coinworker.com": {
             "epoch": "1604275200",
@@ -1081,8 +1081,8 @@
             "state": "future"
         },
         "freecontent.net": {
-            "epoch": "1546905600",
-            "expiration_date": "08-jan-2019",
+            "epoch": "1578441600",
+            "expiration_date": "08-jan-2020",
             "state": "future"
         },
         "freecontent.party": {
@@ -1216,8 +1216,8 @@
             "state": "past"
         },
         "goxmrminer.com": {
-            "epoch": "1546905600",
-            "expiration_date": "08-jan-2019",
+            "epoch": "1578441600",
+            "expiration_date": "08-jan-2020",
             "state": "future"
         },
         "graftpool.ovh": {
