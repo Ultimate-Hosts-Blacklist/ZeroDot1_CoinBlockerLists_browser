@@ -1081,9 +1081,9 @@
             "state": "future"
         },
         "freecontent.faith": {
-            "epoch": "1547856000",
-            "expiration_date": "19-jan-2019",
-            "state": "past"
+            "epoch": "1579392000",
+            "expiration_date": "19-jan-2020",
+            "state": "future"
         },
         "freecontent.info": {
             "epoch": "1572912000",
@@ -1101,9 +1101,9 @@
             "state": "future"
         },
         "freecontent.party": {
-            "epoch": "1547856000",
-            "expiration_date": "19-jan-2019",
-            "state": "past"
+            "epoch": "1579392000",
+            "expiration_date": "19-jan-2020",
+            "state": "future"
         },
         "freecontent.racing": {
             "epoch": "1547856000",
@@ -1116,9 +1116,9 @@
             "state": "past"
         },
         "freecontent.science": {
-            "epoch": "1547856000",
-            "expiration_date": "19-jan-2019",
-            "state": "past"
+            "epoch": "1579392000",
+            "expiration_date": "19-jan-2020",
+            "state": "future"
         },
         "freecontent.stream": {
             "epoch": "1579392000",
@@ -1126,9 +1126,9 @@
             "state": "future"
         },
         "freecontent.trade": {
-            "epoch": "1547856000",
-            "expiration_date": "19-jan-2019",
-            "state": "past"
+            "epoch": "1579392000",
+            "expiration_date": "19-jan-2020",
+            "state": "future"
         },
         "freecontent.win": {
             "epoch": "1547856000",
@@ -1876,8 +1876,8 @@
             "state": "future"
         },
         "mining711.com": {
-            "epoch": "1551657600",
-            "expiration_date": "04-mar-2019",
+            "epoch": "1583280000",
+            "expiration_date": "04-mar-2020",
             "state": "future"
         },
         "mmc.center": {
