@@ -737,11 +737,7 @@
             "www.gramombird.com",
             "www.gustaver.ddns.net",
             "www.hallaert.online",
-            "www.hatcalter.com"
-        ],
-        "to_test": [
-            "play1.videos.videos.vidto.me",
-            "player.videos.vidto.me",
+            "www.hatcalter.com",
             "www.hatevery.info",
             "www.hbeuwgqt.ru",
             "www.hegrinhar.com",
@@ -1088,8 +1084,6 @@
             "www.zndaowjdnf.stream",
             "www.zona.plus",
             "www.zzqhsrg.ru",
-            "www4.2giga.link",
-            "www49.playercdn.net",
             "x.browsermine.com",
             "xmr.coinlab.biz",
             "xmr.cryptonoter.com",
@@ -1099,6 +1093,12 @@
             "xsecurity.fblaster.com",
             "zjemch.ru",
             "zxc1-ustokyyneikyfasnm.stackpathdns.com"
+        ],
+        "to_test": [
+            "play1.videos.videos.vidto.me",
+            "player.videos.vidto.me",
+            "www4.2giga.link",
+            "www49.playercdn.net"
         ]
     }
 }
