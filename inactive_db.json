@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/ZeroDot1_CoinBlockerLists_browser/domains.list": {
-        "1552091492": [
+        "1552256401": [
             "1beb2a44.space",
             "1q2w3.fun",
             "2ledhenone.com",
@@ -49,6 +49,7 @@
             "api.sumo.hashvault.pro",
             "api.sumokoin.hashvault.pro",
             "as.cfcnet.top",
+            "as1.cfcnet.gdn",
             "aservices.party",
             "aster18prx.nl",
             "asvoxod.ru",
@@ -77,10 +78,10 @@
             "cdn.streambeam.io",
             "cdnfile.xyz",
             "certificates.freecontent.win",
+            "cfcnet.gdn",
             "chainblock.science",
             "charlie.noblock.pro",
             "cliggi.download",
-            "clod.pw",
             "cm1.xmrminingproxy.com",
             "cndhit.xyz",
             "cnt.statistic.date",
@@ -99,6 +100,7 @@
             "cvp7.asvoxod.ru",
             "cvp8.asvoxod.ru",
             "d-ns.ga",
+            "d.cfcnet.gdn",
             "d.cfcnet.top",
             "darking05.tk",
             "dataservices.download",
@@ -126,6 +128,8 @@
             "etnpool.minekitten.io",
             "eu.cfcnet.top",
             "eu.hatevery.info",
+            "eu1.cfcnet.gdn",
+            "eu2.cfcnet.gdn",
             "explorer.jsecoin.com",
             "fatisin.ru",
             "ffinwwfpqi.gq",
@@ -197,6 +201,7 @@
             "new.minr.pw",
             "ningtoldrop.ru",
             "nitsche.top",
+            "node.cfcdist.gdn",
             "norespar.ru",
             "ns.hws.ru",
             "ns0.freecontent.com",
@@ -220,7 +225,9 @@
             "play.go.cloot.ga",
             "play.intellecthosting.net",
             "play.mnr.dorama.site",
-            "play.play.estream.nu",
+            "play.play.estream.nu"
+        ],
+        "to_test": [
             "play.play1.videos.videos.vidto.me",
             "play.s01.vidtod.me",
             "play.s01.vidtodo.pro",
@@ -229,6 +236,8 @@
             "play.video.estream.nu",
             "play.videos.videos.vidto.me",
             "play.www.intellecthosting.net",
+            "play1.videos.videos.vidto.me",
+            "player.videos.vidto.me",
             "plexcoin.info",
             "pool.cloudcoins.co",
             "pool.coinimp.com",
@@ -1084,6 +1093,8 @@
             "www.zndaowjdnf.stream",
             "www.zona.plus",
             "www.zzqhsrg.ru",
+            "www4.2giga.link",
+            "www49.playercdn.net",
             "x.browsermine.com",
             "xmr.coinlab.biz",
             "xmr.cryptonoter.com",
@@ -1093,12 +1104,6 @@
             "xsecurity.fblaster.com",
             "zjemch.ru",
             "zxc1-ustokyyneikyfasnm.stackpathdns.com"
-        ],
-        "to_test": [
-            "play1.videos.videos.vidto.me",
-            "player.videos.vidto.me",
-            "www4.2giga.link",
-            "www49.playercdn.net"
         ]
     }
 }
