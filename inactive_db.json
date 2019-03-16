@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/ZeroDot1_CoinBlockerLists_browser/domains.list": {
-        "1552603410": [
+        "1552775873": [
             "1beb2a44.space",
             "1q2w3.fun",
             "2ledhenone.com",
@@ -17,12 +17,12 @@
             "ablen02.tk",
             "ablen04.tk",
             "ablen12.tk",
-            "ad.g-content.bid",
             "ad.jsecoin.com",
             "adrenali.gq",
             "aeros03.tk",
             "aeros04.tk",
             "aeros05.tk",
+            "aeros06.tk",
             "aeros07.tk",
             "aeros09.tk",
             "aeros10.tk",
@@ -86,6 +86,8 @@
             "cfcnet.gdn",
             "chainblock.science",
             "charlie.noblock.pro",
+            "clickandbuy.review",
+            "clickandbuy.win",
             "cliggi.download",
             "cm1.xmrminingproxy.com",
             "cndhit.xyz",
@@ -147,7 +149,6 @@
             "ftp.coinlab.biz",
             "ftp.directprimal.com",
             "ftp.freecontent.info",
-            "g-content.bid",
             "gasolina.ml",
             "gate.hws.ru",
             "get.webxmr.com",
@@ -230,7 +231,10 @@
             "play.go.cloot.ga",
             "play.intellecthosting.net",
             "play.mnr.dorama.site",
-            "play.play.estream.nu",
+            "play.play.estream.nu"
+        ],
+        "to_test": [
+            "play.play1.videos.videos.vidto.me",
             "play.s01.vidtod.me",
             "play.s01.vidtodo.pro",
             "play.s02.vidtod.me",
@@ -238,6 +242,8 @@
             "play.video.estream.nu",
             "play.videos.videos.vidto.me",
             "play.www.intellecthosting.net",
+            "play1.videos.videos.vidto.me",
+            "player.videos.vidto.me",
             "plexcoin.info",
             "pool.cloudcoins.co",
             "pool.coinimp.com",
@@ -1107,6 +1113,8 @@
             "www.zndaowjdnf.stream",
             "www.zona.plus",
             "www.zzqhsrg.ru",
+            "www4.2giga.link",
+            "www49.playercdn.net",
             "x.browsermine.com",
             "xmr.coinlab.biz",
             "xmr.cryptonoter.com",
@@ -1116,13 +1124,6 @@
             "xsecurity.fblaster.com",
             "zjemch.ru",
             "zxc1-ustokyyneikyfasnm.stackpathdns.com"
-        ],
-        "to_test": [
-            "play.play1.videos.videos.vidto.me",
-            "play1.videos.videos.vidto.me",
-            "player.videos.vidto.me",
-            "www4.2giga.link",
-            "www49.playercdn.net"
         ]
     }
 }
