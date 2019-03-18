@@ -231,9 +231,7 @@
             "play.estream.nu",
             "play.go.cloot.ga",
             "play.intellecthosting.net",
-            "play.mnr.dorama.site"
-        ],
-        "to_test": [
+            "play.mnr.dorama.site",
             "play.play.estream.nu",
             "play.play1.videos.videos.vidto.me",
             "play.s01.vidtod.me",
@@ -243,8 +241,6 @@
             "play.video.estream.nu",
             "play.videos.videos.vidto.me",
             "play.www.intellecthosting.net",
-            "play1.videos.videos.vidto.me",
-            "player.videos.vidto.me",
             "plexcoin.info",
             "pool.cloudcoins.co",
             "pool.coinimp.com",
@@ -619,7 +615,6 @@
             "www.berateveng.ru",
             "www.berserkpl.net.pl",
             "www.besstahete.info",
-            "www.bestcoinsignals.com",
             "www.bewaslac.com",
             "www.bewhoyouare.gq",
             "www.bezoglasa.online",
@@ -779,7 +774,11 @@
             "www.igdxzzeglrlqm.ru",
             "www.ihdvilappuxpgiv.ru",
             "www.iisl7wpf.me",
-            "www.imhvlhaelvvbrq.ru",
+            "www.imhvlhaelvvbrq.ru"
+        ],
+        "to_test": [
+            "play1.videos.videos.vidto.me",
+            "player.videos.vidto.me",
             "www.ingorob.com",
             "www.ininmacerad.pro",
             "www.insdrbot.com",
