@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/ZeroDot1_CoinBlockerLists_browser/domains.list": {
-        "1552775873": [
+        "1552949585": [
             "1beb2a44.space",
             "1q2w3.fun",
             "2ledhenone.com",
@@ -111,6 +111,7 @@
             "d.cfcnet.gdn",
             "d.cfcnet.top",
             "darking05.tk",
+            "datasecu.download",
             "dataservices.download",
             "demo.webxmr.com",
             "depttake.ga",
@@ -230,8 +231,11 @@
             "play.estream.nu",
             "play.go.cloot.ga",
             "play.intellecthosting.net",
-            "play.mnr.dorama.site",
+            "play.mnr.dorama.site"
+        ],
+        "to_test": [
             "play.play.estream.nu",
+            "play.play1.videos.videos.vidto.me",
             "play.s01.vidtod.me",
             "play.s01.vidtodo.pro",
             "play.s02.vidtod.me",
@@ -239,6 +243,8 @@
             "play.video.estream.nu",
             "play.videos.videos.vidto.me",
             "play.www.intellecthosting.net",
+            "play1.videos.videos.vidto.me",
+            "player.videos.vidto.me",
             "plexcoin.info",
             "pool.cloudcoins.co",
             "pool.coinimp.com",
@@ -1106,6 +1112,8 @@
             "www.zndaowjdnf.stream",
             "www.zona.plus",
             "www.zzqhsrg.ru",
+            "www4.2giga.link",
+            "www49.playercdn.net",
             "x.browsermine.com",
             "xmr.coinlab.biz",
             "xmr.cryptonoter.com",
@@ -1115,13 +1123,6 @@
             "xsecurity.fblaster.com",
             "zjemch.ru",
             "zxc1-ustokyyneikyfasnm.stackpathdns.com"
-        ],
-        "to_test": [
-            "play.play1.videos.videos.vidto.me",
-            "play1.videos.videos.vidto.me",
-            "player.videos.vidto.me",
-            "www4.2giga.link",
-            "www49.playercdn.net"
         ]
     }
 }
