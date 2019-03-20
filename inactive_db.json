@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/ZeroDot1_CoinBlockerLists_browser/domains.list": {
-        "1552949585": [
+        "1553121302": [
             "1beb2a44.space",
             "1q2w3.fun",
             "2ledhenone.com",
@@ -71,6 +71,7 @@
             "carrel.services",
             "cd.freecontent.win",
             "cdjs.online",
+            "cdn-code.host",
             "cdn-jquery.host",
             "cdn.adless.io",
             "cdn.ajcryptominer.com",
@@ -166,7 +167,6 @@
             "hostingcloud.review",
             "img.jsecoin.com",
             "intactoffers.club",
-            "interestingz.pw",
             "jasmine.noblock.pro",
             "jquery-uim.download",
             "js.ftp0118.info",
@@ -220,9 +220,6 @@
             "okeyletsgo.ml",
             "open-hive-server-1.pp.ua",
             "p.tidafors.xyz",
-            "p1.interestingz.pw",
-            "p2.interestingz.pw",
-            "p3.interestingz.pw",
             "pan.whathyx.com",
             "pascal3.science",
             "pasoherb.gq",
@@ -231,7 +228,9 @@
             "play.estream.nu",
             "play.go.cloot.ga",
             "play.intellecthosting.net",
-            "play.mnr.dorama.site",
+            "play.mnr.dorama.site"
+        ],
+        "to_test": [
             "play.play.estream.nu",
             "play.play1.videos.videos.vidto.me",
             "play.s01.vidtod.me",
@@ -241,6 +240,8 @@
             "play.video.estream.nu",
             "play.videos.videos.vidto.me",
             "play.www.intellecthosting.net",
+            "play1.videos.videos.vidto.me",
+            "player.videos.vidto.me",
             "plexcoin.info",
             "pool.cloudcoins.co",
             "pool.coinimp.com",
@@ -1108,6 +1109,8 @@
             "www.zndaowjdnf.stream",
             "www.zona.plus",
             "www.zzqhsrg.ru",
+            "www4.2giga.link",
+            "www49.playercdn.net",
             "x.browsermine.com",
             "xmr.coinlab.biz",
             "xmr.cryptonoter.com",
@@ -1117,12 +1120,6 @@
             "xsecurity.fblaster.com",
             "zjemch.ru",
             "zxc1-ustokyyneikyfasnm.stackpathdns.com"
-        ],
-        "to_test": [
-            "play1.videos.videos.vidto.me",
-            "player.videos.vidto.me",
-            "www4.2giga.link",
-            "www49.playercdn.net"
         ]
     }
 }

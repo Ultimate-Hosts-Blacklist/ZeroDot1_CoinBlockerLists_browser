@@ -1641,9 +1641,9 @@
             "state": "past"
         },
         "jurtym.cf": {
-            "epoch": "1546560000",
-            "expiration_date": "04-jan-2019",
-            "state": "past"
+            "epoch": "1578096000",
+            "expiration_date": "04-jan-2020",
+            "state": "future"
         },
         "juststatic.info": {
             "epoch": "1560297600",
@@ -1966,8 +1966,8 @@
             "state": "future"
         },
         "munero.me": {
-            "epoch": "1552953600",
-            "expiration_date": "19-mar-2019",
+            "epoch": "1584576000",
+            "expiration_date": "19-mar-2020",
             "state": "future"
         },
         "mutuza.win": {
