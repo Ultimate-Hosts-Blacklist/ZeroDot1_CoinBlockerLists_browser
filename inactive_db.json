@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/ZeroDot1_CoinBlockerLists_browser/domains.list": {
-        "1553293905": [
+        "1553466436": [
             "1beb2a44.space",
             "1q2w3.fun",
             "2ledhenone.com",
@@ -73,7 +73,6 @@
             "cdjs.online",
             "cdn-code.host",
             "cdn-jquery.host",
-            "cdn.adless.io",
             "cdn.ajcryptominer.com",
             "cdn.cloudcoins.co",
             "cdn.cookiescript.info",
@@ -148,6 +147,7 @@
             "files.fortrader.ru",
             "flighty.win",
             "freecontent.download",
+            "fruitice.realnetwrk.com",
             "ftp.coinlab.biz",
             "ftp.directprimal.com",
             "ftp.freecontent.info",
@@ -230,13 +230,18 @@
             "play.intellecthosting.net",
             "play.mnr.dorama.site",
             "play.play.estream.nu",
+            "play.play1.videos.videos.vidto.me",
             "play.s01.vidtod.me",
             "play.s01.vidtodo.pro",
-            "play.s02.vidtod.me",
+            "play.s02.vidtod.me"
+        ],
+        "to_test": [
             "play.vb.wearesaudis.net",
             "play.video.estream.nu",
             "play.videos.videos.vidto.me",
             "play.www.intellecthosting.net",
+            "play1.videos.videos.vidto.me",
+            "player.videos.vidto.me",
             "plexcoin.info",
             "pon.ewtuyytdf45.com",
             "pool.cloudcoins.co",
@@ -1109,6 +1114,8 @@
             "www.zndaowjdnf.stream",
             "www.zona.plus",
             "www.zzqhsrg.ru",
+            "www4.2giga.link",
+            "www49.playercdn.net",
             "x.browsermine.com",
             "xmr.coinlab.biz",
             "xmr.cryptonoter.com",
@@ -1118,13 +1125,6 @@
             "xsecurity.fblaster.com",
             "zjemch.ru",
             "zxc1-ustokyyneikyfasnm.stackpathdns.com"
-        ],
-        "to_test": [
-            "play.play1.videos.videos.vidto.me",
-            "play1.videos.videos.vidto.me",
-            "player.videos.vidto.me",
-            "www4.2giga.link",
-            "www49.playercdn.net"
         ]
     }
 }
