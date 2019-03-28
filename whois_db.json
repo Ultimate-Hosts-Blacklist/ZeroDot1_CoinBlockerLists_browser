@@ -891,8 +891,8 @@
             "state": "future"
         },
         "encoding.ovh": {
-            "epoch": "1553644800",
-            "expiration_date": "27-mar-2019",
+            "epoch": "1585267200",
+            "expiration_date": "27-mar-2020",
             "state": "future"
         },
         "enjoyableoffers.club": {
@@ -933,6 +933,11 @@
         "etzbnfuigipwvs.ru": {
             "epoch": "1553817600",
             "expiration_date": "29-mar-2019",
+            "state": "future"
+        },
+        "eu.cf": {
+            "epoch": "1714867200",
+            "expiration_date": "05-may-2024",
             "state": "future"
         },
         "eucsoft.com": {
@@ -1983,7 +1988,7 @@
         "msg-2.me": {
             "epoch": "1553731200",
             "expiration_date": "28-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "munero.me": {
             "epoch": "1584576000",
