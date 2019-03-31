@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/ZeroDot1_CoinBlockerLists_browser/domains.list": {
-        "1553898971": [
+        "1554071900": [
             "1beb2a44.space",
             "1q2w3.fun",
             "2giga.do",
@@ -104,7 +104,6 @@
             "certificates.freecontent.win",
             "cfcdist.gd",
             "cfcdist.gdn",
-            "cfceu.duckdns.org",
             "cfcnet.gdn",
             "chainblock.sc",
             "chainblock.science",
@@ -113,7 +112,6 @@
             "clickandbuy.win",
             "clickwith.bi",
             "cliggi.download",
-            "clod.pw",
             "cloudcdn.gd",
             "cm1.xmrminingproxy.com",
             "cndhit.xyz",
@@ -226,7 +224,6 @@
             "intactoffers.cl",
             "intactoffers.club",
             "jasmine.noblock.pro",
-            "jhondi33.duckdns.org",
             "jqassets.do",
             "jqcdn.do",
             "jqrcdn.do",
@@ -342,7 +339,9 @@
             "perrege.ru",
             "play.estream.nu",
             "play.go.cloot.ga",
-            "play.intellecthosting.net",
+            "play.intellecthosting.net"
+        ],
+        "to_test": [
             "play.mnr.dorama.site",
             "play.play.es",
             "play.play.estream.nu",
@@ -355,6 +354,8 @@
             "play.video.estream.nu",
             "play.videos.videos.vidto.me",
             "play.www.intellecthosting.net",
+            "play1.videos.videos.vidto.me",
+            "player.videos.vidto.me",
             "plexcoin.info",
             "pon.ewtuyytdf45.com",
             "pool.cloudcoins.co",
@@ -1367,6 +1368,8 @@
             "www.zymerget.pa",
             "www.zymerget.st",
             "www.zzqhsrg.ru",
+            "www4.2giga.link",
+            "www49.playercdn.net",
             "x.browsermine.com",
             "xmr.co",
             "xmr.coinlab.biz",
@@ -1386,12 +1389,6 @@
             "zymerget.pa",
             "zymerget.st",
             "zzqhsrg.ru"
-        ],
-        "to_test": [
-            "play1.videos.videos.vidto.me",
-            "player.videos.vidto.me",
-            "www4.2giga.link",
-            "www49.playercdn.net"
         ]
     }
 }
