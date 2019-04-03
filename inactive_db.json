@@ -758,9 +758,7 @@
             "www.ablen02.tk",
             "www.ablen04.tk",
             "www.ablen12.tk",
-            "www.adrenali.gq"
-        ],
-        "to_test": [
+            "www.adrenali.gq",
             "www.aeros03.tk",
             "www.aeros04.tk",
             "www.aeros05.tk",
@@ -838,7 +836,6 @@
             "www.cdnfile.xyz",
             "www.certificates.freecontent.win",
             "www.cfcdist.gd",
-            "www.cfcdist.gdn",
             "www.cfcnet.gdn",
             "www.cfcnet.top",
             "www.ch.browsermine.com",
@@ -892,7 +889,6 @@
             "www.datasecu.do",
             "www.datasecu.download",
             "www.dataservices.download",
-            "www.de-mi-nis-ner.info",
             "www.de-mi-nis-ner2.info",
             "www.de-ner-mi-nis4.info",
             "www.de-nis-ner-mi-5.info",
@@ -922,7 +918,6 @@
             "www.eflbruwqt.ru",
             "www.enjoyableoffers.club",
             "www.ermaseuc.ru",
-            "www.etacontent.com",
             "www.etlrsq.ru",
             "www.etn.spacepools.org",
             "www.etzbnfuigipwvs.ru",
@@ -1079,6 +1074,7 @@
             "www.minr.browsermine.com",
             "www.minr.pw",
             "www.mlib.browsermine.com",
+            "www.mmpool.org",
             "www.moneone.ga",
             "www.monero.crypto-pool.fr",
             "www.monerominer.ro",
@@ -1215,6 +1211,7 @@
             "www.ugmfvqsu.ru",
             "www.ullnot.download",
             "www.ulnawoyyzbljc.ru",
+            "www.unrummaged.com",
             "www.uoldid.ru",
             "www.us.cf",
             "www.uzljra.ru",
@@ -1369,8 +1366,6 @@
             "www.zymerget.pa",
             "www.zymerget.st",
             "www.zzqhsrg.ru",
-            "www4.2giga.link",
-            "www49.playercdn.net",
             "x.browsermine.com",
             "xmr.co",
             "xmr.coinlab.biz",
@@ -1390,6 +1385,10 @@
             "zymerget.pa",
             "zymerget.st",
             "zzqhsrg.ru"
+        ],
+        "to_test": [
+            "www4.2giga.link",
+            "www49.playercdn.net"
         ]
     }
 }
