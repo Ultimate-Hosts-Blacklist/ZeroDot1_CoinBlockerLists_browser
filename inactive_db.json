@@ -381,9 +381,7 @@
             "proxy-gbr-2.inf.nimiq.net",
             "proxy-pol-1.inf.nimiq.net",
             "proxy-pol-2.inf.nimiq.net",
-            "proxy.ajcryptominer.com"
-        ],
-        "to_test": [
+            "proxy.ajcryptominer.com",
             "reservedoffers.cl",
             "reservedoffers.club",
             "rock.cryptoloot.pro",
@@ -456,6 +454,7 @@
             "seed-pol-3.inf.nimiq.net",
             "seed-pol-4.inf.nimiq.net",
             "sen-to-zdrowie.ml",
+            "shannon.nimiqpool.com",
             "silver.crypto.csgocpu.com",
             "site.freecontent.com",
             "siteverification.site",
@@ -483,6 +482,7 @@
             "testnet.webxmr.com",
             "tgtvbngp.ru",
             "thathislitt.ru",
+            "tokomaru.nimiqpool.com",
             "ullnot.download",
             "ulnawoyyzbljc.ru",
             "us.cf",
@@ -511,6 +511,7 @@
             "webassembly.st",
             "webdisk.monerominer.rocks",
             "webmail.monerominer.rocks",
+            "whanganui.nimiqpool.com",
             "whchsvlxch.site",
             "whysoserius.cl",
             "wijzeman.sbhmn-miner.com",
@@ -756,7 +757,9 @@
             "www.6tsbe1zs.me",
             "www.8jd2lfsq.me",
             "www.aalbbh84.info",
-            "www.ablen02.tk",
+            "www.ablen02.tk"
+        ],
+        "to_test": [
             "www.ablen04.tk",
             "www.ablen12.tk",
             "www.adrenali.gq",
