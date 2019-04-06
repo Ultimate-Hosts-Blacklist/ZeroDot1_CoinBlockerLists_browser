@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/ZeroDot1_CoinBlockerLists_browser/domains.list": {
-        "1554417667": [
+        "1554590469": [
             "1beb2a44.space",
             "1q2w3.fun",
             "2giga.do",
@@ -110,7 +110,6 @@
             "clickandbuy.review",
             "clickandbuy.win",
             "clickwith.bi",
-            "clickwith.date",
             "cliggi.download",
             "cloudcdn.gd",
             "cm1.xmrminingproxy.com",
@@ -150,12 +149,6 @@
             "djfhwosjck.bi",
             "dle-news.pw",
             "dmg.crypto.csgocpu.com",
-            "doubleclick1.xyz",
-            "doubleclick2.xyz",
-            "doubleclick3.xyz",
-            "doubleclick4.xyz",
-            "doubleclick5.xyz",
-            "doubleclick6.xyz",
             "dronml.ml",
             "drupalupdates.tk",
             "dubester.si",
@@ -335,6 +328,9 @@
             "okeyletsgo.ml",
             "open-hive-server-1.pp.ua",
             "p.tidafors.xyz",
+            "p1.assetscdn.stream",
+            "p2.assetscdn.stream",
+            "p3.assetscdn.stream",
             "pan.whathyx.com",
             "pascal3.science",
             "pasoherb.gq",
@@ -398,7 +394,9 @@
             "s2.appelamule.com",
             "s2.hqq.tv",
             "s2.play.estream.nu",
-            "s2.play1.videos.videos.vidto.me",
+            "s2.play1.videos.videos.vidto.me"
+        ],
+        "to_test": [
             "s2.video.estream.nu",
             "s2.videos.videos.vidto.me",
             "s2.vidtod.me",
@@ -1368,6 +1366,8 @@
             "www.zymerget.pa",
             "www.zymerget.st",
             "www.zzqhsrg.ru",
+            "www4.2giga.link",
+            "www49.playercdn.net",
             "x.browsermine.com",
             "xmr.co",
             "xmr.coinlab.biz",
@@ -1387,10 +1387,6 @@
             "zymerget.pa",
             "zymerget.st",
             "zzqhsrg.ru"
-        ],
-        "to_test": [
-            "www4.2giga.link",
-            "www49.playercdn.net"
         ]
     }
 }
