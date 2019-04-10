@@ -619,16 +619,7 @@
             "ws025-proxy-ajcryptominer.ajplugins.com",
             "ws025.ws.tidafors.xyz",
             "ws025.www.datasecu.download",
-            "ws026-proxy-ajcryptominer.ajplugins.com"
-        ],
-        "to_test": [
-            "play1.videos.videos.vidto.me",
-            "player.videos.vidto.me",
-            "ws026.ws.tidafors.xyz",
-            "ws026.www.datasecu.download",
-            "ws027-proxy-ajcryptominer.ajplugins.com",
-            "ws027.ws.tidafors.xyz",
-            "ws027.www.datasecu.download",
+            "ws026-proxy-ajcryptominer.ajplugins.com",
             "ws028-proxy-ajcryptominer.ajplugins.com",
             "ws028.ws.tidafors.xyz",
             "ws028.www.datasecu.download",
@@ -1415,6 +1406,15 @@
             "zymerget.pa",
             "zymerget.st",
             "zzqhsrg.ru"
+        ],
+        "to_test": [
+            "play1.videos.videos.vidto.me",
+            "player.videos.vidto.me",
+            "ws026.ws.tidafors.xyz",
+            "ws026.www.datasecu.download",
+            "ws027-proxy-ajcryptominer.ajplugins.com",
+            "ws027.ws.tidafors.xyz",
+            "ws027.www.datasecu.download"
         ]
     }
 }
