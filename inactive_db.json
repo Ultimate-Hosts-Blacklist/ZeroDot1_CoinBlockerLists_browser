@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/ZeroDot1_CoinBlockerLists_browser/domains.list": {
-        "1554763179": [
+        "1554935787": [
             "1beb2a44.space",
             "1q2w3.fun",
             "2giga.do",
@@ -65,7 +65,6 @@
             "as1.cfcnet.gdn",
             "aservices.pa",
             "aservices.party",
-            "assetscdn.stream",
             "aster18prx.nl",
             "asvoxod.ru",
             "audioknigi.cl",
@@ -112,12 +111,9 @@
             "chainblock.sc",
             "chainblock.science",
             "charlie.noblock.pro",
-            "chmproxy.bid",
             "clickandbuy.review",
             "clickandbuy.win",
             "clickwith.bi",
-            "clickwith.bid",
-            "clickwith.date",
             "cliggi.download",
             "cloudcdn.gd",
             "cm1.xmrminingproxy.com",
@@ -170,7 +166,6 @@
             "etzbnfuigipwvs.ru",
             "eu.cfcnet.to",
             "eu.cfcnet.top",
-            "eu.hatevery.info",
             "eu1.cfcnet.gdn",
             "eu2.cfcnet.gdn",
             "explorer.jsecoin.com",
@@ -238,7 +233,6 @@
             "jqrcdn.do",
             "jquerrycdn.do",
             "jquery-cdn.do",
-            "jquery-cdn.download",
             "jquery-uim.do",
             "jquery-uim.download",
             "jqwww.do",
@@ -371,8 +365,12 @@
             "play.vb.wearesaudis.net",
             "play.video.estream.nu",
             "play.videos.videos.vidto.me",
-            "play.www.intellecthosting.net",
+            "play.www.intellecthosting.net"
+        ],
+        "to_test": [
             "play.yo.onvid.cl",
+            "play1.videos.videos.vidto.me",
+            "player.videos.vidto.me",
             "plexcoin.info",
             "pon.ewtuyytdf45.com",
             "pool.cloudcoins.co",
@@ -620,6 +618,11 @@
             "ws023.ws.tidafors.xyz",
             "ws023.www.datasecu.download",
             "ws024-proxy-ajcryptominer.ajplugins.com",
+            "ws024.ws.tidafors.xyz",
+            "ws024.www.datasecu.download",
+            "ws025-proxy-ajcryptominer.ajplugins.com",
+            "ws025.ws.tidafors.xyz",
+            "ws025.www.datasecu.download",
             "ws026-proxy-ajcryptominer.ajplugins.com",
             "ws026.ws.tidafors.xyz",
             "ws026.www.datasecu.download",
@@ -1412,15 +1415,6 @@
             "zymerget.pa",
             "zymerget.st",
             "zzqhsrg.ru"
-        ],
-        "to_test": [
-            "play1.videos.videos.vidto.me",
-            "player.videos.vidto.me",
-            "ws024.ws.tidafors.xyz",
-            "ws024.www.datasecu.download",
-            "ws025-proxy-ajcryptominer.ajplugins.com",
-            "ws025.ws.tidafors.xyz",
-            "ws025.www.datasecu.download"
         ]
     }
 }
