@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/ZeroDot1_CoinBlockerLists_browser/domains.list": {
-        "1554935787": [
+        "1555109492": [
             "1beb2a44.space",
             "1q2w3.fun",
             "2giga.do",
@@ -65,6 +65,7 @@
             "as1.cfcnet.gdn",
             "aservices.pa",
             "aservices.party",
+            "assetscdn.stream",
             "aster18prx.nl",
             "asvoxod.ru",
             "audioknigi.cl",
@@ -111,9 +112,12 @@
             "chainblock.sc",
             "chainblock.science",
             "charlie.noblock.pro",
+            "chmproxy.bid",
             "clickandbuy.review",
             "clickandbuy.win",
             "clickwith.bi",
+            "clickwith.bid",
+            "clickwith.date",
             "cliggi.download",
             "cloudcdn.gd",
             "cm1.xmrminingproxy.com",
@@ -233,6 +237,7 @@
             "jqrcdn.do",
             "jquerrycdn.do",
             "jquery-cdn.do",
+            "jquery-cdn.download",
             "jquery-uim.do",
             "jquery-uim.download",
             "jqwww.do",
@@ -314,7 +319,6 @@
             "moneone.ga",
             "monerominer.ro",
             "moscow05.electroneum.hashvault.pro",
-            "msdns.online",
             "mu",
             "mutuza.win",
             "my-retrospace.sbhmn-miner.com",
@@ -357,16 +361,23 @@
             "play.mnr.dorama.site",
             "play.play.es",
             "play.play.estream.nu",
+            "play.play.tainiesonline.pw",
             "play.play.tainiesonline.st",
             "play.play1.videos.videos.vidto.me",
+            "play.power.tainiesonline.pw",
             "play.s01.vidtod.me",
             "play.s01.vidtodo.pro",
             "play.s02.vidtod.me",
+            "play.tainiesonline.pw",
             "play.vb.wearesaudis.net",
             "play.video.estream.nu",
-            "play.videos.videos.vidto.me",
+            "play.videos.videos.vidto.me"
+        ],
+        "to_test": [
             "play.www.intellecthosting.net",
             "play.yo.onvid.cl",
+            "play1.videos.videos.vidto.me",
+            "player.videos.vidto.me",
             "plexcoin.info",
             "pon.ewtuyytdf45.com",
             "pool.cloudcoins.co",
@@ -620,6 +631,11 @@
             "ws025.ws.tidafors.xyz",
             "ws025.www.datasecu.download",
             "ws026-proxy-ajcryptominer.ajplugins.com",
+            "ws026.ws.tidafors.xyz",
+            "ws026.www.datasecu.download",
+            "ws027-proxy-ajcryptominer.ajplugins.com",
+            "ws027.ws.tidafors.xyz",
+            "ws027.www.datasecu.download",
             "ws028-proxy-ajcryptominer.ajplugins.com",
             "ws028.ws.tidafors.xyz",
             "ws028.www.datasecu.download",
@@ -1406,15 +1422,6 @@
             "zymerget.pa",
             "zymerget.st",
             "zzqhsrg.ru"
-        ],
-        "to_test": [
-            "play1.videos.videos.vidto.me",
-            "player.videos.vidto.me",
-            "ws026.ws.tidafors.xyz",
-            "ws026.www.datasecu.download",
-            "ws027-proxy-ajcryptominer.ajplugins.com",
-            "ws027.ws.tidafors.xyz",
-            "ws027.www.datasecu.download"
         ]
     }
 }
