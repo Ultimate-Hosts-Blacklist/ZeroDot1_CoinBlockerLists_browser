@@ -620,16 +620,7 @@
             "ws022-proxy-ajcryptominer.ajplugins.com",
             "ws022.ws.tidafors.xyz",
             "ws022.www.datasecu.download",
-            "ws023-proxy-ajcryptominer.ajplugins.com"
-        ],
-        "to_test": [
-            "play1.videos.videos.vidto.me",
-            "player.videos.vidto.me",
-            "ws023.ws.tidafors.xyz",
-            "ws023.www.datasecu.download",
-            "ws024-proxy-ajcryptominer.ajplugins.com",
-            "ws024.ws.tidafors.xyz",
-            "ws024.www.datasecu.download",
+            "ws023-proxy-ajcryptominer.ajplugins.com",
             "ws025-proxy-ajcryptominer.ajplugins.com",
             "ws025.ws.tidafors.xyz",
             "ws025.www.datasecu.download",
@@ -901,6 +892,7 @@
             "www.coinhiver.com",
             "www.coinhove.com",
             "www.coinhub.win",
+            "www.coinimp.com",
             "www.coinlab.biz",
             "www.coinrail.io",
             "www.colnhive.com",
@@ -981,7 +973,6 @@
             "www.freecontent.st",
             "www.freecontent.tr",
             "www.freecontent.win",
-            "www.freshrefresher.com",
             "www.freshrefreshnerer186.info",
             "www.freshrefreshnerer186rb.info",
             "www.fruitice.realnetwrk.com",
@@ -1223,6 +1214,7 @@
             "www.superbay.li",
             "www.svivqrhrh.ru",
             "www.synconnector.com",
+            "www.tainiesonline.pw",
             "www.tainiesonline.stream",
             "www.tazm9p7tso.trade",
             "www.template-download.to",
@@ -1270,7 +1262,6 @@
             "www.wallet.brominer.com",
             "www.wasm24.ru",
             "www.webassembly.st",
-            "www.webxmr.com",
             "www.wemine.pro",
             "www.whathyx.com",
             "www.whchsvlxch.site",
@@ -1425,6 +1416,15 @@
             "zymerget.pa",
             "zymerget.st",
             "zzqhsrg.ru"
+        ],
+        "to_test": [
+            "play1.videos.videos.vidto.me",
+            "player.videos.vidto.me",
+            "ws023.ws.tidafors.xyz",
+            "ws023.www.datasecu.download",
+            "ws024-proxy-ajcryptominer.ajplugins.com",
+            "ws024.ws.tidafors.xyz",
+            "ws024.www.datasecu.download"
         ]
     }
 }
