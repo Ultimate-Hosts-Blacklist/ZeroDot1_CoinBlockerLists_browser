@@ -367,12 +367,8 @@
             "play.vb.wearesaudis.net",
             "play.video.estream.nu",
             "play.videos.videos.vidto.me",
-            "play.www.intellecthosting.net"
-        ],
-        "to_test": [
+            "play.www.intellecthosting.net",
             "play.yo.onvid.cl",
-            "play1.videos.videos.vidto.me",
-            "player.videos.vidto.me",
             "plexcoin.info",
             "pon.ewtuyytdf45.com",
             "pool.cloudcoins.co",
@@ -625,7 +621,11 @@
             "ws024-proxy-ajcryptominer.ajplugins.com",
             "ws024.ws.tidafors.xyz",
             "ws024.www.datasecu.download",
-            "ws025-proxy-ajcryptominer.ajplugins.com",
+            "ws025-proxy-ajcryptominer.ajplugins.com"
+        ],
+        "to_test": [
+            "play1.videos.videos.vidto.me",
+            "player.videos.vidto.me",
             "ws025.ws.tidafors.xyz",
             "ws025.www.datasecu.download",
             "ws026-proxy-ajcryptominer.ajplugins.com",
