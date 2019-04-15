@@ -621,16 +621,7 @@
             "ws024-proxy-ajcryptominer.ajplugins.com",
             "ws024.ws.tidafors.xyz",
             "ws024.www.datasecu.download",
-            "ws025-proxy-ajcryptominer.ajplugins.com"
-        ],
-        "to_test": [
-            "play1.videos.videos.vidto.me",
-            "player.videos.vidto.me",
-            "ws025.ws.tidafors.xyz",
-            "ws025.www.datasecu.download",
-            "ws026-proxy-ajcryptominer.ajplugins.com",
-            "ws026.ws.tidafors.xyz",
-            "ws026.www.datasecu.download",
+            "ws025-proxy-ajcryptominer.ajplugins.com",
             "ws027-proxy-ajcryptominer.ajplugins.com",
             "ws027.ws.tidafors.xyz",
             "ws027.www.datasecu.download",
@@ -865,6 +856,7 @@
             "www.cdncounter.top",
             "www.cdnfile.xyz",
             "www.certificates.freecontent.win",
+            "www.cfcd.duckdns.org",
             "www.cfcdist.gd",
             "www.cfcnet.gdn",
             "www.cfcnet.top",
@@ -896,7 +888,6 @@
             "www.coinhiver.com",
             "www.coinhove.com",
             "www.coinhub.win",
-            "www.coinimp.com",
             "www.coinlab.biz",
             "www.coinrail.io",
             "www.colnhive.com",
@@ -1189,6 +1180,7 @@
             "www.ruvuryua.ru",
             "www.salamaleyum.com",
             "www.seasonaloffers.club",
+            "www.secumine.net",
             "www.sen-to-zdrowie.ml",
             "www.sentemanactri.com",
             "www.silimbompom.com",
@@ -1420,6 +1412,15 @@
             "zymerget.pa",
             "zymerget.st",
             "zzqhsrg.ru"
+        ],
+        "to_test": [
+            "play1.videos.videos.vidto.me",
+            "player.videos.vidto.me",
+            "ws025.ws.tidafors.xyz",
+            "ws025.www.datasecu.download",
+            "ws026-proxy-ajcryptominer.ajplugins.com",
+            "ws026.ws.tidafors.xyz",
+            "ws026.www.datasecu.download"
         ]
     }
 }
