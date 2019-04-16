@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/ZeroDot1_CoinBlockerLists_browser/domains.list": {
-        "1555281873": [
+        "1555455049": [
             "1beb2a44.space",
             "1q2w3.fun",
             "2giga.do",
@@ -65,6 +65,7 @@
             "as1.cfcnet.gdn",
             "aservices.pa",
             "aservices.party",
+            "aster18cdn.nl",
             "aster18prx.nl",
             "asvoxod.ru",
             "audioknigi.cl",
@@ -93,6 +94,7 @@
             "carrel.services",
             "ccvwtdtwyu.tr",
             "cd.freecontent.win",
+            "cdjchpojgifwc.ru",
             "cdjs.online",
             "cdn-jquery.host",
             "cdn.ajcryptominer.com",
@@ -100,7 +102,6 @@
             "cdn.cookiescript.info",
             "cdn.jquery-uim.do",
             "cdn.jquery-uim.download",
-            "cdn.minescripts.info",
             "cdn.static-cnt.bi",
             "cdn.static-cnt.bid",
             "cdn.streambeam.io",
@@ -160,8 +161,10 @@
             "earncoins.club",
             "edgeno.de",
             "eeme7j.win",
+            "eflbruwqt.ru",
             "enjoyableoffers.club",
             "ermaseuc.ru",
+            "etlrsq.ru",
             "etnpool.minekitten.io",
             "etzbnfuigipwvs.ru",
             "eu.cfcnet.to",
@@ -206,8 +209,8 @@
             "go2.mercy.ga",
             "goldnova.crypto.csgocpu.com",
             "gustaver.ddns.ne",
-            "hallaert.online",
             "hash.minexmr.stream",
+            "hbeuwgqt.ru",
             "himatangi.nimiqpool.com",
             "hiy.vidzi.tv",
             "hjnbvg.ru",
@@ -227,6 +230,7 @@
             "img.jsecoin.com",
             "intactoffers.cl",
             "intactoffers.club",
+            "irrrymucwxjl.ru",
             "jasmine.noblock.pro",
             "jqassets.do",
             "jqcdn.do",
@@ -258,6 +262,7 @@
             "lib.xmrm.pw",
             "livelyoffers.club",
             "losital.ru",
+            "ltstyov.ru",
             "m.anyfiles.ovh",
             "m.pr0gramm.com",
             "m2.cdn-jquery.host",
@@ -303,7 +308,6 @@
             "minercry.pt",
             "minexmr.st",
             "minr.browsermine.com",
-            "minr.pw",
             "mmfb2.ht",
             "mon-deu-1.inf.nimiq.net",
             "mon-deu-2.inf.nimiq.net",
@@ -346,6 +350,7 @@
             "pascal3.science",
             "pasoherb.gq",
             "pazl1.ru",
+            "pcejuyhjucmkiny.ru",
             "perrege.ru",
             "pirat2.cl",
             "piratbaypirate.li",
@@ -366,9 +371,13 @@
             "play.tainiesonline.pw",
             "play.vb.wearesaudis.net",
             "play.video.estream.nu",
-            "play.videos.videos.vidto.me",
+            "play.videos.videos.vidto.me"
+        ],
+        "to_test": [
             "play.www.intellecthosting.net",
             "play.yo.onvid.cl",
+            "play1.videos.videos.vidto.me",
+            "player.videos.vidto.me",
             "plexcoin.info",
             "pon.ewtuyytdf45.com",
             "pool.cloudcoins.co",
@@ -622,6 +631,11 @@
             "ws024.ws.tidafors.xyz",
             "ws024.www.datasecu.download",
             "ws025-proxy-ajcryptominer.ajplugins.com",
+            "ws025.ws.tidafors.xyz",
+            "ws025.www.datasecu.download",
+            "ws026-proxy-ajcryptominer.ajplugins.com",
+            "ws026.ws.tidafors.xyz",
+            "ws026.www.datasecu.download",
             "ws027-proxy-ajcryptominer.ajplugins.com",
             "ws027.ws.tidafors.xyz",
             "ws027.www.datasecu.download",
@@ -1412,15 +1426,6 @@
             "zymerget.pa",
             "zymerget.st",
             "zzqhsrg.ru"
-        ],
-        "to_test": [
-            "play1.videos.videos.vidto.me",
-            "player.videos.vidto.me",
-            "ws025.ws.tidafors.xyz",
-            "ws025.www.datasecu.download",
-            "ws026-proxy-ajcryptominer.ajplugins.com",
-            "ws026.ws.tidafors.xyz",
-            "ws026.www.datasecu.download"
         ]
     }
 }

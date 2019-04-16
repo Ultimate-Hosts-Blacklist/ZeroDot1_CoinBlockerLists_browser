@@ -1505,6 +1505,11 @@
             "expiration_date": "08-dec-2019",
             "state": "future"
         },
+        "hallaert.online": {
+            "epoch": "1586995200",
+            "expiration_date": "16-apr-2020",
+            "state": "future"
+        },
         "hashforcash.us": {
             "epoch": "1569628800",
             "expiration_date": "28-sep-2019",
@@ -2188,6 +2193,11 @@
         "mining711.com": {
             "epoch": "1583280000",
             "expiration_date": "04-mar-2020",
+            "state": "future"
+        },
+        "minr.pw": {
+            "epoch": "1586995200",
+            "expiration_date": "16-apr-2020",
             "state": "future"
         },
         "mmc.center": {
