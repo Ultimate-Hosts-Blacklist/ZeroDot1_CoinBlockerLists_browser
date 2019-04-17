@@ -631,16 +631,7 @@
             "ws024-proxy-ajcryptominer.ajplugins.com",
             "ws024.ws.tidafors.xyz",
             "ws024.www.datasecu.download",
-            "ws025-proxy-ajcryptominer.ajplugins.com"
-        ],
-        "to_test": [
-            "play1.videos.videos.vidto.me",
-            "player.videos.vidto.me",
-            "ws025.ws.tidafors.xyz",
-            "ws025.www.datasecu.download",
-            "ws026-proxy-ajcryptominer.ajplugins.com",
-            "ws026.ws.tidafors.xyz",
-            "ws026.www.datasecu.download",
+            "ws025-proxy-ajcryptominer.ajplugins.com",
             "ws027-proxy-ajcryptominer.ajplugins.com",
             "ws027.ws.tidafors.xyz",
             "ws027.www.datasecu.download",
@@ -1001,7 +992,6 @@
             "www.googleanalytcs.com",
             "www.gramombird.com",
             "www.gustaver.ddns.net",
-            "www.hallaert.online",
             "www.hatcalter.com",
             "www.hbeuwgqt.ru",
             "www.hegrinhar.com",
@@ -1100,11 +1090,9 @@
             "www.mighbest.si",
             "www.minekitten.io",
             "www.minercry.pt",
-            "www.minescripts.info",
             "www.minexmr.st",
             "www.mining711.com",
             "www.minr.browsermine.com",
-            "www.minr.pw",
             "www.mlib.browsermine.com",
             "www.mmfb2.ht",
             "www.mmpool.org",
@@ -1281,6 +1269,7 @@
             "www.whathyx.com",
             "www.whchsvlxch.site",
             "www.whysoserius.cl",
+            "www.whysoserius.club",
             "www.wildianing.ru",
             "www.willacrit.com",
             "www.witthethim.com",
@@ -1431,6 +1420,15 @@
             "zymerget.pa",
             "zymerget.st",
             "zzqhsrg.ru"
+        ],
+        "to_test": [
+            "play1.videos.videos.vidto.me",
+            "player.videos.vidto.me",
+            "ws025.ws.tidafors.xyz",
+            "ws025.www.datasecu.download",
+            "ws026-proxy-ajcryptominer.ajplugins.com",
+            "ws026.ws.tidafors.xyz",
+            "ws026.www.datasecu.download"
         ]
     }
 }
