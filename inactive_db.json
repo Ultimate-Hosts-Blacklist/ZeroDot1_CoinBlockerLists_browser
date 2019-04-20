@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/ZeroDot1_CoinBlockerLists_browser/domains.list": {
-        "1555670481": [
+        "1555799690": [
             "1beb2a44.space",
             "1q2w3.fun",
             "2giga.do",
@@ -106,7 +106,6 @@
             "cdn.static-cnt.bi",
             "cdn.static-cnt.bid",
             "cdn.streambeam.io",
-            "cdn1.pebx.pl",
             "cdnfile.xyz",
             "certificates.freecontent.win",
             "cfcdist.gd",
@@ -257,6 +256,7 @@
             "jshosting.science",
             "jshosting.st",
             "jshosting.tr",
+            "jssdk.beetv.net",
             "jurty.ml",
             "kdmkauchahynhrs.ru",
             "kippbeak.cf",
@@ -378,9 +378,13 @@
             "play.videos.videos.vidto.me",
             "play.www.intellecthosting.net",
             "play.yo.onvid.cl",
+            "play1.videos.videos.vidto.me",
+            "player.videos.vidto.me",
             "plexcoin.info",
             "pon.ewtuyytdf45.com",
-            "pool.cloudcoins.co",
+            "pool.cloudcoins.co"
+        ],
+        "to_test": [
             "pool.coinimp.com",
             "pool.coinlab.biz",
             "pool.coinrail.io",
@@ -666,6 +670,8 @@
             "ws1.370cabd5.space",
             "ws1.3c0cb3b4.space",
             "ws1.3d0cb547.space",
+            "ws1.minr.pw",
+            "ws1.stati.bid",
             "ws1.static-cnt.bid",
             "ws1.statistic.date",
             "ws2.1beb2a44.space",
@@ -1422,12 +1428,6 @@
             "zymerget.pa",
             "zymerget.st",
             "zzqhsrg.ru"
-        ],
-        "to_test": [
-            "play1.videos.videos.vidto.me",
-            "player.videos.vidto.me",
-            "ws1.minr.pw",
-            "ws1.stati.bid"
         ]
     }
 }
