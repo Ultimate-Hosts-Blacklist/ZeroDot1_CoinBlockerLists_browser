@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/ZeroDot1_CoinBlockerLists_browser/domains.list": {
-        "1555973301": [
+        "1556146213": [
             "1beb2a44.space",
             "1q2w3.fun",
             "2giga.do",
@@ -97,6 +97,7 @@
             "cd.freecontent.win",
             "cdjchpojgifwc.ru",
             "cdjs.online",
+            "cdn-code.host",
             "cdn-jquery.host",
             "cdn.ajcryptominer.com",
             "cdn.cloudcoins.co",
@@ -211,7 +212,6 @@
             "get.webxmr.com",
             "global.crypto.csgocpu.com",
             "go.megabanners.cf",
-            "go2.mercy.ga",
             "goldnova.crypto.csgocpu.com",
             "gustaver.ddns.ne",
             "hash.minexmr.stream",
@@ -280,7 +280,6 @@
             "main.minero.cc",
             "marcycoin.org",
             "megabanners.cf",
-            "mercy.ga",
             "mhiobjnirs.gq",
             "mighbest.si",
             "miner-1.team.nimiq.ag",
@@ -351,6 +350,7 @@
             "open-hive-server-1.pp.ua",
             "p.tidafors.xyz",
             "p1.assetscdn.stream",
+            "p1.gnrdomimplementation.com",
             "p2.assetscdn.stream",
             "p3.assetscdn.stream",
             "pan.whathyx.com",
@@ -366,6 +366,7 @@
             "play.estream.nu",
             "play.go.cloot.ga",
             "play.intellecthosting.net",
+            "play.istlandoll.com",
             "play.mnr.dorama.site",
             "play.play.es",
             "play.play.estream.nu",
@@ -381,7 +382,11 @@
             "play.video.estream.nu",
             "play.videos.videos.vidto.me",
             "play.www.intellecthosting.net",
-            "play.yo.onvid.cl",
+            "play.yo.onvid.cl"
+        ],
+        "to_test": [
+            "play1.videos.videos.vidto.me",
+            "player.videos.vidto.me",
             "plexcoin.info",
             "pon.ewtuyytdf45.com",
             "pool.cloudcoins.co",
@@ -719,12 +724,20 @@
             "ws4.3d0cb547.space",
             "ws4.bmnr.pw",
             "ws42.crypto.csgocpu.com",
+            "ws48.crypto.csgocpu.com",
+            "ws49.crypto.csgocpu.com",
+            "ws5.1beb2a44.space",
+            "ws5.300ca0d0.space",
+            "ws5.310ca263.space",
+            "ws5.320ca3f6.space",
+            "ws5.330ca589.space",
             "ws5.340ca71c.space",
             "ws5.360caa42.space",
             "ws5.370cabd5.space",
             "ws5.3c0cb3b4.space",
             "ws5.3d0cb547.space",
             "ws5.bmnr.pw",
+            "ws50.crypto.csgocpu.com",
             "ws6.1beb2a44.space",
             "ws6.310ca263.space",
             "ws6.320ca3f6.space",
@@ -1427,18 +1440,6 @@
             "zymerget.pa",
             "zymerget.st",
             "zzqhsrg.ru"
-        ],
-        "to_test": [
-            "play1.videos.videos.vidto.me",
-            "player.videos.vidto.me",
-            "ws48.crypto.csgocpu.com",
-            "ws49.crypto.csgocpu.com",
-            "ws5.1beb2a44.space",
-            "ws5.300ca0d0.space",
-            "ws5.310ca263.space",
-            "ws5.320ca3f6.space",
-            "ws5.330ca589.space",
-            "ws50.crypto.csgocpu.com"
         ]
     }
 }
