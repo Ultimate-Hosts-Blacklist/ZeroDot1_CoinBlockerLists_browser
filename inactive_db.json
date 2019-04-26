@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/ZeroDot1_CoinBlockerLists_browser/domains.list": {
-        "1556146213": [
+        "1556319158": [
             "1beb2a44.space",
             "1q2w3.fun",
             "2giga.do",
@@ -16,6 +16,7 @@
             "3d0cb547.space",
             "64uq73u7ug.webcam",
             "6ow9rhxtolls.gq",
+            "a-o.ni",
             "ablen02.tk",
             "ablen04.tk",
             "ablen12.tk",
@@ -55,10 +56,12 @@
             "api.intense.hashvault.pro",
             "api.inwemo.com",
             "api.l33tsite.info",
+            "api.miner.beeppool.org",
             "api.monero.hashvault.pro",
             "api.pzoifaum.info",
             "api.sumo.hashvault.pro",
             "api.sumokoin.hashvault.pro",
+            "api.viaxmr.com",
             "as.cf",
             "as.cfcnet.to",
             "as.cfcnet.top",
@@ -242,6 +245,7 @@
             "jqrcdn.do",
             "jquerrycdn.do",
             "jquery-cdn.do",
+            "jquery-cdn.download",
             "jquery-uim.do",
             "jquery-uim.download",
             "jqwww.do",
@@ -382,7 +386,11 @@
             "play.video.estream.nu",
             "play.videos.videos.vidto.me",
             "play.www.intellecthosting.net",
-            "play.yo.onvid.cl",
+            "play.yo.onvid.cl"
+        ],
+        "to_test": [
+            "play1.videos.videos.vidto.me",
+            "player.videos.vidto.me",
             "plexcoin.info",
             "pon.ewtuyytdf45.com",
             "pool.cloudcoins.co",
@@ -657,6 +665,10 @@
             "ws028.ws.tidafors.xyz",
             "ws028.www.datasecu.download",
             "ws029-proxy-ajcryptominer.ajplugins.com",
+            "ws029.ws.tidafors.xyz",
+            "ws03.1q2w3.me",
+            "ws030.ws.tidafors.xyz",
+            "ws031-proxy-ajcryptominer.ajplugins.com",
             "ws031.ws.tidafors.xyz",
             "ws032-proxy-ajcryptominer.ajplugins.com",
             "ws032.ws.tidafors.xyz",
@@ -1435,14 +1447,6 @@
             "zymerget.pa",
             "zymerget.st",
             "zzqhsrg.ru"
-        ],
-        "to_test": [
-            "play1.videos.videos.vidto.me",
-            "player.videos.vidto.me",
-            "ws029.ws.tidafors.xyz",
-            "ws03.1q2w3.me",
-            "ws030.ws.tidafors.xyz",
-            "ws031-proxy-ajcryptominer.ajplugins.com"
         ]
     }
 }
