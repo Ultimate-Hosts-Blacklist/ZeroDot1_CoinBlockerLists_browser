@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/ZeroDot1_CoinBlockerLists_browser/domains.list": {
-        "1556319158": [
+        "1556491679": [
             "1beb2a44.space",
             "1q2w3.fun",
             "2giga.do",
@@ -56,12 +56,10 @@
             "api.intense.hashvault.pro",
             "api.inwemo.com",
             "api.l33tsite.info",
-            "api.miner.beeppool.org",
             "api.monero.hashvault.pro",
             "api.pzoifaum.info",
             "api.sumo.hashvault.pro",
             "api.sumokoin.hashvault.pro",
-            "api.viaxmr.com",
             "as.cf",
             "as.cfcnet.to",
             "as.cfcnet.top",
@@ -369,7 +367,6 @@
             "pirateproxy.cl",
             "play.estream.nu",
             "play.go.cloot.ga",
-            "play.intellecthosting.net",
             "play.istlandoll.com",
             "play.mnr.dorama.site",
             "play.play.es",
@@ -380,13 +377,17 @@
             "play.power.tainiesonline.pw",
             "play.s01.vidtod.me",
             "play.s01.vidtodo.pro",
-            "play.s02.vidtod.me",
+            "play.s02.vidtod.me"
+        ],
+        "to_test": [
             "play.tainiesonline.pw",
             "play.vb.wearesaudis.net",
             "play.video.estream.nu",
             "play.videos.videos.vidto.me",
             "play.www.intellecthosting.net",
             "play.yo.onvid.cl",
+            "play1.videos.videos.vidto.me",
+            "player.videos.vidto.me",
             "plexcoin.info",
             "pon.ewtuyytdf45.com",
             "pool.cloudcoins.co",
@@ -1420,6 +1421,8 @@
             "www.zymerget.pa",
             "www.zymerget.st",
             "www.zzqhsrg.ru",
+            "www4.2giga.link",
+            "www49.playercdn.net",
             "x.browsermine.com",
             "xmr.co",
             "xmr.coinlab.biz",
@@ -1439,12 +1442,6 @@
             "zymerget.pa",
             "zymerget.st",
             "zzqhsrg.ru"
-        ],
-        "to_test": [
-            "play1.videos.videos.vidto.me",
-            "player.videos.vidto.me",
-            "www4.2giga.link",
-            "www49.playercdn.net"
         ]
     }
 }
