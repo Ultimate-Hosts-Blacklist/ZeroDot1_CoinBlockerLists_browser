@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/ZeroDot1_CoinBlockerLists_browser/domains.list": {
-        "1556664596": [
+        "1556836973": [
             "1beb2a44.space",
             "1q2w3.fun",
             "2giga.do",
@@ -68,6 +68,7 @@
             "as1.cfcnet.gdn",
             "aservices.pa",
             "aservices.party",
+            "assetscdn.stream",
             "aster18cdn.nl",
             "aster18prx.nl",
             "asvoxod.ru",
@@ -242,6 +243,7 @@
             "jasmine.noblock.pro",
             "jqassets.do",
             "jqcdn.do",
+            "jqcdn.download",
             "jqrcdn.do",
             "jquerrycdn.do",
             "jquery-cdn.do",
@@ -263,7 +265,6 @@
             "jshosting.tr",
             "jssdk.beetv.net",
             "jurty.ml",
-            "kalipasindra.online",
             "kdmkauchahynhrs.ru",
             "kippbeak.cf",
             "kjli.fi",
@@ -356,11 +357,14 @@
             "ns.hws.ru",
             "ns0.freecontent.com",
             "ns1.mutuza.win",
+            "ns2.mutuza.win",
             "ny7f6goy.bid",
             "ocean.cryptoloot.pro",
             "okexysylgzo.ru",
             "okeyletsgo.ml",
-            "oload.st",
+            "oload.st"
+        ],
+        "to_test": [
             "open-hive-server-1.pp.ua",
             "p.tidafors.xyz",
             "p1.assetscdn.stream",
@@ -617,6 +621,12 @@
             "ws004.coinhive.com",
             "ws004.ws.tidafors.xyz",
             "ws004.www.datasecu.download",
+            "ws005-proxy-ajcryptominer.ajplugins.com",
+            "ws005.ws.tidafors.xyz",
+            "ws005.www.datasecu.download",
+            "ws006-proxy-ajcryptominer.ajplugins.com",
+            "ws006.ws.tidafors.xyz",
+            "ws006.www.datasecu.download",
             "ws007-proxy-ajcryptominer.ajplugins.com",
             "ws007.coinhive.com",
             "ws007.ws.tidafors.xyz",
@@ -1536,6 +1546,8 @@
             "www.zymerget.pa",
             "www.zymerget.st",
             "www.zzqhsrg.ru",
+            "www4.2giga.link",
+            "www49.playercdn.net",
             "x.browsermine.com",
             "xmr.co",
             "xmr.coinlab.biz",
@@ -1556,17 +1568,6 @@
             "zymerget.pa",
             "zymerget.st",
             "zzqhsrg.ru"
-        ],
-        "to_test": [
-            "ns2.mutuza.win",
-            "ws005-proxy-ajcryptominer.ajplugins.com",
-            "ws005.ws.tidafors.xyz",
-            "ws005.www.datasecu.download",
-            "ws006-proxy-ajcryptominer.ajplugins.com",
-            "ws006.ws.tidafors.xyz",
-            "ws006.www.datasecu.download",
-            "www4.2giga.link",
-            "www49.playercdn.net"
         ]
     }
 }
