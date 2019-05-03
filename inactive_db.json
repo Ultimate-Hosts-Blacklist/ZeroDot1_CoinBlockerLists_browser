@@ -1365,9 +1365,7 @@
             "www.statpipe.ru",
             "www.stats.cryptotab.net",
             "www.stonecalcom.com",
-            "www.subloader.cf"
-        ],
-        "to_test": [
+            "www.subloader.cf",
             "www.sunnimiq2.cf",
             "www.superbay.li",
             "www.svivqrhrh.ru",
@@ -1562,8 +1560,6 @@
             "www.zymerget.pa",
             "www.zymerget.st",
             "www.zzqhsrg.ru",
-            "www4.2giga.link",
-            "www49.playercdn.net",
             "x.browsermine.com",
             "xmr.co",
             "xmr.coinlab.biz",
@@ -1584,6 +1580,10 @@
             "zymerget.pa",
             "zymerget.st",
             "zzqhsrg.ru"
+        ],
+        "to_test": [
+            "www4.2giga.link",
+            "www49.playercdn.net"
         ]
     }
 }
