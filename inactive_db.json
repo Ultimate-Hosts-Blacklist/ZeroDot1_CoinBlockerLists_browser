@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/ZeroDot1_CoinBlockerLists_browser/domains.list": {
-        "1556836973": [
+        "1557010289": [
             "1beb2a44.space",
             "1q2w3.fun",
             "2giga.do",
@@ -68,7 +68,6 @@
             "as1.cfcnet.gdn",
             "aservices.pa",
             "aservices.party",
-            "assetscdn.stream",
             "aster18cdn.nl",
             "aster18prx.nl",
             "asvoxod.ru",
@@ -221,6 +220,7 @@
             "hash.minexmr.stream",
             "hbeuwgqt.ru",
             "himatangi.nimiqpool.com",
+            "hive.tubetitties.com",
             "hiy.vidzi.tv",
             "hjnbvg.ru",
             "hodlers.pa",
@@ -243,7 +243,6 @@
             "jasmine.noblock.pro",
             "jqassets.do",
             "jqcdn.do",
-            "jqcdn.download",
             "jqrcdn.do",
             "jquerrycdn.do",
             "jquery-cdn.do",
@@ -265,6 +264,7 @@
             "jshosting.tr",
             "jssdk.beetv.net",
             "jurty.ml",
+            "kalipasindra.online",
             "kdmkauchahynhrs.ru",
             "kippbeak.cf",
             "kjli.fi",
@@ -347,7 +347,9 @@
             "myoffers.bid",
             "myoffers.party",
             "mysite.irkdsu.ru",
-            "nddmcconmqsy.ru",
+            "nddmcconmqsy.ru"
+        ],
+        "to_test": [
             "newark01.monero.hashvault.pro",
             "ningtoldrop.ru",
             "nitsche.top",
@@ -1560,6 +1562,8 @@
             "www.zymerget.pa",
             "www.zymerget.st",
             "www.zzqhsrg.ru",
+            "www4.2giga.link",
+            "www49.playercdn.net",
             "x.browsermine.com",
             "xmr.co",
             "xmr.coinlab.biz",
@@ -1580,10 +1584,6 @@
             "zymerget.pa",
             "zymerget.st",
             "zzqhsrg.ru"
-        ],
-        "to_test": [
-            "www4.2giga.link",
-            "www49.playercdn.net"
         ]
     }
 }
