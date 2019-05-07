@@ -1307,10 +1307,7 @@
             "www.pool.coinimp.com",
             "www.pool.cryptonoter.com",
             "www.pool2.coinimp.com",
-            "www.premiumstats.xyz"
-        ],
-        "to_test": [
-            "ns2.mutuza.win",
+            "www.premiumstats.xyz",
             "www.proxytpb.pw",
             "www.prsrjdr.ru",
             "www.pushno.com",
@@ -1554,8 +1551,6 @@
             "www.zymerget.pa",
             "www.zymerget.st",
             "www.zzqhsrg.ru",
-            "www4.2giga.link",
-            "www49.playercdn.net",
             "x.browsermine.com",
             "xmr.co",
             "xmr.coinlab.biz",
@@ -1576,6 +1571,11 @@
             "zymerget.pa",
             "zymerget.st",
             "zzqhsrg.ru"
+        ],
+        "to_test": [
+            "ns2.mutuza.win",
+            "www4.2giga.link",
+            "www49.playercdn.net"
         ]
     }
 }
