@@ -225,9 +225,9 @@
         "state": "past"
     },
     "assetscdn.stream": {
-        "epoch": "1550880000",
-        "expiration_date": "23-feb-2019",
-        "state": "past"
+        "epoch": 1589241600,
+        "expiration_date": "12-may-2020",
+        "state": "future"
     },
     "asvoxod.ru": {
         "epoch": "1545696000",
@@ -730,9 +730,9 @@
         "state": "future"
     },
     "coinhive.net": {
-        "epoch": 1557446400,
-        "expiration_date": "10-may-2019",
-        "state": "past"
+        "epoch": 1589068800,
+        "expiration_date": "10-may-2020",
+        "state": "future"
     },
     "coinhive.org": {
         "epoch": "1561593600",
@@ -800,8 +800,8 @@
         "state": "future"
     },
     "coinpot.co": {
-        "epoch": "1557014400",
-        "expiration_date": "05-may-2019",
+        "epoch": 1588636800,
+        "expiration_date": "05-may-2020",
         "state": "future"
     },
     "coinrail.io": {
@@ -1615,7 +1615,7 @@
         "state": "past"
     },
     "hostingcloud.download": {
-        "epoch": "1554336000",
+        "epoch": 1554336000,
         "expiration_date": "04-apr-2019",
         "state": "past"
     },
@@ -1810,12 +1810,12 @@
         "state": "future"
     },
     "jqrcdn.download": {
-        "epoch": "1556582400",
+        "epoch": 1556582400,
         "expiration_date": "30-apr-2019",
         "state": "past"
     },
     "jquerrycdn.download": {
-        "epoch": "1554768000",
+        "epoch": 1554768000,
         "expiration_date": "09-apr-2019",
         "state": "past"
     },
@@ -1935,9 +1935,9 @@
         "state": "future"
     },
     "jwduahujge.ru": {
-        "epoch": "1556928000",
-        "expiration_date": "04-may-2019",
-        "state": "past"
+        "epoch": 1592006400,
+        "expiration_date": "13-jun-2020",
+        "state": "future"
     },
     "jwwhsqz.ru": {
         "epoch": "1558224000",
@@ -2315,9 +2315,9 @@
         "state": "future"
     },
     "myadstats.com": {
-        "epoch": 1557619200,
-        "expiration_date": "12-may-2019",
-        "state": "past"
+        "epoch": 1589241600,
+        "expiration_date": "12-may-2020",
+        "state": "future"
     },
     "myoffers.bid": {
         "epoch": "1545264000",
