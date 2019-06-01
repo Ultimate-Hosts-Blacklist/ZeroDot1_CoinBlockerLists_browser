@@ -1660,7 +1660,7 @@
         "state": "past"
     },
     "hostingcloud.trade": {
-        "epoch": "1554336000",
+        "epoch": 1554336000,
         "expiration_date": "04-apr-2019",
         "state": "past"
     },
@@ -3295,8 +3295,8 @@
         "state": "future"
     },
     "ulnawoyyzbljc.ru": {
-        "epoch": "1553817600",
-        "expiration_date": "29-mar-2019",
+        "epoch": 1592006400,
+        "expiration_date": "13-jun-2020",
         "state": "future"
     },
     "ultra-cdn.pl": {
