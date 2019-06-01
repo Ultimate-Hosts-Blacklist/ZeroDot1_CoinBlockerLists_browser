@@ -1655,7 +1655,7 @@
         "state": "future"
     },
     "hostingcloud.stream": {
-        "epoch": "1554336000",
+        "epoch": 1554336000,
         "expiration_date": "04-apr-2019",
         "state": "past"
     },
@@ -1755,8 +1755,8 @@
         "state": "future"
     },
     "intersportv.com": {
-        "epoch": "1559260800",
-        "expiration_date": "31-may-2019",
+        "epoch": 1590883200,
+        "expiration_date": "31-may-2020",
         "state": "future"
     },
     "inwemo.com": {
@@ -3320,8 +3320,8 @@
         "state": "future"
     },
     "uoldid.ru": {
-        "epoch": "1558224000",
-        "expiration_date": "19-may-2019",
+        "epoch": 1592784000,
+        "expiration_date": "22-jun-2020",
         "state": "future"
     },
     "update-your-pc.info": {
@@ -3420,8 +3420,8 @@
         "state": "future"
     },
     "vuryua.ru": {
-        "epoch": "1558224000",
-        "expiration_date": "19-may-2019",
+        "epoch": 1592784000,
+        "expiration_date": "22-jun-2020",
         "state": "future"
     },
     "vuuwd.com": {
