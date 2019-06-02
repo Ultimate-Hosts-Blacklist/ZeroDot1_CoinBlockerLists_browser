@@ -164,6 +164,11 @@
         "expiration_date": "03-apr-2019",
         "state": "past"
     },
+    "hostingcloud.accountant": {
+        "epoch": 1554336000,
+        "expiration_date": "04-apr-2019",
+        "state": "past"
+    },
     "hostingcloud.date": {
         "epoch": 1554336000,
         "expiration_date": "04-apr-2019",
@@ -202,6 +207,11 @@
     "jwduahujge.ru": {
         "epoch": 1592006400,
         "expiration_date": "13-jun-2020",
+        "state": "future"
+    },
+    "kissdoujin.com": {
+        "epoch": 1599436800,
+        "expiration_date": "07-sep-2020",
         "state": "future"
     },
     "lewd.ninja": {
