@@ -4,6 +4,11 @@
         "expiration_date": "21-dec-2019",
         "state": "future"
     },
+    "andlache.com": {
+        "epoch": 1585958400,
+        "expiration_date": "04-apr-2020",
+        "state": "future"
+    },
     "assetscdn.stream": {
         "epoch": 1589241600,
         "expiration_date": "12-may-2020",
@@ -12,6 +17,11 @@
     "authedmine.com": {
         "epoch": 1570752000,
         "expiration_date": "11-oct-2019",
+        "state": "future"
+    },
+    "averoconnector.com": {
+        "epoch": 1589414400,
+        "expiration_date": "14-may-2020",
         "state": "future"
     },
     "avualrhg9p.bid": {
