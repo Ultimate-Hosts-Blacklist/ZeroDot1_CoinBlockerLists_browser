@@ -1,225 +1,421 @@
 {
-    "1560043396.4001284": {
+    "1560044999.1549037": {
+        "domain": "jqcdn.download",
+        "extension": "download"
+    },
+    "1560045005.1184938": {
+        "domain": "jquery-cdn.download",
+        "extension": "download"
+    },
+    "1560045005.1374362": {
+        "domain": "jquery-uim.download",
+        "extension": "download"
+    },
+    "1560045005.1538005": {
+        "domain": "jqwww.download",
+        "extension": "download"
+    },
+    "1560045005.3791623": {
+        "domain": "jurty.ml",
+        "extension": "ml"
+    },
+    "1560045005.42221": {
+        "domain": "kalipasindra.online",
+        "extension": "online"
+    },
+    "1560045011.9280713": {
+        "domain": "latestpromotions.club",
+        "extension": "club"
+    },
+    "1560045012.0817933": {
+        "domain": "livelyoffers.club",
+        "extension": "club"
+    },
+    "1560045012.1580667": {
+        "domain": "livestatsnet.services",
+        "extension": "services"
+    },
+    "1560045019.0982704": {
+        "domain": "msdns.online",
+        "extension": "online"
+    },
+    "1560045024.9158754": {
+        "domain": "myoffers.party",
+        "extension": "party"
+    },
+    "1560045025.4300046": {
+        "domain": "okeyletsgo.ml",
+        "extension": "ml"
+    },
+    "1560045031.551976": {
+        "domain": "pocketgolf.host",
+        "extension": "host"
+    },
+    "1560045038.625804": {
+        "domain": "reservedoffers.club",
+        "extension": "club"
+    },
+    "1560045038.9173443": {
+        "domain": "seasonaloffers.club",
+        "extension": "club"
+    },
+    "1560045039.0273046": {
+        "domain": "siteverification.online",
+        "extension": "online"
+    },
+    "1560045039.035632": {
+        "domain": "sen-to-zdrowie.ml",
+        "extension": "ml"
+    },
+    "1560045045.7566686": {
+        "domain": "template-download.top",
+        "extension": "top"
+    },
+    "1560045052.225902": {
+        "domain": "ullnot.download",
+        "extension": "download"
+    },
+    "1560045058.5787005": {
+        "domain": "whysoserius.club",
+        "extension": "club"
+    },
+    "1560045058.63898": {
+        "domain": "wittyoffers.club",
+        "extension": "club"
+    },
+    "1560045065.043209": {
+        "domain": "ws001.www.datasecu.download",
+        "extension": "download"
+    },
+    "1560045065.083214": {
+        "domain": "ws002.www.datasecu.download",
+        "extension": "download"
+    },
+    "1560045065.1175451": {
+        "domain": "ws002.www.jqwww.download",
+        "extension": "download"
+    },
+    "1560045065.1265492": {
+        "domain": "ws003.www.jqwww.download",
+        "extension": "download"
+    },
+    "1560045065.1549559": {
+        "domain": "ws004.www.datasecu.download",
+        "extension": "download"
+    },
+    "1560045065.1813812": {
+        "domain": "ws004.www.jqwww.download",
+        "extension": "download"
+    },
+    "1560045065.2674732": {
+        "domain": "ws005.www.jqwww.download",
+        "extension": "download"
+    },
+    "1560045071.0652878": {
+        "domain": "ws006.www.datasecu.download",
+        "extension": "download"
+    },
+    "1560045071.0990236": {
+        "domain": "ws006.www.jqwww.download",
+        "extension": "download"
+    },
+    "1560045071.1269338": {
+        "domain": "ws007.www.datasecu.download",
+        "extension": "download"
+    },
+    "1560045071.14858": {
+        "domain": "ws008.www.datasecu.download",
+        "extension": "download"
+    },
+    "1560045071.1804612": {
+        "domain": "ws008.www.jqwww.download",
+        "extension": "download"
+    },
+    "1560045071.191613": {
+        "domain": "ws009.www.datasecu.download",
+        "extension": "download"
+    },
+    "1560045071.2698343": {
+        "domain": "ws010.www.jqwww.download",
+        "extension": "download"
+    },
+    "1560045071.3075352": {
+        "domain": "ws011.www.datasecu.download",
+        "extension": "download"
+    },
+    "1560045071.3610778": {
+        "domain": "ws011.www.jqwww.download",
+        "extension": "download"
+    },
+    "1560045071.407286": {
+        "domain": "ws013.www.jqwww.download",
+        "extension": "download"
+    },
+    "1560045071.4571977": {
+        "domain": "ws014.www.jqwww.download",
+        "extension": "download"
+    },
+    "1560045071.5034719": {
+        "domain": "ws015.www.datasecu.download",
+        "extension": "download"
+    },
+    "1560045071.5521367": {
+        "domain": "ws017.www.datasecu.download",
+        "extension": "download"
+    },
+    "1560045071.616981": {
+        "domain": "ws017.www.jqwww.download",
+        "extension": "download"
+    },
+    "1560045073.1475472": {
+        "domain": "ws018.www.datasecu.download",
+        "extension": "download"
+    },
+    "1560045073.1919734": {
+        "domain": "ws018.www.jqwww.download",
+        "extension": "download"
+    },
+    "1560045073.2087557": {
+        "domain": "ws019.www.datasecu.download",
+        "extension": "download"
+    },
+    "1560045073.22549": {
+        "domain": "ws019.www.jqwww.download",
+        "extension": "download"
+    },
+    "1560045073.2555723": {
+        "domain": "ws020.www.datasecu.download",
+        "extension": "download"
+    },
+    "1560045073.286575": {
+        "domain": "ws021.www.jqwww.download",
+        "extension": "download"
+    },
+    "1560045073.3345687": {
+        "domain": "ws022.www.datasecu.download",
+        "extension": "download"
+    },
+    "1560045073.4073343": {
         "domain": "ws022.www.jqwww.download",
         "extension": "download"
     },
-    "1560043396.433757": {
+    "1560045073.4132724": {
         "domain": "ws023.www.datasecu.download",
         "extension": "download"
     },
-    "1560043396.4817927": {
+    "1560045073.438037": {
         "domain": "ws023.www.jqwww.download",
         "extension": "download"
     },
-    "1560043396.5253768": {
-        "domain": "ws024.www.datasecu.download",
-        "extension": "download"
-    },
-    "1560043396.5978212": {
+    "1560045073.5133383": {
         "domain": "ws026.www.datasecu.download",
         "extension": "download"
     },
-    "1560043396.6527352": {
-        "domain": "ws027.www.jqwww.download",
+    "1560045073.5402465": {
+        "domain": "ws024.www.datasecu.download",
         "extension": "download"
     },
-    "1560043396.6616063": {
+    "1560045073.5966346": {
         "domain": "ws027.www.datasecu.download",
         "extension": "download"
     },
-    "1560043398.7257988": {
+    "1560045073.619474": {
+        "domain": "ws027.www.jqwww.download",
+        "extension": "download"
+    },
+    "1560045075.6328356": {
         "domain": "www1.2giga.link",
         "extension": "link"
     },
-    "1560043398.8392172": {
+    "1560045081.8288348": {
         "domain": "xmg.cool",
         "extension": "cool"
     },
-    "1560043404.7593262": {
+    "1560045081.8785462": {
         "domain": "xmr.cool",
         "extension": "cool"
     },
-    "1560043411.1886873": {
+    "1560045088.3055098": {
         "domain": "www.xmg.cool",
         "extension": "cool"
     },
-    "1560043411.2846966": {
+    "1560045088.3961275": {
         "domain": "www.xmr.cool",
         "extension": "cool"
     },
-    "1560043412.113677": {
+    "1560045089.156762": {
         "domain": "www.1beb2a44.space",
         "extension": "space"
     },
-    "1560043412.1906219": {
+    "1560045089.2483845": {
         "domain": "www.300ca0d0.space",
         "extension": "space"
     },
-    "1560043412.237598": {
+    "1560045090.718761": {
         "domain": "www.310ca263.space",
         "extension": "space"
     },
-    "1560043413.235695": {
+    "1560045090.7517195": {
         "domain": "www.320ca3f6.space",
         "extension": "space"
     },
-    "1560043413.2690263": {
+    "1560045090.7845857": {
         "domain": "www.330ca589.space",
         "extension": "space"
     },
-    "1560043413.3035579": {
+    "1560045090.816417": {
         "domain": "www.340ca71c.space",
         "extension": "space"
     },
-    "1560043413.337044": {
+    "1560045090.8538022": {
         "domain": "www.370cabd5.space",
         "extension": "space"
     },
-    "1560043413.3771682": {
+    "1560045090.8905363": {
         "domain": "www.3c0cb3b4.space",
         "extension": "space"
     },
-    "1560043413.4116511": {
+    "1560045090.9272656": {
         "domain": "www.3d0cb547.space",
         "extension": "space"
     },
-    "1560043414.1707368": {
+    "1560045091.6431706": {
         "domain": "www.airproxybay.ar",
         "extension": "ar"
     },
-    "1560043417.4580925": {
+    "1560045094.1740773": {
         "domain": "www.allfontshere.press",
         "extension": "press"
     },
-    "1560043418.0790658": {
+    "1560045094.7650335": {
         "domain": "www.aservices.party",
         "extension": "party"
     },
-    "1560043418.5046754": {
+    "1560045095.1226368": {
         "domain": "www.baywttgdhe.download",
         "extension": "download"
     },
-    "1560043418.6932466": {
+    "1560045095.3437233": {
         "domain": "www.bjorksta.men",
         "extension": "men"
     },
-    "1560043418.7763197": {
+    "1560045095.407153": {
         "domain": "www.blockchained.party",
         "extension": "party"
     },
-    "1560043442.471327": {
+    "1560045119.3874378": {
         "domain": "www.carrel.services",
         "extension": "services"
     },
-    "1560043442.6230645": {
+    "1560045119.5238533": {
         "domain": "www.cdn-code.host",
         "extension": "host"
     },
-    "1560043442.6531394": {
+    "1560045119.5545812": {
         "domain": "www.cdn-jquery.host",
         "extension": "host"
     },
-    "1560043442.838811": {
+    "1560045119.735007": {
         "domain": "www.cdncounter.top",
         "extension": "top"
     },
-    "1560043442.9547088": {
+    "1560045119.8595831": {
         "domain": "www.cfcnet.gdn",
         "extension": "gdn"
     },
-    "1560043442.9950268": {
+    "1560045119.9031217": {
         "domain": "www.cfcnet.top",
         "extension": "top"
     },
-    "1560043443.4478838": {
+    "1560045120.3333964": {
         "domain": "www.cliggi.download",
         "extension": "download"
     },
-    "1560043443.5266488": {
+    "1560045120.440021": {
         "domain": "www.cloudflare.solutions",
         "extension": "solutions"
     },
-    "1560043443.569601": {
+    "1560045120.491975": {
         "domain": "www.cloudmedia.gdn",
         "extension": "gdn"
     },
-    "1560043443.7199354": {
+    "1560045122.2764578": {
         "domain": "www.cody.services",
         "extension": "services"
     },
-    "1560043445.40833": {
+    "1560045122.309009": {
         "domain": "www.coinhive-proxy.party",
         "extension": "party"
     },
-    "1560043445.837801": {
+    "1560045122.7238157": {
         "domain": "www.datasecu.download",
         "extension": "download"
     },
-    "1560043445.8700821": {
+    "1560045122.7551901": {
         "domain": "www.dataservices.download",
         "extension": "download"
     },
-    "1560043446.2669628": {
+    "1560045123.1308818": {
         "domain": "www.earncoins.club",
         "extension": "club"
     },
-    "1560043446.3847876": {
+    "1560045123.2372346": {
         "domain": "www.enjoyableoffers.club",
         "extension": "club"
     },
-    "1560043446.7473257": {
+    "1560045123.5830145": {
         "domain": "www.ffjk.space",
         "extension": "space"
     },
-    "1560043449.7528718": {
+    "1560045124.606781": {
         "domain": "www.freecontent.download",
         "extension": "download"
     },
-    "1560043449.8525326": {
+    "1560045124.701047": {
         "domain": "www.freecontent.racing",
         "extension": "racing"
     },
-    "1560043450.5675905": {
+    "1560045125.396859": {
         "domain": "www.hodlers.party",
         "extension": "party"
     },
-    "1560043450.854097": {
+    "1560045125.7073529": {
         "domain": "www.hostingcloud.download",
         "extension": "download"
     },
-    "1560043452.0528367": {
+    "1560045126.8398857": {
         "domain": "www.intactoffers.club",
         "extension": "club"
     },
-    "1560043452.3444297": {
+    "1560045127.091037": {
         "domain": "www.jqcdn.download",
         "extension": "download"
     },
-    "1560043452.5237892": {
+    "1560045127.2509308": {
         "domain": "www.jquery-cdn.download",
         "extension": "download"
     },
-    "1560043452.6123033": {
+    "1560045127.3297238": {
         "domain": "www.jquery-uim.download",
         "extension": "download"
     },
-    "1560043453.760288": {
+    "1560045128.4883153": {
         "domain": "www.jurty.ml",
         "extension": "ml"
     },
-    "1560043453.7917619": {
+    "1560045128.5143685": {
         "domain": "www.kalipasindra.online",
         "extension": "online"
     },
-    "1560043454.0301516": {
+    "1560045128.7215466": {
         "domain": "www.laferia.cr",
         "extension": "cr"
     },
-    "1560043454.0843208": {
+    "1560045128.7701046": {
         "domain": "www.latestpromotions.club",
         "extension": "club"
     },
-    "1560043454.1629937": {
+    "1560045128.8405204": {
         "domain": "www.livelyoffers.club",
         "extension": "club"
     }
