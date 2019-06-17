@@ -69,6 +69,11 @@
         "expiration_date": "16-jan-2020",
         "state": "future"
     },
+    "alflying.bid": {
+        "epoch": 1560816000,
+        "expiration_date": "18-jun-2019",
+        "state": "future"
+    },
     "alflying.date": {
         "epoch": 1560816000,
         "expiration_date": "18-jun-2019",
@@ -107,6 +112,16 @@
     "assetscdn.stream": {
         "epoch": 1589241600,
         "expiration_date": "12-may-2020",
+        "state": "future"
+    },
+    "augvtjtnsfnxg.ru": {
+        "epoch": 1564963200,
+        "expiration_date": "05-aug-2019",
+        "state": "future"
+    },
+    "auiehechoulh.ru": {
+        "epoch": 1564963200,
+        "expiration_date": "05-aug-2019",
         "state": "future"
     },
     "auroramine.com": {
@@ -159,6 +174,11 @@
         "expiration_date": "23-dec-2019",
         "state": "future"
     },
+    "baypirateproxy.org": {
+        "epoch": 1592006400,
+        "expiration_date": "13-jun-2020",
+        "state": "future"
+    },
     "beatingbytes.com": {
         "epoch": 1578960000,
         "expiration_date": "14-jan-2020",
@@ -187,6 +207,11 @@
     "best-cdn.pl": {
         "epoch": 1567209600,
         "expiration_date": "31-aug-2019",
+        "state": "future"
+    },
+    "bestcoinsignals.com": {
+        "epoch": 1584489600,
+        "expiration_date": "18-mar-2020",
         "state": "future"
     },
     "bestmobiworld.com": {
@@ -409,6 +434,11 @@
         "expiration_date": "13-aug-2020",
         "state": "future"
     },
+    "cookiescriptcdn.pro": {
+        "epoch": 1590192000,
+        "expiration_date": "23-may-2020",
+        "state": "future"
+    },
     "cpufan.club": {
         "epoch": 1582502400,
         "expiration_date": "24-feb-2020",
@@ -492,6 +522,11 @@
     "dzizsih.ru": {
         "epoch": 1594080000,
         "expiration_date": "07-jul-2020",
+        "state": "future"
+    },
+    "easyhash.io": {
+        "epoch": 1568764800,
+        "expiration_date": "18-sep-2019",
         "state": "future"
     },
     "elthamely.com": {
@@ -585,6 +620,11 @@
         "state": "future"
     },
     "flightzy.bid": {
+        "epoch": 1560816000,
+        "expiration_date": "18-jun-2019",
+        "state": "future"
+    },
+    "flightzy.date": {
         "epoch": 1560816000,
         "expiration_date": "18-jun-2019",
         "state": "future"
@@ -829,7 +869,17 @@
         "expiration_date": "04-apr-2020",
         "state": "future"
     },
+    "hostingcloud.stream": {
+        "epoch": 1554336000,
+        "expiration_date": "04-apr-2019",
+        "state": "past"
+    },
     "hostingcloud.trade": {
+        "epoch": 1554336000,
+        "expiration_date": "04-apr-2019",
+        "state": "past"
+    },
+    "hostingcloud.win": {
         "epoch": 1554336000,
         "expiration_date": "04-apr-2019",
         "state": "past"
@@ -862,6 +912,11 @@
     "ininmacerad.pro": {
         "epoch": 1587168000,
         "expiration_date": "18-apr-2020",
+        "state": "future"
+    },
+    "intellecthosting.net": {
+        "epoch": 1571788800,
+        "expiration_date": "23-oct-2019",
         "state": "future"
     },
     "intersportv.com": {
@@ -1104,6 +1159,11 @@
         "expiration_date": "27-jun-2020",
         "state": "future"
     },
+    "minero.cc": {
+        "epoch": 1593907200,
+        "expiration_date": "05-jul-2020",
+        "state": "future"
+    },
     "minescripts.info": {
         "epoch": 1586908800,
         "expiration_date": "15-apr-2020",
@@ -1172,6 +1232,11 @@
     "money-maker-script.info": {
         "epoch": 1588464000,
         "expiration_date": "03-may-2020",
+        "state": "future"
+    },
+    "monitoringservice.co": {
+        "epoch": 1588723200,
+        "expiration_date": "06-may-2020",
         "state": "future"
     },
     "moonbit.co.in": {
@@ -1369,6 +1434,11 @@
         "expiration_date": "04-jul-2020",
         "state": "future"
     },
+    "pema.cl": {
+        "epoch": 1618012800,
+        "expiration_date": "10-apr-2021",
+        "state": "future"
+    },
     "pertholin.com": {
         "epoch": 1586649600,
         "expiration_date": "12-apr-2020",
@@ -1397,6 +1467,21 @@
     "projectpoi.com": {
         "epoch": 1576713600,
         "expiration_date": "19-dec-2019",
+        "state": "future"
+    },
+    "proofly.win": {
+        "epoch": 1560816000,
+        "expiration_date": "18-jun-2019",
+        "state": "future"
+    },
+    "proxy4life.org": {
+        "epoch": 1577059200,
+        "expiration_date": "23-dec-2019",
+        "state": "future"
+    },
+    "proxyfl.info": {
+        "epoch": 1579219200,
+        "expiration_date": "17-jan-2020",
         "state": "future"
     },
     "proxyindia.net": {
@@ -1494,10 +1579,20 @@
         "expiration_date": "19-mar-2020",
         "state": "future"
     },
+    "seminarski-diplomski.co.rs": {
+        "epoch": 1582243200,
+        "expiration_date": "21-feb-2020",
+        "state": "future"
+    },
     "sen-to-zdrowie.ml": {
         "epoch": 1590710400,
         "expiration_date": "29-may-2020",
         "state": "future"
+    },
+    "sentemanactri.com": {
+        "epoch": 1556928000,
+        "expiration_date": "04-may-2019",
+        "state": "past"
     },
     "serie-vostfr.com": {
         "epoch": 1601078400,
