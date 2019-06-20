@@ -169,6 +169,11 @@
         "expiration_date": "12-feb-2020",
         "state": "future"
     },
+    "bajarlo.net": {
+        "epoch": 1582156800,
+        "expiration_date": "20-feb-2020",
+        "state": "future"
+    },
     "basepush.com": {
         "epoch": 1580342400,
         "expiration_date": "30-jan-2020",
@@ -342,6 +347,11 @@
     "cnhv.co": {
         "epoch": 1566518400,
         "expiration_date": "23-aug-2019",
+        "state": "future"
+    },
+    "cnt.st": {
+        "epoch": 1575590400,
+        "expiration_date": "06-dec-2019",
         "state": "future"
     },
     "coin-cube.com": {
@@ -552,6 +562,11 @@
     "de-mi-nis-ner2.info": {
         "epoch": 1587772800,
         "expiration_date": "25-apr-2020",
+        "state": "future"
+    },
+    "de-ner-mi-nis4.info": {
+        "epoch": 1562025600,
+        "expiration_date": "02-jul-2019",
         "state": "future"
     },
     "de-nis-ner-mi-5.info": {
@@ -1479,6 +1494,11 @@
         "expiration_date": "11-jul-2020",
         "state": "future"
     },
+    "ner-de-mi-nis-6.info": {
+        "epoch": 1568937600,
+        "expiration_date": "20-sep-2019",
+        "state": "future"
+    },
     "nerdorium.org": {
         "epoch": 1567209600,
         "expiration_date": "31-aug-2019",
@@ -2142,6 +2162,11 @@
     "vuuwd.com": {
         "epoch": 1578700800,
         "expiration_date": "11-jan-2020",
+        "state": "future"
+    },
+    "vzhjnorkudcxbiy.com": {
+        "epoch": 1592438400,
+        "expiration_date": "18-jun-2020",
         "state": "future"
     },
     "wasm.stream": {
