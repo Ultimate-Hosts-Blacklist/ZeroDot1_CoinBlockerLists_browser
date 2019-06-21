@@ -1079,6 +1079,11 @@
         "expiration_date": "05-aug-2019",
         "state": "future"
     },
+    "jqassets.download": {
+        "epoch": 1585440000,
+        "expiration_date": "29-mar-2020",
+        "state": "future"
+    },
     "jqmrqgaunex.ru": {
         "epoch": 1564963200,
         "expiration_date": "05-aug-2019",
@@ -1165,6 +1170,11 @@
         "state": "past"
     },
     "jshosting.stream": {
+        "epoch": 1555977600,
+        "expiration_date": "23-apr-2019",
+        "state": "past"
+    },
+    "jshosting.trade": {
         "epoch": 1555977600,
         "expiration_date": "23-apr-2019",
         "state": "past"
