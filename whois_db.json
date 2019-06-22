@@ -1,4 +1,9 @@
 {
+    "0x1f4b0.com": {
+        "epoch": 1576886400,
+        "expiration_date": "21-dec-2019",
+        "state": "future"
+    },
     "2giga.download": {
         "epoch": 1579651200,
         "expiration_date": "22-jan-2020",
@@ -464,6 +469,11 @@
         "expiration_date": "29-sep-2019",
         "state": "future"
     },
+    "coinpot.co": {
+        "epoch": 1588636800,
+        "expiration_date": "05-may-2020",
+        "state": "future"
+    },
     "coinwebmining.com": {
         "epoch": 1578528000,
         "expiration_date": "09-jan-2020",
@@ -507,6 +517,11 @@
     "cryptaloot.pro": {
         "epoch": 1582416000,
         "expiration_date": "23-feb-2020",
+        "state": "future"
+    },
+    "crypto-loot.com": {
+        "epoch": 1570147200,
+        "expiration_date": "04-oct-2019",
         "state": "future"
     },
     "crypto-pool.fr": {
@@ -692,7 +707,7 @@
     "flightsy.bid": {
         "epoch": 1560816000,
         "expiration_date": "18-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "flightsy.date": {
         "epoch": 1560816000,
@@ -762,6 +777,11 @@
     "freecontent.com": {
         "epoch": 1565308800,
         "expiration_date": "09-aug-2019",
+        "state": "future"
+    },
+    "freecontent.date": {
+        "epoch": 1579392000,
+        "expiration_date": "19-jan-2020",
         "state": "future"
     },
     "freecontent.faith": {
@@ -917,6 +937,11 @@
     "gridiogrid.com": {
         "epoch": 1583280000,
         "expiration_date": "04-mar-2020",
+        "state": "future"
+    },
+    "hashing.win": {
+        "epoch": 1575936000,
+        "expiration_date": "10-dec-2019",
         "state": "future"
     },
     "hashto.cash": {
@@ -1725,8 +1750,8 @@
         "state": "future"
     },
     "questionfly.com": {
-        "epoch": 1561075200,
-        "expiration_date": "21-jun-2019",
+        "epoch": 1592697600,
+        "expiration_date": "21-jun-2020",
         "state": "future"
     },
     "rapidvideo.com": {
@@ -2128,6 +2153,11 @@
         "epoch": 1560124800,
         "expiration_date": "10-jun-2019",
         "state": "past"
+    },
+    "vcfs6ip5h6.bid": {
+        "epoch": 1582070400,
+        "expiration_date": "19-feb-2020",
+        "state": "future"
     },
     "vcrypt.net": {
         "epoch": 1591401600,
