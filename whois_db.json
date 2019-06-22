@@ -634,6 +634,11 @@
         "expiration_date": "10-jul-2020",
         "state": "future"
     },
+    "eu.cf": {
+        "epoch": 1714867200,
+        "expiration_date": "05-may-2024",
+        "state": "future"
+    },
     "eucsoft.com": {
         "epoch": 1581292800,
         "expiration_date": "10-feb-2020",
