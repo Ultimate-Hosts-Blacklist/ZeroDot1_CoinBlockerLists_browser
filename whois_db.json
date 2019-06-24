@@ -722,7 +722,7 @@
     "flightzy.bid": {
         "epoch": 1560816000,
         "expiration_date": "18-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "flightzy.date": {
         "epoch": 1560816000,
@@ -797,6 +797,11 @@
     "freecontent.net": {
         "epoch": 1578441600,
         "expiration_date": "08-jan-2020",
+        "state": "future"
+    },
+    "freecontent.party": {
+        "epoch": 1579392000,
+        "expiration_date": "19-jan-2020",
         "state": "future"
     },
     "freecontent.stream": {
