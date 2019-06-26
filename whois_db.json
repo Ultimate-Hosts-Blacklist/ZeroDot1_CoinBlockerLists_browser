@@ -142,7 +142,7 @@
     "authcaptcha.com": {
         "epoch": 1561507200,
         "expiration_date": "26-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "authedmine.com": {
         "epoch": 1570752000,
@@ -740,8 +740,8 @@
         "state": "future"
     },
     "formulawire.com": {
-        "epoch": 1561075200,
-        "expiration_date": "21-jun-2019",
+        "epoch": 1592697600,
+        "expiration_date": "21-jun-2020",
         "state": "future"
     },
     "forrealzpiratebay.org": {
@@ -2170,8 +2170,8 @@
         "state": "future"
     },
     "verifier.live": {
-        "epoch": 1561507200,
-        "expiration_date": "26-jun-2019",
+        "epoch": 1593129600,
+        "expiration_date": "26-jun-2020",
         "state": "future"
     },
     "verresof.com": {
