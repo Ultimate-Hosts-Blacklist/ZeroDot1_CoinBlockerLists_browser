@@ -79,6 +79,11 @@
         "expiration_date": "16-jan-2020",
         "state": "future"
     },
+    "alemoney.xyz": {
+        "epoch": 1566777600,
+        "expiration_date": "26-aug-2019",
+        "state": "future"
+    },
     "alflying.bid": {
         "epoch": 1560816000,
         "expiration_date": "18-jun-2019",
@@ -119,6 +124,11 @@
         "expiration_date": "19-sep-2019",
         "state": "future"
     },
+    "anybest.space": {
+        "epoch": 1568851200,
+        "expiration_date": "19-sep-2019",
+        "state": "future"
+    },
     "apdrive.win": {
         "epoch": 1686268800,
         "expiration_date": "09-jun-2023",
@@ -150,9 +160,9 @@
         "state": "future"
     },
     "authcaptcha.com": {
-        "epoch": 1561507200,
-        "expiration_date": "26-jun-2019",
-        "state": "past"
+        "epoch": 1593129600,
+        "expiration_date": "26-jun-2020",
+        "state": "future"
     },
     "authedmine.com": {
         "epoch": 1570752000,
@@ -234,6 +244,11 @@
         "expiration_date": "20-oct-2019",
         "state": "future"
     },
+    "belicimo.pw": {
+        "epoch": 1591228800,
+        "expiration_date": "04-jun-2020",
+        "state": "future"
+    },
     "berateveng.ru": {
         "epoch": 1594339200,
         "expiration_date": "10-jul-2020",
@@ -242,6 +257,11 @@
     "berserkpl.net.pl": {
         "epoch": 1567900800,
         "expiration_date": "08-sep-2019",
+        "state": "future"
+    },
+    "besocial.online": {
+        "epoch": 1574467200,
+        "expiration_date": "23-nov-2019",
         "state": "future"
     },
     "besstahete.info": {
@@ -257,6 +277,11 @@
     "bestcoinsignals.com": {
         "epoch": 1584489600,
         "expiration_date": "18-mar-2020",
+        "state": "future"
+    },
+    "besti.ga": {
+        "epoch": 1587772800,
+        "expiration_date": "25-apr-2020",
         "state": "future"
     },
     "bestmobiworld.com": {
@@ -422,6 +447,11 @@
     "coinblind.com": {
         "epoch": 1575331200,
         "expiration_date": "03-dec-2019",
+        "state": "future"
+    },
+    "coiner.site": {
+        "epoch": 1567123200,
+        "expiration_date": "30-aug-2019",
         "state": "future"
     },
     "coinerra.com": {
@@ -1414,6 +1444,16 @@
         "expiration_date": "03-may-2020",
         "state": "future"
     },
+    "mighbest.host": {
+        "epoch": 1568851200,
+        "expiration_date": "19-sep-2019",
+        "state": "future"
+    },
+    "mighbest.pw": {
+        "epoch": 1568851200,
+        "expiration_date": "19-sep-2019",
+        "state": "future"
+    },
     "minecrunch.co": {
         "epoch": 1571961600,
         "expiration_date": "25-oct-2019",
@@ -1437,6 +1477,11 @@
     "minero.cc": {
         "epoch": 1593907200,
         "expiration_date": "05-jul-2020",
+        "state": "future"
+    },
+    "minero.pw": {
+        "epoch": 1577318400,
+        "expiration_date": "26-dec-2019",
         "state": "future"
     },
     "minescripts.info": {
@@ -2054,6 +2099,11 @@
         "expiration_date": "17-jun-2020",
         "state": "future"
     },
+    "staticsfs.host": {
+        "epoch": 1650758400,
+        "expiration_date": "24-apr-2022",
+        "state": "future"
+    },
     "statpipe.ru": {
         "epoch": 1571443200,
         "expiration_date": "19-oct-2019",
@@ -2184,6 +2234,11 @@
         "expiration_date": "02-oct-2019",
         "state": "future"
     },
+    "torrent.pw": {
+        "epoch": 1588636800,
+        "expiration_date": "05-may-2020",
+        "state": "future"
+    },
     "tpb.tw": {
         "epoch": 1588809600,
         "expiration_date": "07-may-2020",
@@ -2225,8 +2280,8 @@
         "state": "future"
     },
     "ultra-cdn.pl": {
-        "epoch": 1561593600,
-        "expiration_date": "27-jun-2019",
+        "epoch": 1564185600,
+        "expiration_date": "27-jul-2019",
         "state": "future"
     },
     "unblockedtpb.pw": {
@@ -2292,7 +2347,7 @@
     "vidfile.net": {
         "epoch": 1561680000,
         "expiration_date": "28-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "vidzi.tv": {
         "epoch": 1586649600,
