@@ -664,6 +664,11 @@
         "expiration_date": "01-oct-2020",
         "state": "future"
     },
+    "dexim.space": {
+        "epoch": 1557532800,
+        "expiration_date": "11-may-2019",
+        "state": "past"
+    },
     "directprimal.com": {
         "epoch": 1572739200,
         "expiration_date": "03-nov-2019",
@@ -672,6 +677,11 @@
     "djfhwosjck.bid": {
         "epoch": 1562803200,
         "expiration_date": "11-jul-2019",
+        "state": "future"
+    },
+    "doubleclick2.xyz": {
+        "epoch": 1586131200,
+        "expiration_date": "06-apr-2020",
         "state": "future"
     },
     "dubester.space": {
@@ -1839,6 +1849,11 @@
         "expiration_date": "19-dec-2019",
         "state": "future"
     },
+    "premiumstats.xyz": {
+        "epoch": 1584316800,
+        "expiration_date": "16-mar-2020",
+        "state": "future"
+    },
     "proj2018.xyz": {
         "epoch": 1586736000,
         "expiration_date": "13-apr-2020",
@@ -1903,6 +1918,11 @@
         "epoch": 1564963200,
         "expiration_date": "05-aug-2019",
         "state": "future"
+    },
+    "reasedoper.pw": {
+        "epoch": 1556323200,
+        "expiration_date": "27-apr-2019",
+        "state": "past"
     },
     "reauthenticator.com": {
         "epoch": 1565913600,
