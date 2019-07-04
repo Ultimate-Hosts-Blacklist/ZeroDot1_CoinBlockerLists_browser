@@ -89,6 +89,11 @@
         "expiration_date": "16-jan-2020",
         "state": "future"
     },
+    "aleinvest.xyz": {
+        "epoch": 1566777600,
+        "expiration_date": "26-aug-2019",
+        "state": "future"
+    },
     "alemoney.xyz": {
         "epoch": 1566777600,
         "expiration_date": "26-aug-2019",
@@ -419,6 +424,11 @@
         "expiration_date": "27-feb-2020",
         "state": "future"
     },
+    "clod.pw": {
+        "epoch": 1583798400,
+        "expiration_date": "10-mar-2020",
+        "state": "future"
+    },
     "cloudcdn.gdn": {
         "epoch": 1587081600,
         "expiration_date": "17-apr-2020",
@@ -727,6 +737,11 @@
     "doubleclick3.xyz": {
         "epoch": 1586131200,
         "expiration_date": "06-apr-2020",
+        "state": "future"
+    },
+    "dubester.site": {
+        "epoch": 1568851200,
+        "expiration_date": "19-sep-2019",
         "state": "future"
     },
     "dubester.space": {
@@ -2627,7 +2642,7 @@
     "zymerget.party": {
         "epoch": 1562025600,
         "expiration_date": "02-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "zymerget.stream": {
         "epoch": 1562025600,
