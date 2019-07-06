@@ -119,6 +119,11 @@
         "expiration_date": "18-jun-2019",
         "state": "past"
     },
+    "allfontshere.press": {
+        "epoch": 1591574400,
+        "expiration_date": "08-jun-2020",
+        "state": "future"
+    },
     "altavista.ovh": {
         "epoch": 1583452800,
         "expiration_date": "06-mar-2020",
@@ -744,6 +749,11 @@
         "expiration_date": "06-apr-2020",
         "state": "future"
     },
+    "doubleclick4.xyz": {
+        "epoch": 1586131200,
+        "expiration_date": "06-apr-2020",
+        "state": "future"
+    },
     "dubester.site": {
         "epoch": 1568851200,
         "expiration_date": "19-sep-2019",
@@ -1047,7 +1057,7 @@
     "gettate.racing": {
         "epoch": 1562025600,
         "expiration_date": "02-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "gitgrub.pro": {
         "epoch": 1588118400,
@@ -1082,7 +1092,7 @@
     "gramombird.com": {
         "epoch": 1562371200,
         "expiration_date": "06-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "gridcash.net": {
         "epoch": 1592352000,
@@ -2280,8 +2290,8 @@
         "state": "future"
     },
     "template-download.top": {
-        "epoch": 1562371200,
-        "expiration_date": "06-jul-2019",
+        "epoch": 1593993600,
+        "expiration_date": "06-jul-2020",
         "state": "future"
     },
     "tercabilis.info": {
@@ -2642,12 +2652,12 @@
     "zymerget.bid": {
         "epoch": 1562025600,
         "expiration_date": "02-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "zymerget.date": {
         "epoch": 1562025600,
         "expiration_date": "02-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "zymerget.faith": {
         "epoch": 1562025600,
