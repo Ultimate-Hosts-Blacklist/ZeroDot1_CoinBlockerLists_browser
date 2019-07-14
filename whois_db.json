@@ -50,8 +50,8 @@
         "state": "future"
     },
     "adplusplus.fr": {
-        "epoch": 1562803200,
-        "expiration_date": "11-jul-2019",
+        "epoch": 1594425600,
+        "expiration_date": "11-jul-2020",
         "state": "future"
     },
     "afminer.com": {
@@ -617,7 +617,7 @@
     "conhive.com": {
         "epoch": 1563062400,
         "expiration_date": "14-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "cookiescript.info": {
         "epoch": 1597276800,
@@ -2272,6 +2272,11 @@
     "str1kee.com": {
         "epoch": 1566000000,
         "expiration_date": "17-aug-2019",
+        "state": "future"
+    },
+    "streamdream.ws": {
+        "epoch": 1565568000,
+        "expiration_date": "12-aug-2019",
         "state": "future"
     },
     "streamplay.me": {
