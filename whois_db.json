@@ -219,6 +219,11 @@
         "expiration_date": "05-apr-2020",
         "state": "future"
     },
+    "candid.zone": {
+        "epoch": 1577318400,
+        "expiration_date": "26-dec-2019",
+        "state": "future"
+    },
     "capodannoinversilia.com": {
         "epoch": 1582070400,
         "expiration_date": "19-feb-2020",
@@ -228,6 +233,11 @@
         "epoch": 1566000000,
         "expiration_date": "17-aug-2019",
         "state": "future"
+    },
+    "ccvwtdtwyu.trade": {
+        "epoch": 1562803200,
+        "expiration_date": "11-jul-2019",
+        "state": "past"
     },
     "cfcdist.gdn": {
         "epoch": 1585699200,
@@ -257,6 +267,11 @@
     "cnhv.co": {
         "epoch": 1566518400,
         "expiration_date": "23-aug-2019",
+        "state": "future"
+    },
+    "cnt.st": {
+        "epoch": 1575590400,
+        "expiration_date": "06-dec-2019",
         "state": "future"
     },
     "code.ws": {
@@ -464,6 +479,11 @@
         "expiration_date": "10-jul-2020",
         "state": "future"
     },
+    "eu.cf": {
+        "epoch": 1714867200,
+        "expiration_date": "05-may-2024",
+        "state": "future"
+    },
     "eucsoft.com": {
         "epoch": 1581292800,
         "expiration_date": "10-feb-2020",
@@ -564,6 +584,11 @@
         "expiration_date": "07-feb-2020",
         "state": "future"
     },
+    "g-content.bid": {
+        "epoch": 1584230400,
+        "expiration_date": "15-mar-2020",
+        "state": "future"
+    },
     "g1thub.com": {
         "epoch": 1566000000,
         "expiration_date": "17-aug-2019",
@@ -637,6 +662,11 @@
     "hjnbvg.ru": {
         "epoch": 1594425600,
         "expiration_date": "11-jul-2020",
+        "state": "future"
+    },
+    "hostingcloud.party": {
+        "epoch": 1585958400,
+        "expiration_date": "04-apr-2020",
         "state": "future"
     },
     "httpp.gdn": {
@@ -1034,6 +1064,11 @@
         "expiration_date": "30-may-2020",
         "state": "future"
     },
+    "onvid.club": {
+        "epoch": 1571529600,
+        "expiration_date": "20-oct-2019",
+        "state": "future"
+    },
     "openkatalog.com": {
         "epoch": 1567296000,
         "expiration_date": "01-sep-2019",
@@ -1344,6 +1379,11 @@
         "expiration_date": "04-aug-2020",
         "state": "future"
     },
+    "thepiratebay.cr": {
+        "epoch": 1569456000,
+        "expiration_date": "26-sep-2019",
+        "state": "future"
+    },
     "thepiratebay.org": {
         "epoch": 1656374400,
         "expiration_date": "28-jun-2022",
@@ -1379,6 +1419,11 @@
         "expiration_date": "17-jan-2020",
         "state": "future"
     },
+    "traviilo.com": {
+        "epoch": 1576972800,
+        "expiration_date": "22-dec-2019",
+        "state": "future"
+    },
     "tubetitties.com": {
         "epoch": 1591660800,
         "expiration_date": "09-jun-2020",
@@ -1407,6 +1452,11 @@
     "unblocktheship.org": {
         "epoch": 1577059200,
         "expiration_date": "23-dec-2019",
+        "state": "future"
+    },
+    "unrummaged.com": {
+        "epoch": 1588982400,
+        "expiration_date": "09-may-2020",
         "state": "future"
     },
     "uoldid.ru": {
@@ -1563,5 +1613,10 @@
         "epoch": 1580515200,
         "expiration_date": "01-feb-2020",
         "state": "future"
+    },
+    "zymerget.party": {
+        "epoch": 1562025600,
+        "expiration_date": "02-jul-2019",
+        "state": "past"
     }
 }
