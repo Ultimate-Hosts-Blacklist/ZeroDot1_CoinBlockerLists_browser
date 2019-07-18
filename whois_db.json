@@ -69,6 +69,11 @@
         "expiration_date": "01-jul-2020",
         "state": "future"
     },
+    "alflying.bid": {
+        "epoch": 1560816000,
+        "expiration_date": "18-jun-2019",
+        "state": "past"
+    },
     "alflying.win": {
         "epoch": 1560816000,
         "expiration_date": "18-jun-2019",
@@ -658,6 +663,11 @@
         "epoch": 1584057600,
         "expiration_date": "13-mar-2020",
         "state": "future"
+    },
+    "flightsy.bid": {
+        "epoch": 1560816000,
+        "expiration_date": "18-jun-2019",
+        "state": "past"
     },
     "flightsy.win": {
         "epoch": 1560816000,
