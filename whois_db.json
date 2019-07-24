@@ -1319,6 +1319,11 @@
         "expiration_date": "15-apr-2020",
         "state": "future"
     },
+    "minexmr.com": {
+        "epoch": 1591142400,
+        "expiration_date": "03-jun-2020",
+        "state": "future"
+    },
     "minexmr.stream": {
         "epoch": 1557878400,
         "expiration_date": "15-may-2019",
@@ -1382,6 +1387,11 @@
     "monitoringservice.co": {
         "epoch": 1588723200,
         "expiration_date": "06-may-2020",
+        "state": "future"
+    },
+    "monkeyminer.net": {
+        "epoch": 1595462400,
+        "expiration_date": "23-jul-2020",
         "state": "future"
     },
     "moonbit.co.in": {
