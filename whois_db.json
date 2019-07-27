@@ -1589,6 +1589,11 @@
         "expiration_date": "01-sep-2019",
         "state": "future"
     },
+    "pampopholf.com": {
+        "epoch": 1560211200,
+        "expiration_date": "11-jun-2019",
+        "state": "past"
+    },
     "panelsave.com": {
         "epoch": 1568505600,
         "expiration_date": "15-sep-2019",
@@ -1926,7 +1931,7 @@
     },
     "sweetbook.net": {
         "epoch": 1573516800,
-        "expiration_date": "12-nov-2019",
+        "expiration_date": "30-apr-2020",
         "state": "future"
     },
     "swiftmining.win": {
