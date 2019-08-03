@@ -24,6 +24,11 @@
         "expiration_date": "18-jul-2020",
         "state": "future"
     },
+    "ad-miner.com": {
+        "epoch": 1579996800,
+        "expiration_date": "26-jan-2020",
+        "state": "future"
+    },
     "adbtc.top": {
         "epoch": 1599177600,
         "expiration_date": "04-sep-2020",
@@ -147,6 +152,11 @@
     "authedwebmine.cz": {
         "epoch": 1571616000,
         "expiration_date": "21-oct-2019",
+        "state": "future"
+    },
+    "averoconnector.com": {
+        "epoch": 1589414400,
+        "expiration_date": "14-may-2020",
         "state": "future"
     },
     "avualrhg9p.bid": {
@@ -519,6 +529,11 @@
         "expiration_date": "12-dec-2019",
         "state": "future"
     },
+    "cryptotab.net": {
+        "epoch": 1577318400,
+        "expiration_date": "26-dec-2019",
+        "state": "future"
+    },
     "csgocpu.com": {
         "epoch": 1589328000,
         "expiration_date": "13-may-2020",
@@ -827,6 +842,11 @@
     "gazanew.com": {
         "epoch": 1589500800,
         "expiration_date": "15-may-2020",
+        "state": "future"
+    },
+    "gemius.pl": {
+        "epoch": 1621036800,
+        "expiration_date": "15-may-2021",
         "state": "future"
     },
     "getcryptotab.com": {
@@ -1514,6 +1534,11 @@
         "expiration_date": "14-dec-2019",
         "state": "future"
     },
+    "pr0gram.org": {
+        "epoch": 1574553600,
+        "expiration_date": "24-nov-2019",
+        "state": "future"
+    },
     "projectpoi.com": {
         "epoch": 1576713600,
         "expiration_date": "19-dec-2019",
@@ -1523,6 +1548,11 @@
         "epoch": 1560816000,
         "expiration_date": "18-jun-2019",
         "state": "past"
+    },
+    "proxy4life.org": {
+        "epoch": 1577059200,
+        "expiration_date": "23-dec-2019",
+        "state": "future"
     },
     "proxyindia.net": {
         "epoch": 1571961600,
