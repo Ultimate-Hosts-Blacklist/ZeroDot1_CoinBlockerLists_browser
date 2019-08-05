@@ -1145,8 +1145,8 @@
         "state": "future"
     },
     "laserveradedomaina.com": {
-        "epoch": 1564876800,
-        "expiration_date": "04-aug-2019",
+        "epoch": 1596499200,
+        "expiration_date": "04-aug-2020",
         "state": "future"
     },
     "ledhenone.com": {
@@ -1637,7 +1637,7 @@
     "rctfgrazkha.ru": {
         "epoch": 1564963200,
         "expiration_date": "05-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "reauthenticator.com": {
         "epoch": 1565913600,
@@ -1853,6 +1853,11 @@
         "epoch": 1588204800,
         "expiration_date": "30-apr-2020",
         "state": "future"
+    },
+    "tainiesonline.stream": {
+        "epoch": 1560211200,
+        "expiration_date": "11-jun-2019",
+        "state": "past"
     },
     "techtricksworld.com": {
         "epoch": 1588982400,
