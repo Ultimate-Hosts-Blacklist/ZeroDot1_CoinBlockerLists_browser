@@ -884,6 +884,11 @@
         "expiration_date": "08-jan-2020",
         "state": "future"
     },
+    "freecontent.party": {
+        "epoch": 1579392000,
+        "expiration_date": "19-jan-2020",
+        "state": "future"
+    },
     "freecontent.stream": {
         "epoch": 1579392000,
         "expiration_date": "19-jan-2020",
@@ -965,6 +970,11 @@
         "state": "future"
     },
     "gettate.date": {
+        "epoch": 1562025600,
+        "expiration_date": "02-jul-2019",
+        "state": "past"
+    },
+    "gettate.faith": {
         "epoch": 1562025600,
         "expiration_date": "02-jul-2019",
         "state": "past"
@@ -1083,6 +1093,11 @@
         "epoch": 1573257600,
         "expiration_date": "09-nov-2019",
         "state": "future"
+    },
+    "iaheyftbsn.review": {
+        "epoch": 1562803200,
+        "expiration_date": "11-jul-2019",
+        "state": "past"
     },
     "igrid.org": {
         "epoch": 1576022400,
