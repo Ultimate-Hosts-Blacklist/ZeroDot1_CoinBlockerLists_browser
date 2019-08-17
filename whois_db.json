@@ -997,7 +997,7 @@
     "g1thub.com": {
         "epoch": 1566000000,
         "expiration_date": "17-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "gasolina.ml": {
         "epoch": 1590710400,
@@ -1382,6 +1382,11 @@
     "mepirtedic.com": {
         "epoch": 1589932800,
         "expiration_date": "20-may-2020",
+        "state": "future"
+    },
+    "mfio.cf": {
+        "epoch": 1867190400,
+        "expiration_date": "03-mar-2029",
         "state": "future"
     },
     "mi-de-ner-nis3.info": {
@@ -1932,7 +1937,7 @@
     "serv1swork.com": {
         "epoch": 1566000000,
         "expiration_date": "17-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "service4refresh.info": {
         "epoch": 1594080000,
