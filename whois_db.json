@@ -314,6 +314,11 @@
         "expiration_date": "15-feb-2020",
         "state": "future"
     },
+    "biberukalap.com": {
+        "epoch": 1599091200,
+        "expiration_date": "03-sep-2020",
+        "state": "future"
+    },
     "bitcoiner.win": {
         "epoch": 1663459200,
         "expiration_date": "18-sep-2022",
