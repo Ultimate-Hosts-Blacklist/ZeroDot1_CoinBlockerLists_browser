@@ -905,9 +905,9 @@
         "state": "future"
     },
     "free4faucet.com": {
-        "epoch": 1560729600,
-        "expiration_date": "17-jun-2019",
-        "state": "past"
+        "epoch": 1599091200,
+        "expiration_date": "03-sep-2020",
+        "state": "future"
     },
     "freebitco.in": {
         "epoch": 1760054400,
@@ -1352,7 +1352,7 @@
     "livestatsnet.services": {
         "epoch": 1567641600,
         "expiration_date": "05-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "lmodr.biz": {
         "epoch": 1561420800,
@@ -1542,6 +1542,11 @@
     "msg-2.me": {
         "epoch": 1585353600,
         "expiration_date": "28-mar-2020",
+        "state": "future"
+    },
+    "munero.me": {
+        "epoch": 1599177600,
+        "expiration_date": "04-sep-2020",
         "state": "future"
     },
     "mwor.gq": {
@@ -1997,7 +2002,7 @@
     "smectapop12.pl": {
         "epoch": 1567641600,
         "expiration_date": "05-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "spacepools.org": {
         "epoch": 1576886400,
