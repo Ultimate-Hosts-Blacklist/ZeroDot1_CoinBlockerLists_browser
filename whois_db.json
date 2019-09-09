@@ -972,7 +972,7 @@
     "freeproxy.ro": {
         "epoch": 1567814400,
         "expiration_date": "07-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "freshrefresher.com": {
         "epoch": 1586563200,
@@ -1360,9 +1360,9 @@
         "state": "past"
     },
     "livestatsnet.services": {
-        "epoch": 1567641600,
-        "expiration_date": "05-sep-2019",
-        "state": "past"
+        "epoch": 1599264000,
+        "expiration_date": "05-sep-2020",
+        "state": "future"
     },
     "lmodr.biz": {
         "epoch": 1561420800,
