@@ -194,6 +194,11 @@
         "expiration_date": "21-oct-2019",
         "state": "future"
     },
+    "avero.xyz": {
+        "epoch": 1588550400,
+        "expiration_date": "04-may-2020",
+        "state": "future"
+    },
     "averoconnector.com": {
         "epoch": 1589414400,
         "expiration_date": "14-may-2020",
@@ -735,6 +740,11 @@
         "state": "future"
     },
     "doubleclick2.xyz": {
+        "epoch": 1586131200,
+        "expiration_date": "06-apr-2020",
+        "state": "future"
+    },
+    "doubleclick3.xyz": {
         "epoch": 1586131200,
         "expiration_date": "06-apr-2020",
         "state": "future"
@@ -2047,6 +2057,11 @@
     "srcu.com": {
         "epoch": 1642118400,
         "expiration_date": "14-jan-2022",
+        "state": "future"
+    },
+    "srcu.pw": {
+        "epoch": 1568678400,
+        "expiration_date": "17-sep-2019",
         "state": "future"
     },
     "statdynamic.com": {
