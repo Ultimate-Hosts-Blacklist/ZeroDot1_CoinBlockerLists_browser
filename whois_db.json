@@ -20,8 +20,8 @@
         "state": "future"
     },
     "8000plus.si": {
-        "epoch": 1568505600,
-        "expiration_date": "15-sep-2019",
+        "epoch": 1600128000,
+        "expiration_date": "15-sep-2020",
         "state": "future"
     },
     "aalbbh84.info": {
@@ -1752,7 +1752,7 @@
     "panelsave.com": {
         "epoch": 1568505600,
         "expiration_date": "15-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "papoto.com": {
         "epoch": 1570233600,
