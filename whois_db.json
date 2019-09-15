@@ -175,8 +175,8 @@
         "state": "future"
     },
     "auroramine.com": {
-        "epoch": 1568419200,
-        "expiration_date": "14-sep-2019",
+        "epoch": 1600041600,
+        "expiration_date": "14-sep-2020",
         "state": "future"
     },
     "authcaptcha.com": {
@@ -505,9 +505,9 @@
         "state": "future"
     },
     "coingive.com": {
-        "epoch": 1568160000,
-        "expiration_date": "11-sep-2019",
-        "state": "past"
+        "epoch": 1599782400,
+        "expiration_date": "11-sep-2020",
+        "state": "future"
     },
     "coinhive-manager.com": {
         "epoch": 1577664000,
