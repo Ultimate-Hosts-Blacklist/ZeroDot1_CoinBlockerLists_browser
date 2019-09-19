@@ -147,12 +147,12 @@
     "anybest.host": {
         "epoch": 1568851200,
         "expiration_date": "19-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "anybest.pw": {
         "epoch": 1568851200,
         "expiration_date": "19-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "anybest.site": {
         "epoch": 1568851200,
@@ -774,10 +774,15 @@
         "expiration_date": "06-apr-2020",
         "state": "future"
     },
+    "dubester.pw": {
+        "epoch": 1568851200,
+        "expiration_date": "19-sep-2019",
+        "state": "past"
+    },
     "dubester.site": {
         "epoch": 1568851200,
         "expiration_date": "19-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "dubester.space": {
         "epoch": 1568851200,
@@ -2362,6 +2367,11 @@
     "viaxmr.com": {
         "epoch": 1597968000,
         "expiration_date": "21-aug-2020",
+        "state": "future"
+    },
+    "videoplayer2.xyz": {
+        "epoch": 1592611200,
+        "expiration_date": "20-jun-2020",
         "state": "future"
     },
     "vidfile.net": {
