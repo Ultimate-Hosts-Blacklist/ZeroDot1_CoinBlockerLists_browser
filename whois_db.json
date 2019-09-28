@@ -370,8 +370,8 @@
         "state": "future"
     },
     "brominer.com": {
-        "epoch": 1569110400,
-        "expiration_date": "22-sep-2019",
+        "epoch": 1600732800,
+        "expiration_date": "22-sep-2020",
         "state": "future"
     },
     "browsermine.com": {
@@ -2120,9 +2120,9 @@
         "state": "future"
     },
     "srcu.pw": {
-        "epoch": 1568678400,
-        "expiration_date": "17-sep-2019",
-        "state": "past"
+        "epoch": 1600300800,
+        "expiration_date": "17-sep-2020",
+        "state": "future"
     },
     "statdynamic.com": {
         "epoch": 1571356800,
