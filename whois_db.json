@@ -1675,8 +1675,8 @@
         "state": "future"
     },
     "ner-de-mi-nis-6.info": {
-        "epoch": 1568937600,
-        "expiration_date": "20-sep-2019",
+        "epoch": 1600560000,
+        "expiration_date": "20-sep-2020",
         "state": "future"
     },
     "nerdorium.org": {
@@ -2232,7 +2232,7 @@
     "thepiratebay.cr": {
         "epoch": 1569456000,
         "expiration_date": "26-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "thepiratebay.is": {
         "epoch": 1592784000,
