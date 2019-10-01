@@ -305,8 +305,8 @@
         "state": "future"
     },
     "best-cdn.pl": {
-        "epoch": 1567209600,
-        "expiration_date": "31-aug-2019",
+        "epoch": 1570924800,
+        "expiration_date": "13-oct-2019",
         "state": "future"
     },
     "bestcoinsignals.com": {
@@ -807,6 +807,11 @@
     "easyhash.io": {
         "epoch": 1600387200,
         "expiration_date": "18-sep-2020",
+        "state": "future"
+    },
+    "eeme7j.win": {
+        "epoch": 1601424000,
+        "expiration_date": "30-sep-2020",
         "state": "future"
     },
     "elthamely.com": {
@@ -1612,6 +1617,11 @@
     "morningdigit.com": {
         "epoch": 1597017600,
         "expiration_date": "10-aug-2020",
+        "state": "future"
+    },
+    "msdns.online": {
+        "epoch": 1586563200,
+        "expiration_date": "11-apr-2020",
         "state": "future"
     },
     "msg-2.me": {
