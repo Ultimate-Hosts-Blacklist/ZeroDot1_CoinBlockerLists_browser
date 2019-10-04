@@ -469,6 +469,11 @@
         "expiration_date": "04-feb-2020",
         "state": "future"
     },
+    "gridcash.net": {
+        "epoch": 1592352000,
+        "expiration_date": "17-jun-2020",
+        "state": "future"
+    },
     "hashing.win": {
         "epoch": 1575936000,
         "expiration_date": "10-dec-2019",
@@ -977,6 +982,11 @@
     "traffic-tech-service.info": {
         "epoch": 1595030400,
         "expiration_date": "18-jul-2020",
+        "state": "future"
+    },
+    "traviilo.com": {
+        "epoch": 1576972800,
+        "expiration_date": "22-dec-2019",
         "state": "future"
     },
     "turnsocial.com": {
