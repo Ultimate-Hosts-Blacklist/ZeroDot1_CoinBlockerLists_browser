@@ -464,6 +464,11 @@
         "expiration_date": "10-oct-2025",
         "state": "future"
     },
+    "freecontent.faith": {
+        "epoch": 1579392000,
+        "expiration_date": "19-jan-2020",
+        "state": "future"
+    },
     "freecontent.info": {
         "epoch": 1572912000,
         "expiration_date": "05-nov-2019",
@@ -804,6 +809,11 @@
         "expiration_date": "04-sep-2020",
         "state": "future"
     },
+    "mwor.gq": {
+        "epoch": 1885680000,
+        "expiration_date": "03-oct-2029",
+        "state": "future"
+    },
     "my-rigs.com": {
         "epoch": 1578528000,
         "expiration_date": "09-jan-2020",
@@ -1137,6 +1147,11 @@
     "uoldid.ru": {
         "epoch": 1592784000,
         "expiration_date": "22-jun-2020",
+        "state": "future"
+    },
+    "update-your-pc.info": {
+        "epoch": 1623715200,
+        "expiration_date": "15-jun-2021",
         "state": "future"
     },
     "vcrypt.net": {
