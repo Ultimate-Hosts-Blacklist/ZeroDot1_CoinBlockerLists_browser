@@ -209,6 +209,11 @@
         "expiration_date": "22-feb-2020",
         "state": "future"
     },
+    "clgserv.pro": {
+        "epoch": 1582761600,
+        "expiration_date": "27-feb-2020",
+        "state": "future"
+    },
     "cloudcdn.gdn": {
         "epoch": 1587081600,
         "expiration_date": "17-apr-2020",
@@ -372,6 +377,11 @@
     "etzbnfuigipwvs.ru": {
         "epoch": 1594339200,
         "expiration_date": "10-jul-2020",
+        "state": "future"
+    },
+    "eu.cf": {
+        "epoch": 1714867200,
+        "expiration_date": "05-may-2024",
         "state": "future"
     },
     "eucsoft.com": {
@@ -1042,6 +1052,11 @@
     "thepiratebay-proxylist.se": {
         "epoch": 1595376000,
         "expiration_date": "22-jul-2020",
+        "state": "future"
+    },
+    "thepiratebay.org": {
+        "epoch": 1656374400,
+        "expiration_date": "28-jun-2022",
         "state": "future"
     },
     "tpb.tw": {
