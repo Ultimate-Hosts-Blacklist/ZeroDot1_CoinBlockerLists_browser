@@ -244,6 +244,11 @@
         "expiration_date": "06-dec-2019",
         "state": "future"
     },
+    "cody.services": {
+        "epoch": 1594857600,
+        "expiration_date": "16-jul-2020",
+        "state": "future"
+    },
     "coin-cube.com": {
         "epoch": 1572480000,
         "expiration_date": "31-oct-2019",
@@ -1177,6 +1182,11 @@
     "wilf.cn": {
         "epoch": 1583712000,
         "expiration_date": "09-mar-2020",
+        "state": "future"
+    },
+    "wordc.ga": {
+        "epoch": 1604361600,
+        "expiration_date": "03-nov-2020",
         "state": "future"
     },
     "xbasfbno.info": {
