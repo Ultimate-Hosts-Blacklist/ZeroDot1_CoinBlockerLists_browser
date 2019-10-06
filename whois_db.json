@@ -369,6 +369,11 @@
         "expiration_date": "09-oct-2020",
         "state": "future"
     },
+    "cryptaloot.pro": {
+        "epoch": 1582416000,
+        "expiration_date": "23-feb-2020",
+        "state": "future"
+    },
     "crypto-pool.fr": {
         "epoch": 1579996800,
         "expiration_date": "26-jan-2020",
@@ -1037,6 +1042,11 @@
     "reauthenticator.com": {
         "epoch": 1597536000,
         "expiration_date": "16-aug-2020",
+        "state": "future"
+    },
+    "refreshnerer27.info": {
+        "epoch": 1593648000,
+        "expiration_date": "02-jul-2020",
         "state": "future"
     },
     "refreshnerer27rb.info": {
