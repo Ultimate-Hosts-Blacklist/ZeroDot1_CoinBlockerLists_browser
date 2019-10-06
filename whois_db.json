@@ -409,6 +409,11 @@
         "expiration_date": "03-nov-2019",
         "state": "future"
     },
+    "dzizsih.ru": {
+        "epoch": 1594080000,
+        "expiration_date": "07-jul-2020",
+        "state": "future"
+    },
     "easyhash.io": {
         "epoch": 1600387200,
         "expiration_date": "18-sep-2020",
@@ -1293,6 +1298,11 @@
         "epoch": 1623715200,
         "expiration_date": "15-jun-2021",
         "state": "future"
+    },
+    "upgraderservices.cf": {
+        "epoch": 1560124800,
+        "expiration_date": "10-jun-2019",
+        "state": "past"
     },
     "vcrypt.net": {
         "epoch": 1591401600,
