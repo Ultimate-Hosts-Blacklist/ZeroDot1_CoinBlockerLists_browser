@@ -749,6 +749,11 @@
         "expiration_date": "19-feb-2020",
         "state": "future"
     },
+    "kdowqlpt.info": {
+        "epoch": 1582070400,
+        "expiration_date": "19-feb-2020",
+        "state": "future"
+    },
     "kedtise.com": {
         "epoch": 1586044800,
         "expiration_date": "05-apr-2020",
@@ -982,6 +987,11 @@
     "omine.org": {
         "epoch": 1590796800,
         "expiration_date": "30-may-2020",
+        "state": "future"
+    },
+    "onvid.club": {
+        "epoch": 1571529600,
+        "expiration_date": "20-oct-2019",
         "state": "future"
     },
     "openkatalog.com": {
