@@ -614,6 +614,11 @@
         "expiration_date": "19-jan-2020",
         "state": "future"
     },
+    "freeproxy.ro": {
+        "epoch": 1567814400,
+        "expiration_date": "07-sep-2019",
+        "state": "past"
+    },
     "freshrefresher.com": {
         "epoch": 1586563200,
         "expiration_date": "11-apr-2020",
@@ -787,6 +792,11 @@
     "intellecthosting.net": {
         "epoch": 1571788800,
         "expiration_date": "23-oct-2019",
+        "state": "future"
+    },
+    "intersportv.com": {
+        "epoch": 1597708800,
+        "expiration_date": "18-aug-2020",
         "state": "future"
     },
     "inwemo.com": {
@@ -1337,6 +1347,11 @@
     "sportstream365.com": {
         "epoch": 1594598400,
         "expiration_date": "13-jul-2020",
+        "state": "future"
+    },
+    "srcip.com": {
+        "epoch": 1597968000,
+        "expiration_date": "21-aug-2020",
         "state": "future"
     },
     "srcu.com": {
