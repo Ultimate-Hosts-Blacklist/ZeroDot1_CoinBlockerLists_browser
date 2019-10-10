@@ -139,6 +139,11 @@
         "expiration_date": "30-jan-2020",
         "state": "future"
     },
+    "bayception.org": {
+        "epoch": 1577059200,
+        "expiration_date": "23-dec-2019",
+        "state": "future"
+    },
     "baypirateproxy.org": {
         "epoch": 1592006400,
         "expiration_date": "13-jun-2020",
@@ -399,6 +404,11 @@
         "expiration_date": "26-jan-2020",
         "state": "future"
     },
+    "cryptoloot.pro": {
+        "epoch": 1596067200,
+        "expiration_date": "30-jul-2020",
+        "state": "future"
+    },
     "cryptonoter.com": {
         "epoch": 1576108800,
         "expiration_date": "12-dec-2019",
@@ -412,6 +422,11 @@
     "de-mi-nis-ner.info": {
         "epoch": 1592265600,
         "expiration_date": "16-jun-2020",
+        "state": "future"
+    },
+    "de-ner-mi-nis4.info": {
+        "epoch": 1600128000,
+        "expiration_date": "15-sep-2020",
         "state": "future"
     },
     "de-nis-ner-mi-5.info": {
@@ -695,6 +710,11 @@
         "state": "future"
     },
     "hostingcloud.party": {
+        "epoch": 1585958400,
+        "expiration_date": "04-apr-2020",
+        "state": "future"
+    },
+    "hostingcloud.racing": {
         "epoch": 1585958400,
         "expiration_date": "04-apr-2020",
         "state": "future"
@@ -1294,6 +1314,11 @@
         "expiration_date": "28-jun-2022",
         "state": "future"
     },
+    "thepiratebay.wtf": {
+        "epoch": 1598572800,
+        "expiration_date": "28-aug-2020",
+        "state": "future"
+    },
     "tpb.tw": {
         "epoch": 1588809600,
         "expiration_date": "07-may-2020",
@@ -1437,6 +1462,11 @@
     "wordc.ga": {
         "epoch": 1604361600,
         "expiration_date": "03-nov-2020",
+        "state": "future"
+    },
+    "www.fr": {
+        "epoch": 1587427200,
+        "expiration_date": "21-apr-2020",
         "state": "future"
     },
     "xbasfbno.info": {
