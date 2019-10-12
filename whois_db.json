@@ -799,6 +799,11 @@
         "expiration_date": "26-mar-2020",
         "state": "future"
     },
+    "hostingcloud.faith": {
+        "epoch": 1598832000,
+        "expiration_date": "31-aug-2020",
+        "state": "future"
+    },
     "hostingcloud.party": {
         "epoch": 1585958400,
         "expiration_date": "04-apr-2020",
@@ -812,6 +817,11 @@
     "httpp.gdn": {
         "epoch": 1573257600,
         "expiration_date": "09-nov-2019",
+        "state": "future"
+    },
+    "igrid.org": {
+        "epoch": 1576022400,
+        "expiration_date": "11-dec-2019",
         "state": "future"
     },
     "indiaproxydl.org": {
@@ -1127,6 +1137,11 @@
     "nametraff.com": {
         "epoch": 1595203200,
         "expiration_date": "20-jul-2020",
+        "state": "future"
+    },
+    "nathetsof.com": {
+        "epoch": 1585958400,
+        "expiration_date": "04-apr-2020",
         "state": "future"
     },
     "nddmcconmqsy.ru": {
@@ -1507,6 +1522,11 @@
     "tpb.tw": {
         "epoch": 1588809600,
         "expiration_date": "07-may-2020",
+        "state": "future"
+    },
+    "tpbproxyone.org": {
+        "epoch": 1579219200,
+        "expiration_date": "17-jan-2020",
         "state": "future"
     },
     "traffic-tech-service.info": {
