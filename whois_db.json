@@ -559,6 +559,11 @@
         "expiration_date": "04-may-2020",
         "state": "future"
     },
+    "et-code.ru": {
+        "epoch": 1608595200,
+        "expiration_date": "22-dec-2020",
+        "state": "future"
+    },
     "etacontent.com": {
         "epoch": 1577318400,
         "expiration_date": "26-dec-2019",
@@ -737,6 +742,11 @@
     "fxnow.ru": {
         "epoch": 1581033600,
         "expiration_date": "07-feb-2020",
+        "state": "future"
+    },
+    "g-content.bid": {
+        "epoch": 1584230400,
+        "expiration_date": "15-mar-2020",
         "state": "future"
     },
     "g1thub.com": {
@@ -1152,6 +1162,11 @@
     "monitoringservice.co": {
         "epoch": 1588723200,
         "expiration_date": "06-may-2020",
+        "state": "future"
+    },
+    "monkeyminer.net": {
+        "epoch": 1595462400,
+        "expiration_date": "23-jul-2020",
         "state": "future"
     },
     "moonbit.co.in": {
@@ -1604,6 +1619,11 @@
         "expiration_date": "09-jul-2020",
         "state": "future"
     },
+    "theappguruz.com": {
+        "epoch": 1722729600,
+        "expiration_date": "04-aug-2024",
+        "state": "future"
+    },
     "thepiratebay-proxylist.se": {
         "epoch": 1595376000,
         "expiration_date": "22-jul-2020",
@@ -1774,6 +1794,11 @@
         "expiration_date": "23-feb-2020",
         "state": "future"
     },
+    "webminepool.com": {
+        "epoch": 1572480000,
+        "expiration_date": "31-oct-2019",
+        "state": "future"
+    },
     "webminer.pro": {
         "epoch": 1586390400,
         "expiration_date": "09-apr-2020",
@@ -1782,6 +1807,11 @@
     "webminerpool.com": {
         "epoch": 1577318400,
         "expiration_date": "26-dec-2019",
+        "state": "future"
+    },
+    "webmining.co": {
+        "epoch": 1573171200,
+        "expiration_date": "08-nov-2019",
         "state": "future"
     },
     "webxmr.com": {
