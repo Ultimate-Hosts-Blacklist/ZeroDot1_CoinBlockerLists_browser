@@ -384,6 +384,11 @@
         "expiration_date": "19-nov-2020",
         "state": "future"
     },
+    "coinive.com": {
+        "epoch": 1588896000,
+        "expiration_date": "08-may-2020",
+        "state": "future"
+    },
     "coinlab.biz": {
         "epoch": 1570060800,
         "expiration_date": "03-oct-2019",
