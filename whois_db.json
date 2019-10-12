@@ -1504,6 +1504,11 @@
         "expiration_date": "12-aug-2020",
         "state": "future"
     },
+    "sm3na.com": {
+        "epoch": 1585353600,
+        "expiration_date": "28-mar-2020",
+        "state": "future"
+    },
     "spacepools.org": {
         "epoch": 1576886400,
         "expiration_date": "21-dec-2019",
@@ -1750,6 +1755,11 @@
         "state": "future"
     },
     "wasm.stream": {
+        "epoch": 1575936000,
+        "expiration_date": "10-dec-2019",
+        "state": "future"
+    },
+    "webassembly.stream": {
         "epoch": 1575936000,
         "expiration_date": "10-dec-2019",
         "state": "future"
