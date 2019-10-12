@@ -439,6 +439,11 @@
         "expiration_date": "26-jan-2020",
         "state": "future"
     },
+    "crypto-webminer.com": {
+        "epoch": 1575504000,
+        "expiration_date": "05-dec-2019",
+        "state": "future"
+    },
     "cryptoloot.pro": {
         "epoch": 1596067200,
         "expiration_date": "30-jul-2020",
@@ -642,6 +647,11 @@
     "freecontent.info": {
         "epoch": 1572912000,
         "expiration_date": "05-nov-2019",
+        "state": "future"
+    },
+    "freecontent.net": {
+        "epoch": 1578441600,
+        "expiration_date": "08-jan-2020",
         "state": "future"
     },
     "freecontent.party": {
@@ -1454,6 +1464,11 @@
         "expiration_date": "06-mar-2020",
         "state": "future"
     },
+    "str1kee.com": {
+        "epoch": 1566000000,
+        "expiration_date": "17-aug-2019",
+        "state": "past"
+    },
     "streamdream.ws": {
         "epoch": 1565568000,
         "expiration_date": "12-aug-2019",
@@ -1642,6 +1657,11 @@
     "vzhjnorkudcxbiy.com": {
         "epoch": 1592438400,
         "expiration_date": "18-jun-2020",
+        "state": "future"
+    },
+    "wasm.stream": {
+        "epoch": 1575936000,
+        "expiration_date": "10-dec-2019",
         "state": "future"
     },
     "webmine.cz": {
