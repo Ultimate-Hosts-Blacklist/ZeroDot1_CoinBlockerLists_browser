@@ -1,4 +1,9 @@
 {
+    "2giga.link": {
+        "epoch": 1589241600,
+        "expiration_date": "12-may-2020",
+        "state": "future"
+    },
     "ad-miner.com": {
         "epoch": 1579996800,
         "expiration_date": "26-jan-2020",
@@ -32,6 +37,11 @@
     "altpool.pro": {
         "epoch": 1601856000,
         "expiration_date": "05-oct-2020",
+        "state": "future"
+    },
+    "analytics.blue": {
+        "epoch": 1576627200,
+        "expiration_date": "18-dec-2019",
         "state": "future"
     },
     "apdrive.win": {
@@ -89,6 +99,11 @@
         "expiration_date": "18-sep-2022",
         "state": "future"
     },
+    "butcalve.com": {
+        "epoch": 1586044800,
+        "expiration_date": "05-apr-2020",
+        "state": "future"
+    },
     "buyandfun.review": {
         "epoch": 1584316800,
         "expiration_date": "16-mar-2020",
@@ -98,6 +113,11 @@
         "epoch": 1566000000,
         "expiration_date": "17-aug-2019",
         "state": "past"
+    },
+    "cfcdist.gdn": {
+        "epoch": 1585699200,
+        "expiration_date": "01-apr-2020",
+        "state": "future"
     },
     "cloudflane.com": {
         "epoch": 1581379200,
@@ -394,6 +414,11 @@
         "expiration_date": "05-apr-2020",
         "state": "future"
     },
+    "lightminer.co": {
+        "epoch": 1603929600,
+        "expiration_date": "29-oct-2020",
+        "state": "future"
+    },
     "losital.ru": {
         "epoch": 1589846400,
         "expiration_date": "19-may-2020",
@@ -437,6 +462,11 @@
     "monkeyminer.net": {
         "epoch": 1595462400,
         "expiration_date": "23-jul-2020",
+        "state": "future"
+    },
+    "moonbit.co.in": {
+        "epoch": 1593561600,
+        "expiration_date": "01-jul-2020",
         "state": "future"
     },
     "moonify.io": {
@@ -614,6 +644,11 @@
         "expiration_date": "09-jul-2020",
         "state": "future"
     },
+    "theappguruz.com": {
+        "epoch": 1722729600,
+        "expiration_date": "04-aug-2024",
+        "state": "future"
+    },
     "thepiratebay.cr": {
         "epoch": 1569456000,
         "expiration_date": "26-sep-2019",
@@ -629,6 +664,11 @@
         "expiration_date": "09-jun-2020",
         "state": "future"
     },
+    "ulnawoyyzbljc.ru": {
+        "epoch": 1592006400,
+        "expiration_date": "13-jun-2020",
+        "state": "future"
+    },
     "vcrypt.net": {
         "epoch": 1591401600,
         "expiration_date": "06-jun-2020",
@@ -642,6 +682,11 @@
     "vidfile.net": {
         "epoch": 1593302400,
         "expiration_date": "28-jun-2020",
+        "state": "future"
+    },
+    "vuryua.ru": {
+        "epoch": 1592784000,
+        "expiration_date": "22-jun-2020",
         "state": "future"
     },
     "vuuwd.com": {
