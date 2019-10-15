@@ -174,6 +174,11 @@
         "expiration_date": "18-sep-2022",
         "state": "future"
     },
+    "bizoninvest.com": {
+        "epoch": 1596844800,
+        "expiration_date": "08-aug-2020",
+        "state": "future"
+    },
     "brominer.com": {
         "epoch": 1600732800,
         "expiration_date": "22-sep-2020",
@@ -374,6 +379,11 @@
         "expiration_date": "26-jan-2020",
         "state": "future"
     },
+    "crypto-webminer.com": {
+        "epoch": 1575504000,
+        "expiration_date": "05-dec-2019",
+        "state": "future"
+    },
     "cryptobara.com": {
         "epoch": 1588291200,
         "expiration_date": "01-may-2020",
@@ -479,6 +489,11 @@
         "expiration_date": "06-sep-2020",
         "state": "future"
     },
+    "flashx.co": {
+        "epoch": 1584057600,
+        "expiration_date": "13-mar-2020",
+        "state": "future"
+    },
     "flightsy.bid": {
         "epoch": 1599177600,
         "expiration_date": "04-sep-2020",
@@ -533,6 +548,11 @@
         "epoch": 1567814400,
         "expiration_date": "07-sep-2019",
         "state": "past"
+    },
+    "freshrefreshnerer186rb.info": {
+        "epoch": 1592438400,
+        "expiration_date": "18-jun-2020",
+        "state": "future"
     },
     "fxnow.ru": {
         "epoch": 1581033600,
@@ -1322,6 +1342,11 @@
     "webmine.pro": {
         "epoch": 1582416000,
         "expiration_date": "23-feb-2020",
+        "state": "future"
+    },
+    "webminepool.com": {
+        "epoch": 1572480000,
+        "expiration_date": "31-oct-2019",
         "state": "future"
     },
     "webminer.pro": {
