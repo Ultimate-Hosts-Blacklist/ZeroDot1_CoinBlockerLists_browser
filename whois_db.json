@@ -69,6 +69,11 @@
         "expiration_date": "18-dec-2019",
         "state": "future"
     },
+    "andlache.com": {
+        "epoch": 1585958400,
+        "expiration_date": "04-apr-2020",
+        "state": "future"
+    },
     "anybest.pw": {
         "epoch": 1600473600,
         "expiration_date": "19-sep-2020",
@@ -79,9 +84,19 @@
         "expiration_date": "09-jun-2023",
         "state": "future"
     },
+    "assetscdn.stream": {
+        "epoch": 1589241600,
+        "expiration_date": "12-may-2020",
+        "state": "future"
+    },
     "auroramine.com": {
         "epoch": 1600041600,
         "expiration_date": "14-sep-2020",
+        "state": "future"
+    },
+    "authcaptcha.com": {
+        "epoch": 1593129600,
+        "expiration_date": "26-jun-2020",
         "state": "future"
     },
     "authedmine.com": {
@@ -122,6 +137,11 @@
     "baypirateproxy.org": {
         "epoch": 1592006400,
         "expiration_date": "13-jun-2020",
+        "state": "future"
+    },
+    "beatingbytes.com": {
+        "epoch": 1578960000,
+        "expiration_date": "14-jan-2020",
         "state": "future"
     },
     "becanium.com": {
@@ -519,6 +539,11 @@
         "expiration_date": "04-sep-2020",
         "state": "future"
     },
+    "flnqmin.org": {
+        "epoch": 1586649600,
+        "expiration_date": "12-apr-2020",
+        "state": "future"
+    },
     "fortpush.com": {
         "epoch": 1580342400,
         "expiration_date": "30-jan-2020",
@@ -569,6 +594,11 @@
         "expiration_date": "07-sep-2019",
         "state": "past"
     },
+    "freshrefreshnerer186.info": {
+        "epoch": 1592438400,
+        "expiration_date": "18-jun-2020",
+        "state": "future"
+    },
     "freshrefreshnerer186rb.info": {
         "epoch": 1592438400,
         "expiration_date": "18-jun-2020",
@@ -597,6 +627,11 @@
     "gemius.pl": {
         "epoch": 1621036800,
         "expiration_date": "15-may-2021",
+        "state": "future"
+    },
+    "gitgrub.pro": {
+        "epoch": 1588118400,
+        "expiration_date": "29-apr-2020",
         "state": "future"
     },
     "goxmrminer.com": {
@@ -657,6 +692,11 @@
     "hostcontent.live": {
         "epoch": 1585180800,
         "expiration_date": "26-mar-2020",
+        "state": "future"
+    },
+    "hostingcloud.faith": {
+        "epoch": 1598832000,
+        "expiration_date": "31-aug-2020",
         "state": "future"
     },
     "hostingcloud.party": {
@@ -864,9 +904,19 @@
         "expiration_date": "31-mar-2020",
         "state": "future"
     },
+    "mollnia.com": {
+        "epoch": 1599868800,
+        "expiration_date": "12-sep-2020",
+        "state": "future"
+    },
     "monad.network": {
         "epoch": 1600992000,
         "expiration_date": "25-sep-2020",
+        "state": "future"
+    },
+    "monerise.com": {
+        "epoch": 1602633600,
+        "expiration_date": "14-oct-2020",
         "state": "future"
     },
     "monero-miner.com": {
@@ -927,6 +977,11 @@
     "nddmcconmqsy.ru": {
         "epoch": 1594425600,
         "expiration_date": "11-jul-2020",
+        "state": "future"
+    },
+    "ner-de-mi-nis-6.info": {
+        "epoch": 1600560000,
+        "expiration_date": "20-sep-2020",
         "state": "future"
     },
     "nerdorium.org": {
@@ -1209,6 +1264,11 @@
         "expiration_date": "06-mar-2020",
         "state": "future"
     },
+    "streamdream.ws": {
+        "epoch": 1565568000,
+        "expiration_date": "12-aug-2019",
+        "state": "past"
+    },
     "sunhd.info": {
         "epoch": 1578009600,
         "expiration_date": "03-jan-2020",
@@ -1279,6 +1339,11 @@
         "expiration_date": "28-aug-2020",
         "state": "future"
     },
+    "thewhizmarketing.com": {
+        "epoch": 1604534400,
+        "expiration_date": "05-nov-2020",
+        "state": "future"
+    },
     "traviilo.com": {
         "epoch": 1576972800,
         "expiration_date": "22-dec-2019",
@@ -1332,6 +1397,11 @@
     "verresof.com": {
         "epoch": 1586044800,
         "expiration_date": "05-apr-2020",
+        "state": "future"
+    },
+    "viaxmr.com": {
+        "epoch": 1597968000,
+        "expiration_date": "21-aug-2020",
         "state": "future"
     },
     "vidfile.net": {
