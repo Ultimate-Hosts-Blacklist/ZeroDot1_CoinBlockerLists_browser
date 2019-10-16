@@ -134,6 +134,11 @@
         "expiration_date": "03-oct-2020",
         "state": "future"
     },
+    "baiduccdn1.com": {
+        "epoch": 1581465600,
+        "expiration_date": "12-feb-2020",
+        "state": "future"
+    },
     "bajarlo.net": {
         "epoch": 1582156800,
         "expiration_date": "20-feb-2020",
@@ -262,6 +267,11 @@
     "clgserv.pro": {
         "epoch": 1582761600,
         "expiration_date": "27-feb-2020",
+        "state": "future"
+    },
+    "cloudcdn.gdn": {
+        "epoch": 1587081600,
+        "expiration_date": "17-apr-2020",
         "state": "future"
     },
     "cloudcoins.co": {
@@ -1162,6 +1172,11 @@
     "pema.cl": {
         "epoch": 1618012800,
         "expiration_date": "10-apr-2021",
+        "state": "future"
+    },
+    "pertholin.com": {
+        "epoch": 1586649600,
+        "expiration_date": "12-apr-2020",
         "state": "future"
     },
     "pirateahoy.net": {
