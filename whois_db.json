@@ -574,6 +574,11 @@
         "expiration_date": "04-sep-2020",
         "state": "future"
     },
+    "flightzy.bid": {
+        "epoch": 1602288000,
+        "expiration_date": "10-oct-2020",
+        "state": "future"
+    },
     "flnqmin.org": {
         "epoch": 1586649600,
         "expiration_date": "12-apr-2020",
@@ -652,6 +657,11 @@
     "fxnow.ru": {
         "epoch": 1581033600,
         "expiration_date": "07-feb-2020",
+        "state": "future"
+    },
+    "g-content.bid": {
+        "epoch": 1584230400,
+        "expiration_date": "15-mar-2020",
         "state": "future"
     },
     "gasolina.ml": {
@@ -974,6 +984,11 @@
         "expiration_date": "23-sep-2020",
         "state": "future"
     },
+    "monero-miner.net": {
+        "epoch": 1601164800,
+        "expiration_date": "27-sep-2020",
+        "state": "future"
+    },
     "monerominer.rocks": {
         "epoch": 1601337600,
         "expiration_date": "29-sep-2020",
@@ -1179,6 +1194,11 @@
         "expiration_date": "02-may-2020",
         "state": "future"
     },
+    "questionfly.com": {
+        "epoch": 1592697600,
+        "expiration_date": "21-jun-2020",
+        "state": "future"
+    },
     "ratingtoplist.com": {
         "epoch": 1602201600,
         "expiration_date": "09-oct-2020",
@@ -1327,6 +1347,11 @@
     "stati.in": {
         "epoch": 1592352000,
         "expiration_date": "17-jun-2020",
+        "state": "future"
+    },
+    "statpipe.ru": {
+        "epoch": 1603065600,
+        "expiration_date": "19-oct-2020",
         "state": "future"
     },
     "stonecalcom.com": {
