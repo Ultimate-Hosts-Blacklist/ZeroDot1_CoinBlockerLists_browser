@@ -819,6 +819,11 @@
         "expiration_date": "04-apr-2020",
         "state": "future"
     },
+    "httpp.gdn": {
+        "epoch": 1573257600,
+        "expiration_date": "09-nov-2019",
+        "state": "future"
+    },
     "igrid.org": {
         "epoch": 1576022400,
         "expiration_date": "11-dec-2019",
@@ -922,6 +927,11 @@
     "kissdoujin.com": {
         "epoch": 1599436800,
         "expiration_date": "07-sep-2020",
+        "state": "future"
+    },
+    "kisshentai.net": {
+        "epoch": 1620432000,
+        "expiration_date": "08-may-2021",
         "state": "future"
     },
     "laferia.cr": {
@@ -1464,6 +1474,11 @@
         "expiration_date": "05-oct-2020",
         "state": "future"
     },
+    "sweetbook.net": {
+        "epoch": 1605139200,
+        "expiration_date": "12-nov-2020",
+        "state": "future"
+    },
     "swiftmining.win": {
         "epoch": 1588204800,
         "expiration_date": "30-apr-2020",
@@ -1577,6 +1592,11 @@
     "ultra-cdn.pl": {
         "epoch": 1573171200,
         "expiration_date": "08-nov-2019",
+        "state": "future"
+    },
+    "unrummaged.com": {
+        "epoch": 1588982400,
+        "expiration_date": "09-may-2020",
         "state": "future"
     },
     "update-your-pc.info": {
