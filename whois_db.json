@@ -644,6 +644,11 @@
         "expiration_date": "21-mar-2020",
         "state": "future"
     },
+    "freebitco.in": {
+        "epoch": 1760054400,
+        "expiration_date": "10-oct-2025",
+        "state": "future"
+    },
     "freecontent.com": {
         "epoch": 1596931200,
         "expiration_date": "09-aug-2020",
@@ -737,6 +742,11 @@
     "gemius.pl": {
         "epoch": 1621036800,
         "expiration_date": "15-may-2021",
+        "state": "future"
+    },
+    "getcryptotab.com": {
+        "epoch": 1608940800,
+        "expiration_date": "26-dec-2020",
         "state": "future"
     },
     "gitgrub.pro": {
@@ -1307,6 +1317,11 @@
     "punchsub.net": {
         "epoch": 1588377600,
         "expiration_date": "02-may-2020",
+        "state": "future"
+    },
+    "pushno.com": {
+        "epoch": 1582761600,
+        "expiration_date": "27-feb-2020",
         "state": "future"
     },
     "questionfly.com": {
