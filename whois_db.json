@@ -1,4 +1,9 @@
 {
+    "0x1f4b0.com": {
+        "epoch": 1576886400,
+        "expiration_date": "21-dec-2019",
+        "state": "future"
+    },
     "2giga.link": {
         "epoch": 1589241600,
         "expiration_date": "12-may-2020",
@@ -659,9 +664,19 @@
         "expiration_date": "21-mar-2020",
         "state": "future"
     },
+    "free4faucet.com": {
+        "epoch": 1599091200,
+        "expiration_date": "03-sep-2020",
+        "state": "future"
+    },
     "freebitco.in": {
         "epoch": 1760054400,
         "expiration_date": "10-oct-2025",
+        "state": "future"
+    },
+    "freecontent.bid": {
+        "epoch": 1579392000,
+        "expiration_date": "19-jan-2020",
         "state": "future"
     },
     "freecontent.com": {
@@ -1282,6 +1297,11 @@
     "pampopholf.com": {
         "epoch": 1597622400,
         "expiration_date": "17-aug-2020",
+        "state": "future"
+    },
+    "panelsave.com": {
+        "epoch": 1600128000,
+        "expiration_date": "15-sep-2020",
         "state": "future"
     },
     "pcejuyhjucmkiny.ru": {
