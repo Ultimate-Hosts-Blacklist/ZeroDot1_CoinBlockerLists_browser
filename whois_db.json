@@ -830,9 +830,9 @@
         "state": "future"
     },
     "g1thub.com": {
-        "epoch": 1566000000,
-        "expiration_date": "17-aug-2019",
-        "state": "past"
+        "epoch": 1604016000,
+        "expiration_date": "30-oct-2020",
+        "state": "future"
     },
     "gasolina.ml": {
         "epoch": 1590710400,
@@ -1204,6 +1204,11 @@
         "expiration_date": "05-jul-2020",
         "state": "future"
     },
+    "minescripts.info": {
+        "epoch": 1586908800,
+        "expiration_date": "15-apr-2020",
+        "state": "future"
+    },
     "minexmr.com": {
         "epoch": 1591142400,
         "expiration_date": "03-jun-2020",
@@ -1277,6 +1282,11 @@
     "moonsade.com": {
         "epoch": 1585958400,
         "expiration_date": "04-apr-2020",
+        "state": "future"
+    },
+    "morningdigit.com": {
+        "epoch": 1597017600,
+        "expiration_date": "10-aug-2020",
         "state": "future"
     },
     "msg-2.me": {
