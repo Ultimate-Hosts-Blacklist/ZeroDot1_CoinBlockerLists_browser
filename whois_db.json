@@ -249,6 +249,11 @@
         "expiration_date": "08-aug-2020",
         "state": "future"
     },
+    "bmnr.pw": {
+        "epoch": 1574467200,
+        "expiration_date": "23-nov-2019",
+        "state": "future"
+    },
     "brominer.com": {
         "epoch": 1600732800,
         "expiration_date": "22-sep-2020",
@@ -342,7 +347,7 @@
     "coin-cube.com": {
         "epoch": 1572480000,
         "expiration_date": "31-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "coin-have.com": {
         "epoch": 1600819200,
@@ -587,6 +592,16 @@
     "directprimal.com": {
         "epoch": 1604361600,
         "expiration_date": "03-nov-2020",
+        "state": "future"
+    },
+    "doubleclick1.xyz": {
+        "epoch": 1586131200,
+        "expiration_date": "06-apr-2020",
+        "state": "future"
+    },
+    "doubleclick3.xyz": {
+        "epoch": 1586131200,
+        "expiration_date": "06-apr-2020",
         "state": "future"
     },
     "dubester.site": {
@@ -1077,6 +1092,11 @@
     "jyhfuqoh.info": {
         "epoch": 1582070400,
         "expiration_date": "19-feb-2020",
+        "state": "future"
+    },
+    "kalipasindra.online": {
+        "epoch": 1591574400,
+        "expiration_date": "08-jun-2020",
         "state": "future"
     },
     "kdowqlpt.info": {
