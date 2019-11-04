@@ -69,6 +69,11 @@
         "expiration_date": "25-oct-2019",
         "state": "past"
     },
+    "airproxyproxy.pw": {
+        "epoch": 1571961600,
+        "expiration_date": "25-oct-2019",
+        "state": "past"
+    },
     "airproxyunblocked.org": {
         "epoch": 1603584000,
         "expiration_date": "25-oct-2020",
@@ -142,6 +147,11 @@
     "authedwebmine.cz": {
         "epoch": 1603238400,
         "expiration_date": "21-oct-2020",
+        "state": "future"
+    },
+    "avero.xyz": {
+        "epoch": 1588550400,
+        "expiration_date": "04-may-2020",
         "state": "future"
     },
     "averoconnector.com": {
@@ -1503,6 +1513,11 @@
         "epoch": 1590796800,
         "expiration_date": "30-may-2020",
         "state": "future"
+    },
+    "onlinereserchstatistics.online": {
+        "epoch": 1566777600,
+        "expiration_date": "26-aug-2019",
+        "state": "past"
     },
     "onvid.club": {
         "epoch": 1571529600,
