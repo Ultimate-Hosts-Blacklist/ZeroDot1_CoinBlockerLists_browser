@@ -89,6 +89,11 @@
         "expiration_date": "01-jul-2020",
         "state": "future"
     },
+    "aleinvest.xyz": {
+        "epoch": 1566777600,
+        "expiration_date": "26-aug-2019",
+        "state": "past"
+    },
     "altavista.ovh": {
         "epoch": 1583452800,
         "expiration_date": "06-mar-2020",
@@ -637,6 +642,11 @@
     "dzizsih.ru": {
         "epoch": 1594080000,
         "expiration_date": "07-jul-2020",
+        "state": "future"
+    },
+    "easyhash.io": {
+        "epoch": 1600387200,
+        "expiration_date": "18-sep-2020",
         "state": "future"
     },
     "eeme7j.win": {
