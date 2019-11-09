@@ -860,9 +860,9 @@
         "state": "future"
     },
     "freeproxy.ro": {
-        "epoch": 1567814400,
-        "expiration_date": "07-sep-2019",
-        "state": "past"
+        "epoch": 1599350400.0,
+        "expiration_date": "06-sep-2020",
+        "state": "future"
     },
     "freshrefresher.com": {
         "epoch": 1586563200,
@@ -1959,6 +1959,11 @@
         "expiration_date": "06-apr-2020",
         "state": "future"
     },
+    "turnsocial.com": {
+        "epoch": 1617148800.0,
+        "expiration_date": "31-mar-2021",
+        "state": "future"
+    },
     "ulnawoyyzbljc.ru": {
         "epoch": 1592006400,
         "expiration_date": "13-jun-2020",
@@ -1972,6 +1977,11 @@
     "unblocktheship.org": {
         "epoch": 1577059200.0,
         "expiration_date": "23-dec-2019",
+        "state": "future"
+    },
+    "unrummaged.com": {
+        "epoch": 1588982400.0,
+        "expiration_date": "09-may-2020",
         "state": "future"
     },
     "uoldid.ru": {
