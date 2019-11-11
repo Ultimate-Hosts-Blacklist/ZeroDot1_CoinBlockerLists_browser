@@ -414,6 +414,11 @@
         "expiration_date": "03-dec-2019",
         "state": "future"
     },
+    "coiner.site": {
+        "epoch": 1567123200.0,
+        "expiration_date": "30-aug-2019",
+        "state": "past"
+    },
     "coinerra.com": {
         "epoch": 1600992000,
         "expiration_date": "25-sep-2020",
@@ -2013,6 +2018,11 @@
         "epoch": 1574380800.0,
         "expiration_date": "22-nov-2019",
         "state": "future"
+    },
+    "unblockedtpb.pw": {
+        "epoch": 1571961600.0,
+        "expiration_date": "25-oct-2019",
+        "state": "past"
     },
     "unblocktheship.org": {
         "epoch": 1577059200.0,
