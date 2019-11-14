@@ -104,6 +104,11 @@
         "expiration_date": "03-mar-2020",
         "state": "future"
     },
+    "coinlab.biz": {
+        "epoch": 1570060800.0,
+        "expiration_date": "03-oct-2019",
+        "state": "past"
+    },
     "cryptobara.com": {
         "epoch": 1588291200.0,
         "expiration_date": "01-may-2020",
