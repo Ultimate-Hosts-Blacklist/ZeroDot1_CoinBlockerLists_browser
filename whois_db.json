@@ -54,6 +54,11 @@
         "expiration_date": "03-oct-2020",
         "state": "future"
     },
+    "bajarlo.net": {
+        "epoch": 1582156800.0,
+        "expiration_date": "20-feb-2020",
+        "state": "future"
+    },
     "basepush.com": {
         "epoch": 1580342400.0,
         "expiration_date": "30-jan-2020",
@@ -152,6 +157,11 @@
     "freshrefreshnerer186.info": {
         "epoch": 1592438400.0,
         "expiration_date": "18-jun-2020",
+        "state": "future"
+    },
+    "gasolina.ml": {
+        "epoch": 1590710400.0,
+        "expiration_date": "29-may-2020",
         "state": "future"
     },
     "gridcash.net": {
@@ -357,6 +367,11 @@
     "webxmr.com": {
         "epoch": 1586563200.0,
         "expiration_date": "11-apr-2020",
+        "state": "future"
+    },
+    "wildianing.ru": {
+        "epoch": 1594425600.0,
+        "expiration_date": "11-jul-2020",
         "state": "future"
     },
     "xmrminingproxy.com": {
