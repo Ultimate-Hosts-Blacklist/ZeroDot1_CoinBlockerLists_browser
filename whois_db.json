@@ -574,6 +574,11 @@
         "expiration_date": "03-nov-2020",
         "state": "future"
     },
+    "doubleclick2.xyz": {
+        "epoch": 1586131200.0,
+        "expiration_date": "06-apr-2020",
+        "state": "future"
+    },
     "dzizsih.ru": {
         "epoch": 1594080000.0,
         "expiration_date": "07-jul-2020",
@@ -1633,6 +1638,11 @@
         "epoch": 1597190400.0,
         "expiration_date": "12-aug-2020",
         "state": "future"
+    },
+    "siteverification.online": {
+        "epoch": 1569974400.0,
+        "expiration_date": "02-oct-2019",
+        "state": "past"
     },
     "sm3na.com": {
         "epoch": 1585353600.0,
