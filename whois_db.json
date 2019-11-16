@@ -99,6 +99,11 @@
         "expiration_date": "04-apr-2020",
         "state": "future"
     },
+    "anybest.pw": {
+        "epoch": 1568851200.0,
+        "expiration_date": "19-sep-2019",
+        "state": "past"
+    },
     "apdrive.win": {
         "epoch": 1686268800.0,
         "expiration_date": "09-jun-2023",
@@ -1662,6 +1667,11 @@
     "sm3na.com": {
         "epoch": 1585353600.0,
         "expiration_date": "28-mar-2020",
+        "state": "future"
+    },
+    "smartoffer.site": {
+        "epoch": 1583625600.0,
+        "expiration_date": "08-mar-2020",
         "state": "future"
     },
     "spacepools.org": {
