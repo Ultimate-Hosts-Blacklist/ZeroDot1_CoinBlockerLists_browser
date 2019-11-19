@@ -4,6 +4,11 @@
         "expiration_date": "21-dec-2019",
         "state": "future"
     },
+    "2giga.download": {
+        "epoch": 1579651200.0,
+        "expiration_date": "22-jan-2020",
+        "state": "future"
+    },
     "2giga.link": {
         "epoch": 1589241600.0,
         "expiration_date": "12-may-2020",
@@ -749,6 +754,11 @@
         "expiration_date": "04-sep-2020",
         "state": "future"
     },
+    "flightzy.bid": {
+        "epoch": 1602288000.0,
+        "expiration_date": "10-oct-2020",
+        "state": "future"
+    },
     "flnqmin.org": {
         "epoch": 1586649600.0,
         "expiration_date": "12-apr-2020",
@@ -807,6 +817,11 @@
     "freecontent.info": {
         "epoch": 1604534400.0,
         "expiration_date": "05-nov-2020",
+        "state": "future"
+    },
+    "freecontent.net": {
+        "epoch": 1578441600.0,
+        "expiration_date": "08-jan-2020",
         "state": "future"
     },
     "freecontent.party": {
@@ -972,7 +987,7 @@
     "hk.rs": {
         "epoch": 1573862400.0,
         "expiration_date": "16-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "hostcontent.live": {
         "epoch": 1585180800.0,
@@ -1464,6 +1479,11 @@
         "expiration_date": "11-aug-2020",
         "state": "future"
     },
+    "oei1.gq": {
+        "epoch": 1591056000.0,
+        "expiration_date": "02-jun-2020",
+        "state": "future"
+    },
     "offerreality.com": {
         "epoch": 1598227200.0,
         "expiration_date": "24-aug-2020",
@@ -1530,6 +1550,11 @@
         "state": "future"
     },
     "pietpiraat.org": {
+        "epoch": 1577059200.0,
+        "expiration_date": "23-dec-2019",
+        "state": "future"
+    },
+    "pirata.pw": {
         "epoch": 1577059200.0,
         "expiration_date": "23-dec-2019",
         "state": "future"
