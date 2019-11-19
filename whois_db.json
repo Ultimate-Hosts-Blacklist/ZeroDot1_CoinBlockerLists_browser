@@ -1609,6 +1609,11 @@
         "expiration_date": "16-mar-2020",
         "state": "future"
     },
+    "projectpoi.com": {
+        "epoch": 1576713600.0,
+        "expiration_date": "19-dec-2019",
+        "state": "future"
+    },
     "proxy4life.org": {
         "epoch": 1577059200.0,
         "expiration_date": "23-dec-2019",
@@ -1807,6 +1812,11 @@
     "srcu.com": {
         "epoch": 1642118400.0,
         "expiration_date": "14-jan-2022",
+        "state": "future"
+    },
+    "statdynamic.com": {
+        "epoch": 1602979200.0,
+        "expiration_date": "18-oct-2020",
         "state": "future"
     },
     "stati.in": {
@@ -2112,6 +2122,11 @@
     "wildianing.ru": {
         "epoch": 1594425600.0,
         "expiration_date": "11-jul-2020",
+        "state": "future"
+    },
+    "wilf.cn": {
+        "epoch": 1583712000.0,
+        "expiration_date": "09-mar-2020",
         "state": "future"
     },
     "wordc.ga": {
