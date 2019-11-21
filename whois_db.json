@@ -599,6 +599,11 @@
         "expiration_date": "03-nov-2020",
         "state": "future"
     },
+    "doubleclick3.xyz": {
+        "epoch": 1586131200.0,
+        "expiration_date": "06-apr-2020",
+        "state": "future"
+    },
     "dzizsih.ru": {
         "epoch": 1594080000.0,
         "expiration_date": "07-jul-2020",
@@ -712,6 +717,11 @@
     "flightsy.win": {
         "epoch": 1599177600.0,
         "expiration_date": "04-sep-2020",
+        "state": "future"
+    },
+    "flightzy.bid": {
+        "epoch": 1602288000.0,
+        "expiration_date": "10-oct-2020",
         "state": "future"
     },
     "flnqmin.org": {
@@ -1778,6 +1788,11 @@
         "epoch": 1607558400.0,
         "expiration_date": "10-dec-2020",
         "state": "future"
+    },
+    "todogecoin.biz": {
+        "epoch": 1569974400.0,
+        "expiration_date": "02-oct-2019",
+        "state": "past"
     },
     "tpb.tw": {
         "epoch": 1588809600.0,
