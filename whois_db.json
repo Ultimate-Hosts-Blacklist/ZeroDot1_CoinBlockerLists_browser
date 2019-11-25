@@ -264,6 +264,11 @@
         "expiration_date": "20-feb-2020",
         "state": "future"
     },
+    "bmst.pw": {
+        "epoch": 1577232000.0,
+        "expiration_date": "25-dec-2019",
+        "state": "future"
+    },
     "brominer.com": {
         "epoch": 1600732800.0,
         "expiration_date": "22-sep-2020",
@@ -799,6 +804,11 @@
         "expiration_date": "06-sep-2020",
         "state": "future"
     },
+    "freshrefresher.com": {
+        "epoch": 1586563200.0,
+        "expiration_date": "11-apr-2020",
+        "state": "future"
+    },
     "freshrefreshnerer186.info": {
         "epoch": 1592438400.0,
         "expiration_date": "18-jun-2020",
@@ -1042,6 +1052,11 @@
     "jsecoin.com": {
         "epoch": 1690502400.0,
         "expiration_date": "28-jul-2023",
+        "state": "future"
+    },
+    "jurtym.cf": {
+        "epoch": 1578096000.0,
+        "expiration_date": "04-jan-2020",
         "state": "future"
     },
     "justintvizletir.tv": {
@@ -1329,6 +1344,11 @@
         "expiration_date": "10-mar-2020",
         "state": "future"
     },
+    "never.ovh": {
+        "epoch": 1581638400.0,
+        "expiration_date": "14-feb-2020",
+        "state": "future"
+    },
     "nexioniect.com": {
         "epoch": 1569369600.0,
         "expiration_date": "25-sep-2019",
@@ -1604,6 +1624,11 @@
         "expiration_date": "07-jul-2020",
         "state": "future"
     },
+    "sharing-is-caring.info": {
+        "epoch": 1627689600.0,
+        "expiration_date": "31-jul-2021",
+        "state": "future"
+    },
     "shrink-service.it": {
         "epoch": 1581206400.0,
         "expiration_date": "09-feb-2020",
@@ -1782,6 +1807,11 @@
     "thewhizmarketing.com": {
         "epoch": 1604534400.0,
         "expiration_date": "05-nov-2020",
+        "state": "future"
+    },
+    "thewhizproducts.com": {
+        "epoch": 1607558400.0,
+        "expiration_date": "10-dec-2020",
         "state": "future"
     },
     "thewise.com": {
