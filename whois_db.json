@@ -1229,6 +1229,11 @@
         "expiration_date": "03-may-2020",
         "state": "future"
     },
+    "mighbest.site": {
+        "epoch": 1568851200.0,
+        "expiration_date": "19-sep-2019",
+        "state": "past"
+    },
     "minecrunch.co": {
         "epoch": 1571961600.0,
         "expiration_date": "25-oct-2019",
