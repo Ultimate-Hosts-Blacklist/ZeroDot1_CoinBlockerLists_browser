@@ -119,6 +119,11 @@
         "expiration_date": "04-apr-2020",
         "state": "future"
     },
+    "anybest.pw": {
+        "epoch": 1568851200.0,
+        "expiration_date": "19-sep-2019",
+        "state": "past"
+    },
     "apdrive.win": {
         "epoch": 1686268800.0,
         "expiration_date": "09-jun-2023",
