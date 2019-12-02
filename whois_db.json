@@ -124,6 +124,11 @@
         "expiration_date": "26-jun-2020",
         "state": "future"
     },
+    "authedmine.com": {
+        "epoch": 1602374400.0,
+        "expiration_date": "11-oct-2020",
+        "state": "future"
+    },
     "authedwebmine.cz": {
         "epoch": 1603238400.0,
         "expiration_date": "21-oct-2020",
@@ -138,6 +143,11 @@
         "epoch": 1589414400.0,
         "expiration_date": "14-may-2020",
         "state": "future"
+    },
+    "avualrhg9p.bid": {
+        "epoch": 1574812800.0,
+        "expiration_date": "27-nov-2019",
+        "state": "past"
     },
     "bablace.com": {
         "epoch": 1601683200.0,
@@ -419,6 +429,11 @@
         "expiration_date": "02-nov-2020",
         "state": "future"
     },
+    "conhive.com": {
+        "epoch": 1594684800.0,
+        "expiration_date": "14-jul-2020",
+        "state": "future"
+    },
     "cookiescript.info": {
         "epoch": 1597276800.0,
         "expiration_date": "13-aug-2020",
@@ -512,6 +527,11 @@
     "deepc.cc": {
         "epoch": 1785283200.0,
         "expiration_date": "29-jul-2026",
+        "state": "future"
+    },
+    "dekoder.ws": {
+        "epoch": 1608768000.0,
+        "expiration_date": "24-dec-2020",
         "state": "future"
     },
     "directprimal.com": {
@@ -717,6 +737,11 @@
     "g-content.bid": {
         "epoch": 1584230400.0,
         "expiration_date": "15-mar-2020",
+        "state": "future"
+    },
+    "g1thub.com": {
+        "epoch": 1604016000.0,
+        "expiration_date": "30-oct-2020",
         "state": "future"
     },
     "gasolina.ml": {
@@ -1137,6 +1162,11 @@
     "morningdigit.com": {
         "epoch": 1597017600.0,
         "expiration_date": "10-aug-2020",
+        "state": "future"
+    },
+    "msg-2.me": {
+        "epoch": 1585353600.0,
+        "expiration_date": "28-mar-2020",
         "state": "future"
     },
     "munero.me": {
@@ -1807,6 +1837,11 @@
     "xmr.co": {
         "epoch": 1631404800.0,
         "expiration_date": "12-sep-2021",
+        "state": "future"
+    },
+    "xmrminingproxy.com": {
+        "epoch": 1576972800.0,
+        "expiration_date": "22-dec-2019",
         "state": "future"
     },
     "xmrpool.net": {
