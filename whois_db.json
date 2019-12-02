@@ -449,6 +449,11 @@
         "expiration_date": "05-may-2020",
         "state": "future"
     },
+    "coinwebmining.com": {
+        "epoch": 1578528000.0,
+        "expiration_date": "09-jan-2020",
+        "state": "future"
+    },
     "coinworker.com": {
         "epoch": 1604275200.0,
         "expiration_date": "02-nov-2020",
@@ -462,6 +467,11 @@
     "cookiescript.info": {
         "epoch": 1597276800.0,
         "expiration_date": "13-aug-2020",
+        "state": "future"
+    },
+    "cookiescriptcdn.pro": {
+        "epoch": 1597190400.0,
+        "expiration_date": "12-aug-2020",
         "state": "future"
     },
     "cpu2cash.link": {
