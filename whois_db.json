@@ -699,6 +699,11 @@
         "expiration_date": "04-sep-2020",
         "state": "future"
     },
+    "flightzy.bid": {
+        "epoch": 1602288000.0,
+        "expiration_date": "10-oct-2020",
+        "state": "future"
+    },
     "flnqmin.org": {
         "epoch": 1586649600.0,
         "expiration_date": "12-apr-2020",
