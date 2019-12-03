@@ -179,6 +179,11 @@
         "expiration_date": "30-jan-2020",
         "state": "future"
     },
+    "bayception.org": {
+        "epoch": 1577059200.0,
+        "expiration_date": "23-dec-2019",
+        "state": "future"
+    },
     "baypirateproxy.org": {
         "epoch": 1592006400.0,
         "expiration_date": "13-jun-2020",
@@ -1182,6 +1187,11 @@
     "mepirtedic.com": {
         "epoch": 1589932800.0,
         "expiration_date": "20-may-2020",
+        "state": "future"
+    },
+    "mfio.cf": {
+        "epoch": 1867190400.0,
+        "expiration_date": "03-mar-2029",
         "state": "future"
     },
     "mi-de-ner-nis3.info": {
