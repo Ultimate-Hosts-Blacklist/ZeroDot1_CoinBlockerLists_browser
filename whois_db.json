@@ -1,4 +1,9 @@
 {
+    "0x1f4b0.com": {
+        "epoch": 1576886400.0,
+        "expiration_date": "21-dec-2019",
+        "state": "future"
+    },
     "2giga.download": {
         "epoch": 1579651200.0,
         "expiration_date": "22-jan-2020",
@@ -34,6 +39,11 @@
         "expiration_date": "23-mar-2020",
         "state": "future"
     },
+    "adminer.com": {
+        "epoch": 1594598400.0,
+        "expiration_date": "13-jul-2020",
+        "state": "future"
+    },
     "adplusplus.fr": {
         "epoch": 1599609600.0,
         "expiration_date": "09-sep-2020",
@@ -49,9 +59,19 @@
         "expiration_date": "23-dec-2019",
         "state": "future"
     },
+    "airproxyboat.in": {
+        "epoch": 1571961600.0,
+        "expiration_date": "25-oct-2019",
+        "state": "past"
+    },
     "ajcryptominer.com": {
         "epoch": 1579132800.0,
         "expiration_date": "16-jan-2020",
+        "state": "future"
+    },
+    "altavista.ovh": {
+        "epoch": 1583452800.0,
+        "expiration_date": "06-mar-2020",
         "state": "future"
     },
     "altpool.pro": {
@@ -449,6 +469,11 @@
         "expiration_date": "09-jul-2020",
         "state": "future"
     },
+    "de-ner-mi-nis4.info": {
+        "epoch": 1600128000.0,
+        "expiration_date": "15-sep-2020",
+        "state": "future"
+    },
     "de-nis-ner-mi-5.info": {
         "epoch": 1602720000.0,
         "expiration_date": "15-oct-2020",
@@ -477,6 +502,11 @@
     "eeme7j.win": {
         "epoch": 1601424000.0,
         "expiration_date": "30-sep-2020",
+        "state": "future"
+    },
+    "elthamely.com": {
+        "epoch": 1603411200.0,
+        "expiration_date": "23-oct-2020",
         "state": "future"
     },
     "encoding.ovh": {
@@ -547,6 +577,11 @@
     "flightzy.bid": {
         "epoch": 1602288000.0,
         "expiration_date": "10-oct-2020",
+        "state": "future"
+    },
+    "flnqmin.org": {
+        "epoch": 1586649600.0,
+        "expiration_date": "12-apr-2020",
         "state": "future"
     },
     "formulawire.com": {
@@ -647,6 +682,11 @@
     "g-content.bid": {
         "epoch": 1584230400.0,
         "expiration_date": "15-mar-2020",
+        "state": "future"
+    },
+    "gay-hotvideo.net": {
+        "epoch": 1593043200.0,
+        "expiration_date": "25-jun-2020",
         "state": "future"
     },
     "gaypornwave.com": {
@@ -974,6 +1014,11 @@
         "expiration_date": "27-sep-2020",
         "state": "future"
     },
+    "monerominer.rocks": {
+        "epoch": 1601337600.0,
+        "expiration_date": "29-sep-2020",
+        "state": "future"
+    },
     "moneroocean.stream": {
         "epoch": 1881100800.0,
         "expiration_date": "11-aug-2029",
@@ -1032,6 +1077,11 @@
     "nddmcconmqsy.ru": {
         "epoch": 1594425600.0,
         "expiration_date": "11-jul-2020",
+        "state": "future"
+    },
+    "ner-de-mi-nis-6.info": {
+        "epoch": 1607040000.0,
+        "expiration_date": "04-dec-2020",
         "state": "future"
     },
     "nerdorium.org": {
@@ -1479,6 +1529,11 @@
         "expiration_date": "10-dec-2019",
         "state": "future"
     },
+    "webassembly.stream": {
+        "epoch": 1575936000.0,
+        "expiration_date": "10-dec-2019",
+        "state": "future"
+    },
     "webmine.cz": {
         "epoch": 1601683200.0,
         "expiration_date": "03-oct-2020",
@@ -1487,6 +1542,11 @@
     "webminepool.com": {
         "epoch": 1604102400.0,
         "expiration_date": "31-oct-2020",
+        "state": "future"
+    },
+    "webminer.pro": {
+        "epoch": 1586390400.0,
+        "expiration_date": "09-apr-2020",
         "state": "future"
     },
     "webminerpool.com": {
@@ -1502,6 +1562,11 @@
     "webxmr.com": {
         "epoch": 1586563200.0,
         "expiration_date": "11-apr-2020",
+        "state": "future"
+    },
+    "wilf.cn": {
+        "epoch": 1583712000.0,
+        "expiration_date": "09-mar-2020",
         "state": "future"
     },
     "wqgkainysj.ru": {
@@ -1532,6 +1597,11 @@
     "youporn.sexy": {
         "epoch": 1601942400.0,
         "expiration_date": "06-oct-2020",
+        "state": "future"
+    },
+    "zona.pl": {
+        "epoch": 1604534400.0,
+        "expiration_date": "05-nov-2020",
         "state": "future"
     },
     "zona.plus": {
