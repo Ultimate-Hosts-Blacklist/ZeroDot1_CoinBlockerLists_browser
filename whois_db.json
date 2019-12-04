@@ -844,6 +844,11 @@
         "expiration_date": "28-jan-2020",
         "state": "future"
     },
+    "intellecthosting.net": {
+        "epoch": 1603411200.0,
+        "expiration_date": "23-oct-2020",
+        "state": "future"
+    },
     "intersportv.com": {
         "epoch": 1597708800.0,
         "expiration_date": "18-aug-2020",
@@ -1019,6 +1024,11 @@
         "expiration_date": "27-jun-2020",
         "state": "future"
     },
+    "minescripts.info": {
+        "epoch": 1586908800.0,
+        "expiration_date": "15-apr-2020",
+        "state": "future"
+    },
     "mmpool.org": {
         "epoch": 1585612800.0,
         "expiration_date": "31-mar-2020",
@@ -1033,6 +1043,11 @@
         "epoch": 1571011200.0,
         "expiration_date": "14-oct-2019",
         "state": "past"
+    },
+    "monero-miner.com": {
+        "epoch": 1600819200.0,
+        "expiration_date": "23-sep-2020",
+        "state": "future"
     },
     "monero-miner.net": {
         "epoch": 1601164800.0,
@@ -1359,6 +1374,11 @@
         "expiration_date": "28-mar-2020",
         "state": "future"
     },
+    "spacepools.org": {
+        "epoch": 1576886400.0,
+        "expiration_date": "21-dec-2019",
+        "state": "future"
+    },
     "sparechange.io": {
         "epoch": 1602028800.0,
         "expiration_date": "07-oct-2020",
@@ -1427,6 +1447,11 @@
     "sweetbook.net": {
         "epoch": 1605139200.0,
         "expiration_date": "12-nov-2020",
+        "state": "future"
+    },
+    "swiftmining.win": {
+        "epoch": 1588204800.0,
+        "expiration_date": "30-apr-2020",
         "state": "future"
     },
     "techtricksworld.com": {
@@ -1607,6 +1632,11 @@
     "wilf.cn": {
         "epoch": 1583712000.0,
         "expiration_date": "09-mar-2020",
+        "state": "future"
+    },
+    "wordc.ga": {
+        "epoch": 1604361600.0,
+        "expiration_date": "03-nov-2020",
         "state": "future"
     },
     "wqgkainysj.ru": {
