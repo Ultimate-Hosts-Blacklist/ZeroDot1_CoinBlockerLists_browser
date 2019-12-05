@@ -209,6 +209,11 @@
         "expiration_date": "12-mar-2020",
         "state": "future"
     },
+    "bewaslac.com": {
+        "epoch": 1601683200.0,
+        "expiration_date": "03-oct-2020",
+        "state": "future"
+    },
     "bezoglasa.online": {
         "epoch": 1581724800.0,
         "expiration_date": "15-feb-2020",
@@ -532,6 +537,11 @@
     "encoding.ovh": {
         "epoch": 1585267200.0,
         "expiration_date": "27-mar-2020",
+        "state": "future"
+    },
+    "estream.nu": {
+        "epoch": 1588550400.0,
+        "expiration_date": "04-may-2020",
         "state": "future"
     },
     "et-code.ru": {
@@ -1099,6 +1109,11 @@
         "expiration_date": "28-mar-2020",
         "state": "future"
     },
+    "munero.me": {
+        "epoch": 1599177600.0,
+        "expiration_date": "04-sep-2020",
+        "state": "future"
+    },
     "mwor.gq": {
         "epoch": 1885680000.0,
         "expiration_date": "03-oct-2029",
@@ -1464,6 +1479,11 @@
         "expiration_date": "21-sep-2020",
         "state": "future"
     },
+    "tercabilis.info": {
+        "epoch": 1601596800.0,
+        "expiration_date": "02-oct-2020",
+        "state": "future"
+    },
     "tgtvbngp.ru": {
         "epoch": 1594339200.0,
         "expiration_date": "10-jul-2020",
@@ -1579,6 +1599,11 @@
         "expiration_date": "21-aug-2021",
         "state": "future"
     },
+    "vidfile.net": {
+        "epoch": 1593302400.0,
+        "expiration_date": "28-jun-2020",
+        "state": "future"
+    },
     "vkcdnservice.com": {
         "epoch": 1582070400.0,
         "expiration_date": "19-feb-2020",
@@ -1649,6 +1674,11 @@
         "expiration_date": "11-oct-2020",
         "state": "future"
     },
+    "www.fr": {
+        "epoch": 1587427200.0,
+        "expiration_date": "21-apr-2020",
+        "state": "future"
+    },
     "xgefmxd.ru": {
         "epoch": 1599696000.0,
         "expiration_date": "10-sep-2020",
@@ -1667,6 +1697,11 @@
     "youporn.sexy": {
         "epoch": 1601942400.0,
         "expiration_date": "06-oct-2020",
+        "state": "future"
+    },
+    "zlx.com.br": {
+        "epoch": 1602979200.0,
+        "expiration_date": "18-oct-2020",
         "state": "future"
     },
     "zona.pl": {
