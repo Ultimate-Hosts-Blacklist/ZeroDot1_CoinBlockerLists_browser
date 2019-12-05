@@ -1139,6 +1139,11 @@
         "expiration_date": "15-jun-2020",
         "state": "future"
     },
+    "mepirtedic.com": {
+        "epoch": 1589932800.0,
+        "expiration_date": "20-may-2020",
+        "state": "future"
+    },
     "mi-de-ner-nis3.info": {
         "epoch": 1588464000.0,
         "expiration_date": "03-may-2020",
@@ -1382,6 +1387,11 @@
     "oei1.gq": {
         "epoch": 1591056000.0,
         "expiration_date": "02-jun-2020",
+        "state": "future"
+    },
+    "offerreality.com": {
+        "epoch": 1598227200.0,
+        "expiration_date": "24-aug-2020",
         "state": "future"
     },
     "okexysylgzo.ru": {
