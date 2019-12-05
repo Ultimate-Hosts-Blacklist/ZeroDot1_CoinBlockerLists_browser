@@ -259,6 +259,11 @@
         "expiration_date": "08-aug-2020",
         "state": "future"
     },
+    "bmpx.pw": {
+        "epoch": 1608854400.0,
+        "expiration_date": "25-dec-2020",
+        "state": "future"
+    },
     "bmst.pw": {
         "epoch": 1608854400.0,
         "expiration_date": "25-dec-2020",
@@ -695,6 +700,11 @@
         "state": "future"
     },
     "flightsy.bid": {
+        "epoch": 1599177600.0,
+        "expiration_date": "04-sep-2020",
+        "state": "future"
+    },
+    "flightsy.win": {
         "epoch": 1599177600.0,
         "expiration_date": "04-sep-2020",
         "state": "future"
@@ -1497,6 +1507,11 @@
     "punchsub.net": {
         "epoch": 1588377600.0,
         "expiration_date": "02-may-2020",
+        "state": "future"
+    },
+    "pushno.com": {
+        "epoch": 1582761600.0,
+        "expiration_date": "27-feb-2020",
         "state": "future"
     },
     "questionfly.com": {
