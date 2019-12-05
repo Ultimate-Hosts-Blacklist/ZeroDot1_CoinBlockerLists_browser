@@ -1454,6 +1454,11 @@
         "expiration_date": "23-dec-2019",
         "state": "future"
     },
+    "pirata.pw": {
+        "epoch": 1577059200.0,
+        "expiration_date": "23-dec-2019",
+        "state": "future"
+    },
     "pirateahoy.net": {
         "epoch": 1592006400.0,
         "expiration_date": "13-jun-2020",
@@ -1867,6 +1872,11 @@
     "vidfile.net": {
         "epoch": 1593302400.0,
         "expiration_date": "28-jun-2020",
+        "state": "future"
+    },
+    "vidzi.tv": {
+        "epoch": 1586649600.0,
+        "expiration_date": "12-apr-2020",
         "state": "future"
     },
     "vkcdnservice.com": {
