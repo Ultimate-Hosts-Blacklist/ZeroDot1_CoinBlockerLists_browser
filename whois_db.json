@@ -69,6 +69,11 @@
         "expiration_date": "25-oct-2019",
         "state": "past"
     },
+    "airproxyunblocked.org": {
+        "epoch": 1603584000.0,
+        "expiration_date": "25-oct-2020",
+        "state": "future"
+    },
     "ajcryptominer.com": {
         "epoch": 1579132800.0,
         "expiration_date": "16-jan-2020",
@@ -624,6 +629,11 @@
         "expiration_date": "03-jun-2020",
         "state": "future"
     },
+    "firmware.center": {
+        "epoch": 1602374400.0,
+        "expiration_date": "11-oct-2020",
+        "state": "future"
+    },
     "flare-analytics.com": {
         "epoch": 1599350400.0,
         "expiration_date": "06-sep-2020",
@@ -952,6 +962,11 @@
     "jscoinminer.com": {
         "epoch": 1653609600.0,
         "expiration_date": "27-may-2022",
+        "state": "future"
+    },
+    "jsecoin.com": {
+        "epoch": 1690502400.0,
+        "expiration_date": "28-jul-2023",
         "state": "future"
     },
     "justintvizletir.tv": {
@@ -1704,6 +1719,11 @@
         "expiration_date": "19-feb-2020",
         "state": "future"
     },
+    "vuuwd.com": {
+        "epoch": 1578700800.0,
+        "expiration_date": "11-jan-2020",
+        "state": "future"
+    },
     "vzhjnorkudcxbiy.com": {
         "epoch": 1592438400.0,
         "expiration_date": "18-jun-2020",
@@ -1722,6 +1742,11 @@
     "webmine.cz": {
         "epoch": 1601683200.0,
         "expiration_date": "03-oct-2020",
+        "state": "future"
+    },
+    "webmine.pro": {
+        "epoch": 1582416000.0,
+        "expiration_date": "23-feb-2020",
         "state": "future"
     },
     "webminepool.com": {
