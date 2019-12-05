@@ -539,6 +539,11 @@
         "expiration_date": "26-dec-2019",
         "state": "future"
     },
+    "cuev.in": {
+        "epoch": 1606176000.0,
+        "expiration_date": "24-nov-2020",
+        "state": "future"
+    },
     "datasecu.download": {
         "epoch": 1589500800.0,
         "expiration_date": "15-may-2020",
@@ -652,6 +657,11 @@
     "fatisin.ru": {
         "epoch": 1594080000.0,
         "expiration_date": "07-jul-2020",
+        "state": "future"
+    },
+    "fblaster.com": {
+        "epoch": 1577664000.0,
+        "expiration_date": "30-dec-2019",
         "state": "future"
     },
     "fili.cc": {
@@ -852,6 +862,11 @@
     "goxmrminer.com": {
         "epoch": 1584921600.0,
         "expiration_date": "23-mar-2020",
+        "state": "future"
+    },
+    "graftpool.ovh": {
+        "epoch": 1580774400.0,
+        "expiration_date": "04-feb-2020",
         "state": "future"
     },
     "gramombird.com": {
@@ -1952,6 +1967,11 @@
     "youporn.sexy": {
         "epoch": 1601942400.0,
         "expiration_date": "06-oct-2020",
+        "state": "future"
+    },
+    "yrdrtzmsmt.com": {
+        "epoch": 1587859200.0,
+        "expiration_date": "26-apr-2020",
         "state": "future"
     },
     "zlx.com.br": {
