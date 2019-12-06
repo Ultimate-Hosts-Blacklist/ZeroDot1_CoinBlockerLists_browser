@@ -89,6 +89,11 @@
         "expiration_date": "01-jul-2020",
         "state": "future"
     },
+    "aleinvest.xyz": {
+        "epoch": 1606694400.0,
+        "expiration_date": "30-nov-2020",
+        "state": "future"
+    },
     "altavista.ovh": {
         "epoch": 1583452800.0,
         "expiration_date": "06-mar-2020",
@@ -530,9 +535,9 @@
         "state": "future"
     },
     "crypto-webminer.com": {
-        "epoch": 1575504000.0,
-        "expiration_date": "05-dec-2019",
-        "state": "past"
+        "epoch": 1607126400.0,
+        "expiration_date": "05-dec-2020",
+        "state": "future"
     },
     "cryptobara.com": {
         "epoch": 1588291200.0,
@@ -837,6 +842,11 @@
     "g-content.bid": {
         "epoch": 1584230400.0,
         "expiration_date": "15-mar-2020",
+        "state": "future"
+    },
+    "g1thub.com": {
+        "epoch": 1604016000.0,
+        "expiration_date": "30-oct-2020",
         "state": "future"
     },
     "gasolina.ml": {
@@ -1207,6 +1217,11 @@
     "minero.cc": {
         "epoch": 1593907200.0,
         "expiration_date": "05-jul-2020",
+        "state": "future"
+    },
+    "minero.pw": {
+        "epoch": 1577318400.0,
+        "expiration_date": "26-dec-2019",
         "state": "future"
     },
     "minescripts.info": {
@@ -1932,6 +1947,11 @@
     "vkcdnservice.com": {
         "epoch": 1582070400.0,
         "expiration_date": "19-feb-2020",
+        "state": "future"
+    },
+    "vuryua.ru": {
+        "epoch": 1592784000.0,
+        "expiration_date": "22-jun-2020",
         "state": "future"
     },
     "vuuwd.com": {
