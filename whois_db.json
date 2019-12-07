@@ -1199,6 +1199,11 @@
         "expiration_date": "20-may-2020",
         "state": "future"
     },
+    "mfio.cf": {
+        "epoch": 1867190400.0,
+        "expiration_date": "03-mar-2029",
+        "state": "future"
+    },
     "mi-de-ner-nis3.info": {
         "epoch": 1588464000.0,
         "expiration_date": "03-may-2020",
