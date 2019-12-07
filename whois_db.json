@@ -479,6 +479,11 @@
         "expiration_date": "08-aug-2020",
         "state": "future"
     },
+    "coinlab.biz": {
+        "epoch": 1570060800.0,
+        "expiration_date": "03-oct-2019",
+        "state": "past"
+    },
     "coinnebula.com": {
         "epoch": 1601337600.0,
         "expiration_date": "29-sep-2020",
