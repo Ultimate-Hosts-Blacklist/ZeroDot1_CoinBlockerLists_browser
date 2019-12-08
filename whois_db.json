@@ -1250,9 +1250,9 @@
         "state": "future"
     },
     "minemytraffic.com": {
-        "epoch": 1575676800.0,
-        "expiration_date": "07-dec-2019",
-        "state": "past"
+        "epoch": 1607299200.0,
+        "expiration_date": "07-dec-2020",
+        "state": "future"
     },
     "minerad.com": {
         "epoch": 1579219200.0,
@@ -1923,6 +1923,11 @@
         "epoch": 1569974400.0,
         "expiration_date": "02-oct-2019",
         "state": "past"
+    },
+    "torrent.pw": {
+        "epoch": 1588636800.0,
+        "expiration_date": "05-may-2020",
+        "state": "future"
     },
     "tpb.tw": {
         "epoch": 1588809600.0,
