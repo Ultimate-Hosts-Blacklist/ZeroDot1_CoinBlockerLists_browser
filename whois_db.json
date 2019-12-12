@@ -19,6 +19,11 @@
         "expiration_date": "15-sep-2020",
         "state": "future"
     },
+    "aalbbh84.info": {
+        "epoch": 1595030400.0,
+        "expiration_date": "18-jul-2020",
+        "state": "future"
+    },
     "ad-miner.com": {
         "epoch": 1579996800.0,
         "expiration_date": "26-jan-2020",
@@ -1209,6 +1214,11 @@
         "expiration_date": "05-jul-2020",
         "state": "future"
     },
+    "minescripts.info": {
+        "epoch": 1586908800.0,
+        "expiration_date": "15-apr-2020",
+        "state": "future"
+    },
     "minexmr.com": {
         "epoch": 1591142400.0,
         "expiration_date": "03-jun-2020",
@@ -1952,6 +1962,11 @@
     "webassembly.stream": {
         "epoch": 1607558400.0,
         "expiration_date": "10-dec-2020",
+        "state": "future"
+    },
+    "webmine.cz": {
+        "epoch": 1601683200.0,
+        "expiration_date": "03-oct-2020",
         "state": "future"
     },
     "webmine.pro": {
