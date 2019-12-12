@@ -1374,6 +1374,11 @@
         "expiration_date": "14-feb-2020",
         "state": "future"
     },
+    "nextbdom.ru": {
+        "epoch": 1590451200.0,
+        "expiration_date": "26-may-2020",
+        "state": "future"
+    },
     "nexttime.ovh": {
         "epoch": 1582156800.0,
         "expiration_date": "20-feb-2020",
@@ -1709,6 +1714,11 @@
         "expiration_date": "14-jan-2022",
         "state": "future"
     },
+    "statdynamic.com": {
+        "epoch": 1602979200.0,
+        "expiration_date": "18-oct-2020",
+        "state": "future"
+    },
     "stati.in": {
         "epoch": 1592352000.0,
         "expiration_date": "17-jun-2020",
@@ -1877,6 +1887,11 @@
     "ultra-cdn.pl": {
         "epoch": 1576972800.0,
         "expiration_date": "22-dec-2019",
+        "state": "future"
+    },
+    "unblocktheship.org": {
+        "epoch": 1577059200.0,
+        "expiration_date": "23-dec-2019",
         "state": "future"
     },
     "unrummaged.com": {
