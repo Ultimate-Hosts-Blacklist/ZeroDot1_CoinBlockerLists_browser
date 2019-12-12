@@ -1479,6 +1479,11 @@
         "expiration_date": "10-apr-2021",
         "state": "future"
     },
+    "pertholin.com": {
+        "epoch": 1586649600.0,
+        "expiration_date": "12-apr-2020",
+        "state": "future"
+    },
     "pietpiraat.org": {
         "epoch": 1577059200.0,
         "expiration_date": "23-dec-2019",
@@ -1987,6 +1992,11 @@
     "wilf.cn": {
         "epoch": 1583712000.0,
         "expiration_date": "09-mar-2020",
+        "state": "future"
+    },
+    "wordc.ga": {
+        "epoch": 1604361600.0,
+        "expiration_date": "03-nov-2020",
         "state": "future"
     },
     "wqgkainysj.ru": {
