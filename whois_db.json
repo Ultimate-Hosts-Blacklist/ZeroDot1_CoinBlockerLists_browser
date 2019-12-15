@@ -219,6 +219,11 @@
         "expiration_date": "27-feb-2020",
         "state": "future"
     },
+    "cloudcoins.co": {
+        "epoch": 1600992000.0,
+        "expiration_date": "25-sep-2020",
+        "state": "future"
+    },
     "cloudflare.solutions": {
         "epoch": 1581379200.0,
         "expiration_date": "11-feb-2020",
@@ -233,6 +238,11 @@
         "epoch": 1607212800.0,
         "expiration_date": "06-dec-2020",
         "state": "future"
+    },
+    "coin-cube.com": {
+        "epoch": 1572480000.0,
+        "expiration_date": "31-oct-2019",
+        "state": "past"
     },
     "coin-hive.com": {
         "epoch": 1598227200.0,
@@ -502,6 +512,11 @@
     "fatisin.ru": {
         "epoch": 1594080000.0,
         "expiration_date": "07-jul-2020",
+        "state": "future"
+    },
+    "fblaster.com": {
+        "epoch": 1577664000.0,
+        "expiration_date": "30-dec-2019",
         "state": "future"
     },
     "feesocrald.com": {
@@ -919,6 +934,11 @@
         "expiration_date": "19-may-2020",
         "state": "future"
     },
+    "ltstyov.ru": {
+        "epoch": 1594080000.0,
+        "expiration_date": "07-jul-2020",
+        "state": "future"
+    },
     "machieved.com": {
         "epoch": 1605916800.0,
         "expiration_date": "21-nov-2020",
@@ -1144,6 +1164,11 @@
         "expiration_date": "28-oct-2019",
         "state": "past"
     },
+    "omine.org": {
+        "epoch": 1590796800.0,
+        "expiration_date": "30-may-2020",
+        "state": "future"
+    },
     "onvid.club": {
         "epoch": 1571529600.0,
         "expiration_date": "20-oct-2019",
@@ -1212,6 +1237,11 @@
     "proxyfl.info": {
         "epoch": 1579219200.0,
         "expiration_date": "17-jan-2020",
+        "state": "future"
+    },
+    "proxyindia.net": {
+        "epoch": 1603584000.0,
+        "expiration_date": "25-oct-2020",
         "state": "future"
     },
     "pushno.com": {
