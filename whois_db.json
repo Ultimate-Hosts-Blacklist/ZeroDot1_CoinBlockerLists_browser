@@ -49,6 +49,11 @@
         "expiration_date": "23-dec-2019",
         "state": "future"
     },
+    "airproxyboat.in": {
+        "epoch": 1603584000.0,
+        "expiration_date": "25-oct-2020",
+        "state": "future"
+    },
     "airproxyunblocked.org": {
         "epoch": 1603584000.0,
         "expiration_date": "25-oct-2020",
@@ -282,6 +287,11 @@
     "coinhive.com": {
         "epoch": 1606780800.0,
         "expiration_date": "01-dec-2020",
+        "state": "future"
+    },
+    "coinhive.info": {
+        "epoch": 1583193600.0,
+        "expiration_date": "03-mar-2020",
         "state": "future"
     },
     "coinhive.net": {
@@ -662,6 +672,11 @@
     "fxnow.ru": {
         "epoch": 1581033600.0,
         "expiration_date": "07-feb-2020",
+        "state": "future"
+    },
+    "g-content.bid": {
+        "epoch": 1584230400.0,
+        "expiration_date": "15-mar-2020",
         "state": "future"
     },
     "g1thub.com": {
@@ -1532,6 +1547,11 @@
     "ulnawoyyzbljc.ru": {
         "epoch": 1592006400.0,
         "expiration_date": "13-jun-2020",
+        "state": "future"
+    },
+    "ultra-cdn.pl": {
+        "epoch": 1576972800.0,
+        "expiration_date": "22-dec-2019",
         "state": "future"
     },
     "unblocktheship.org": {
