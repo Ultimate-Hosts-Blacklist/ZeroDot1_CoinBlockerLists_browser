@@ -209,6 +209,11 @@
         "expiration_date": "20-oct-2021",
         "state": "future"
     },
+    "belicimo.pw": {
+        "epoch": 1605744000.0,
+        "expiration_date": "19-nov-2020",
+        "state": "future"
+    },
     "berateveng.ru": {
         "epoch": 1594339200.0,
         "expiration_date": "10-jul-2020",
@@ -312,6 +317,11 @@
     "clgserv.pro": {
         "epoch": 1582761600.0,
         "expiration_date": "27-feb-2020",
+        "state": "future"
+    },
+    "clod.pw": {
+        "epoch": 1583798400.0,
+        "expiration_date": "10-mar-2020",
         "state": "future"
     },
     "cloudcoins.co": {
@@ -448,6 +458,11 @@
         "epoch": 1570060800.0,
         "expiration_date": "03-oct-2019",
         "state": "past"
+    },
+    "coinnebula.com": {
+        "epoch": 1601337600.0,
+        "expiration_date": "29-sep-2020",
+        "state": "future"
     },
     "coinpot.co": {
         "epoch": 1588636800.0,
@@ -592,6 +607,11 @@
     "directprimal.com": {
         "epoch": 1604361600.0,
         "expiration_date": "03-nov-2020",
+        "state": "future"
+    },
+    "dzizsih.ru": {
+        "epoch": 1594080000.0,
+        "expiration_date": "07-jul-2020",
         "state": "future"
     },
     "easyhash.io": {
@@ -1122,6 +1142,11 @@
     "laferia.cr": {
         "epoch": 1589068800.0,
         "expiration_date": "10-may-2020",
+        "state": "future"
+    },
+    "laserveradedomaina.com": {
+        "epoch": 1596499200.0,
+        "expiration_date": "04-aug-2020",
         "state": "future"
     },
     "ledhenone.com": {
@@ -1664,9 +1689,19 @@
         "expiration_date": "12-aug-2020",
         "state": "future"
     },
+    "siteverification.online": {
+        "epoch": 1569974400.0,
+        "expiration_date": "02-oct-2019",
+        "state": "past"
+    },
     "sm3na.com": {
         "epoch": 1585353600.0,
         "expiration_date": "28-mar-2020",
+        "state": "future"
+    },
+    "smartoffer.site": {
+        "epoch": 1583625600.0,
+        "expiration_date": "08-mar-2020",
         "state": "future"
     },
     "spacepools.org": {
