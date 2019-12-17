@@ -549,6 +549,11 @@
         "expiration_date": "04-may-2020",
         "state": "future"
     },
+    "et-code.ru": {
+        "epoch": 1608595200.0,
+        "expiration_date": "22-dec-2020",
+        "state": "future"
+    },
     "etacontent.com": {
         "epoch": 1577318400.0,
         "expiration_date": "26-dec-2019",
@@ -844,6 +849,11 @@
         "expiration_date": "06-apr-2020",
         "state": "future"
     },
+    "hemnes.win": {
+        "epoch": 1579910400.0,
+        "expiration_date": "25-jan-2020",
+        "state": "future"
+    },
     "hide.ovh": {
         "epoch": 1585872000.0,
         "expiration_date": "03-apr-2020",
@@ -1064,6 +1074,11 @@
         "expiration_date": "21-nov-2020",
         "state": "future"
     },
+    "mebablo.com": {
+        "epoch": 1592179200.0,
+        "expiration_date": "15-jun-2020",
+        "state": "future"
+    },
     "mepirtedic.com": {
         "epoch": 1589932800.0,
         "expiration_date": "20-may-2020",
@@ -1078,6 +1093,11 @@
         "epoch": 1588464000.0,
         "expiration_date": "03-may-2020",
         "state": "future"
+    },
+    "minecrunch.co": {
+        "epoch": 1571961600.0,
+        "expiration_date": "25-oct-2019",
+        "state": "past"
     },
     "minemytraffic.com": {
         "epoch": 1607299200.0,
@@ -1147,6 +1167,11 @@
     "monitoringservice.co": {
         "epoch": 1588723200.0,
         "expiration_date": "06-may-2020",
+        "state": "future"
+    },
+    "monkeyminer.net": {
+        "epoch": 1595462400.0,
+        "expiration_date": "23-jul-2020",
         "state": "future"
     },
     "moonbit.co.in": {
@@ -1222,6 +1247,11 @@
     "nerdorium.org": {
         "epoch": 1598832000.0,
         "expiration_date": "31-aug-2020",
+        "state": "future"
+    },
+    "nerohut.com": {
+        "epoch": 1583798400.0,
+        "expiration_date": "10-mar-2020",
         "state": "future"
     },
     "nexioniect.com": {
@@ -1374,6 +1404,11 @@
         "expiration_date": "19-dec-2019",
         "state": "future"
     },
+    "proxy4life.org": {
+        "epoch": 1577059200.0,
+        "expiration_date": "23-dec-2019",
+        "state": "future"
+    },
     "proxyfl.info": {
         "epoch": 1579219200.0,
         "expiration_date": "17-jan-2020",
@@ -1427,6 +1462,11 @@
     "rmawm7mw.top": {
         "epoch": 1590710400.0,
         "expiration_date": "29-may-2020",
+        "state": "future"
+    },
+    "rocks.io": {
+        "epoch": 1605398400.0,
+        "expiration_date": "15-nov-2020",
         "state": "future"
     },
     "ron.si": {
@@ -1599,6 +1639,11 @@
         "expiration_date": "09-jul-2020",
         "state": "future"
     },
+    "tgtvbngp.ru": {
+        "epoch": 1594339200.0,
+        "expiration_date": "10-jul-2020",
+        "state": "future"
+    },
     "thathislitt.ru": {
         "epoch": 1594252800.0,
         "expiration_date": "09-jul-2020",
@@ -1622,6 +1667,11 @@
     "thepiratebay.is": {
         "epoch": 1592784000.0,
         "expiration_date": "22-jun-2020",
+        "state": "future"
+    },
+    "thepiratebay.org": {
+        "epoch": 1656374400.0,
+        "expiration_date": "28-jun-2022",
         "state": "future"
     },
     "thepiratebay.wtf": {
