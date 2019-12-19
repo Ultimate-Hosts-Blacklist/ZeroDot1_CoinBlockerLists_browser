@@ -744,6 +744,11 @@
         "expiration_date": "13-mar-2020",
         "state": "future"
     },
+    "flashx.pw": {
+        "epoch": 1606780800.0,
+        "expiration_date": "01-dec-2020",
+        "state": "future"
+    },
     "flightsy.bid": {
         "epoch": 1599177600.0,
         "expiration_date": "04-sep-2020",
@@ -1228,6 +1233,11 @@
         "epoch": 1605916800.0,
         "expiration_date": "21-nov-2020",
         "state": "future"
+    },
+    "mataharirama.xyz": {
+        "epoch": 1571961600.0,
+        "expiration_date": "25-oct-2019",
+        "state": "past"
     },
     "mebablo.com": {
         "epoch": 1592179200.0,
@@ -1755,9 +1765,9 @@
         "state": "future"
     },
     "siteverification.online": {
-        "epoch": 1569974400.0,
-        "expiration_date": "02-oct-2019",
-        "state": "past"
+        "epoch": 1608163200.0,
+        "expiration_date": "17-dec-2020",
+        "state": "future"
     },
     "sm3na.com": {
         "epoch": 1585353600.0,
