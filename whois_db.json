@@ -339,6 +339,11 @@
         "expiration_date": "10-mar-2020",
         "state": "future"
     },
+    "cloudcdn.gdn": {
+        "epoch": 1587081600.0,
+        "expiration_date": "17-apr-2020",
+        "state": "future"
+    },
     "cloudcoins.co": {
         "epoch": 1600992000.0,
         "expiration_date": "25-sep-2020",
@@ -1434,6 +1439,11 @@
         "expiration_date": "06-feb-2020",
         "state": "future"
     },
+    "nimiq.watch": {
+        "epoch": 1624147200.0,
+        "expiration_date": "20-jun-2021",
+        "state": "future"
+    },
     "nimiqpool.com": {
         "epoch": 1595721600.0,
         "expiration_date": "26-jul-2020",
@@ -1567,7 +1577,7 @@
     "projectpoi.com": {
         "epoch": 1576713600.0,
         "expiration_date": "19-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "proxy4life.org": {
         "epoch": 1577059200.0,
