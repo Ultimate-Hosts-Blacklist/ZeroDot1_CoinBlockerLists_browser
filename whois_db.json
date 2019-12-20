@@ -9,6 +9,11 @@
         "expiration_date": "08-jun-2020",
         "state": "future"
     },
+    "2giga.download": {
+        "epoch": 1579651200.0,
+        "expiration_date": "22-jan-2020",
+        "state": "future"
+    },
     "2giga.link": {
         "epoch": 1589241600.0,
         "expiration_date": "12-may-2020",
@@ -254,6 +259,11 @@
         "expiration_date": "18-mar-2020",
         "state": "future"
     },
+    "besti.ga": {
+        "epoch": 1587772800.0,
+        "expiration_date": "25-apr-2020",
+        "state": "future"
+    },
     "bestmobiworld.com": {
         "epoch": 1602892800.0,
         "expiration_date": "17-oct-2020",
@@ -292,6 +302,16 @@
     "bmnr.pw": {
         "epoch": 1606089600.0,
         "expiration_date": "23-nov-2020",
+        "state": "future"
+    },
+    "bmpx.pw": {
+        "epoch": 1608854400.0,
+        "expiration_date": "25-dec-2020",
+        "state": "future"
+    },
+    "bmst.pw": {
+        "epoch": 1608854400.0,
+        "expiration_date": "25-dec-2020",
         "state": "future"
     },
     "brominer.com": {
@@ -2137,6 +2157,11 @@
     "webassembly.stream": {
         "epoch": 1607558400.0,
         "expiration_date": "10-dec-2020",
+        "state": "future"
+    },
+    "webmine.cz": {
+        "epoch": 1601683200.0,
+        "expiration_date": "03-oct-2020",
         "state": "future"
     },
     "webmine.pro": {
