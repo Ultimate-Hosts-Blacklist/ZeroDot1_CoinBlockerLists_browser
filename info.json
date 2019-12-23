@@ -1,32 +1,23 @@
 {
-    "current_stats": {
-        "builds": 45,
+    "currently_under_test": "0",
+    "days_until_next_test": 2,
+    "end_datetime": "Mon Dec 23 11:42:46 2019",
+    "end_epoch": 1577101366.261823,
+    "last_autosave_datetime": "Mon Dec 23 11:10:08 2019",
+    "last_autosave_epoch": 1577099408.148149,
+    "name": "ZeroDot1_CoinBlockerLists_browser",
+    "previous_stats": {
+        "builds": 46,
+        "clean.list": 2093,
         "counter": {
             "down": 1729,
             "invalid": 1,
             "tested": 3823,
             "up": 2093
-        }
-    },
-    "currently_under_test": "1",
-    "days_until_next_test": 2,
-    "end_datetime": "Thu Dec 19 13:59:04 2019",
-    "end_epoch": 1576763944.83177,
-    "last_autosave_datetime": "Mon Dec 23 11:10:08 2019",
-    "last_autosave_epoch": 1577099408.148149,
-    "name": "ZeroDot1_CoinBlockerLists_browser",
-    "previous_stats": {
-        "builds": 22,
-        "clean.list": 2043,
-        "counter": {
-            "down": 1750,
-            "invalid": 1,
-            "tested": 3794,
-            "up": 2043
         },
-        "domains.list": 3794,
-        "volatile.list": 2041,
-        "whitelisted.list": 2041
+        "domains.list": 3823,
+        "volatile.list": 2091,
+        "whitelisted.list": 2091
     },
     "raw_link": "https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list_browser.txt",
     "start_datetime": "Fri Dec 20 11:02:11 2019",
