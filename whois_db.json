@@ -1125,8 +1125,8 @@
         "state": "future"
     },
     "indiaproxydl.org": {
-        "epoch": 1577059200.0,
-        "expiration_date": "23-dec-2019",
+        "epoch": 1608681600.0,
+        "expiration_date": "23-dec-2020",
         "state": "future"
     },
     "infamylists.com": {
@@ -2032,6 +2032,11 @@
     "thewise.com": {
         "epoch": 1607558400.0,
         "expiration_date": "10-dec-2020",
+        "state": "future"
+    },
+    "tidafors.xyz": {
+        "epoch": 1606435200.0,
+        "expiration_date": "27-nov-2020",
         "state": "future"
     },
     "todogecoin.biz": {
