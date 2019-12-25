@@ -529,6 +529,11 @@
         "expiration_date": "03-oct-2019",
         "state": "past"
     },
+    "coinminingonline.com": {
+        "epoch": 1608854400.0,
+        "expiration_date": "25-dec-2020",
+        "state": "future"
+    },
     "coinnebula.com": {
         "epoch": 1601337600.0,
         "expiration_date": "29-sep-2020",
@@ -1670,8 +1675,8 @@
         "state": "future"
     },
     "pietpiraat.org": {
-        "epoch": 1577059200.0,
-        "expiration_date": "23-dec-2019",
+        "epoch": 1608681600.0,
+        "expiration_date": "23-dec-2020",
         "state": "future"
     },
     "pirateahoy.net": {
@@ -1692,6 +1697,11 @@
     "pr0gram.org": {
         "epoch": 1606176000.0,
         "expiration_date": "24-nov-2020",
+        "state": "future"
+    },
+    "proj2018.xyz": {
+        "epoch": 1586736000.0,
+        "expiration_date": "13-apr-2020",
         "state": "future"
     },
     "projectpoi.com": {
