@@ -72,7 +72,7 @@
     "ahoypirate.in": {
         "epoch": 1577059200.0,
         "expiration_date": "23-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "airproxyboat.in": {
         "epoch": 1603584000.0,
@@ -317,6 +317,11 @@
     "bizoninvest.com": {
         "epoch": 1596844800.0,
         "expiration_date": "08-aug-2020",
+        "state": "future"
+    },
+    "bmcm.pw": {
+        "epoch": 1582156800.0,
+        "expiration_date": "20-feb-2020",
         "state": "future"
     },
     "bmnr.pw": {
