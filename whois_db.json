@@ -362,7 +362,7 @@
     "candid.zone": {
         "epoch": 1577318400.0,
         "expiration_date": "26-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "capodannoinversilia.com": {
         "epoch": 1582070400.0,
@@ -1745,8 +1745,8 @@
         "state": "future"
     },
     "proxy4life.org": {
-        "epoch": 1577059200.0,
-        "expiration_date": "23-dec-2019",
+        "epoch": 1608681600.0,
+        "expiration_date": "23-dec-2020",
         "state": "future"
     },
     "proxyfl.info": {
@@ -2085,9 +2085,9 @@
         "state": "future"
     },
     "todogecoin.biz": {
-        "epoch": 1569974400.0,
-        "expiration_date": "02-oct-2019",
-        "state": "past"
+        "epoch": 1608854400.0,
+        "expiration_date": "25-dec-2020",
+        "state": "future"
     },
     "torrent.pw": {
         "epoch": 1588636800.0,
@@ -2145,8 +2145,8 @@
         "state": "future"
     },
     "unblocktheship.org": {
-        "epoch": 1577059200.0,
-        "expiration_date": "23-dec-2019",
+        "epoch": 1608681600.0,
+        "expiration_date": "23-dec-2020",
         "state": "future"
     },
     "unrummaged.com": {
