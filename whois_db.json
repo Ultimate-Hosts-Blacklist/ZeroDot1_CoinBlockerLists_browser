@@ -1387,7 +1387,7 @@
     "minero.pw": {
         "epoch": 1577318400.0,
         "expiration_date": "26-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "minescripts.info": {
         "epoch": 1586908800.0,
@@ -2247,7 +2247,7 @@
     "webminerpool.com": {
         "epoch": 1577318400.0,
         "expiration_date": "26-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "webmining.co": {
         "epoch": 1604793600.0,
