@@ -1724,6 +1724,11 @@
         "expiration_date": "23-dec-2019",
         "state": "past"
     },
+    "pocketgolf.host": {
+        "epoch": 1602115200.0,
+        "expiration_date": "08-oct-2020",
+        "state": "future"
+    },
     "ppoi.org": {
         "epoch": 1607904000.0,
         "expiration_date": "14-dec-2020",
