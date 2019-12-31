@@ -64,6 +64,11 @@
         "expiration_date": "11-jan-2020",
         "state": "future"
     },
+    "bezoglasa.online": {
+        "epoch": 1581724800.0,
+        "expiration_date": "15-feb-2020",
+        "state": "future"
+    },
     "bmpx.pw": {
         "epoch": 1608854400.0,
         "expiration_date": "25-dec-2020",
@@ -160,6 +165,11 @@
         "state": "future"
     },
     "doubleclick3.xyz": {
+        "epoch": 1586131200.0,
+        "expiration_date": "06-apr-2020",
+        "state": "future"
+    },
+    "doubleclick4.xyz": {
         "epoch": 1586131200.0,
         "expiration_date": "06-apr-2020",
         "state": "future"
@@ -319,9 +329,19 @@
         "expiration_date": "27-sep-2020",
         "state": "future"
     },
+    "msdns.online": {
+        "epoch": 1586563200.0,
+        "expiration_date": "11-apr-2020",
+        "state": "future"
+    },
     "nathetsof.com": {
         "epoch": 1585958400.0,
         "expiration_date": "04-apr-2020",
+        "state": "future"
+    },
+    "nimiqtest.net": {
+        "epoch": 1585526400.0,
+        "expiration_date": "30-mar-2020",
         "state": "future"
     },
     "norespar.ru": {
@@ -382,6 +402,11 @@
     "pushno.com": {
         "epoch": 1582761600.0,
         "expiration_date": "27-feb-2020",
+        "state": "future"
+    },
+    "questionfly.com": {
+        "epoch": 1592697600.0,
+        "expiration_date": "21-jun-2020",
         "state": "future"
     },
     "refreshnerer27.info": {
@@ -457,6 +482,11 @@
     "xmrminingproxy.com": {
         "epoch": 1608595200.0,
         "expiration_date": "22-dec-2020",
+        "state": "future"
+    },
+    "xmrpool.net": {
+        "epoch": 1600732800.0,
+        "expiration_date": "22-sep-2020",
         "state": "future"
     },
     "zona.plus": {
