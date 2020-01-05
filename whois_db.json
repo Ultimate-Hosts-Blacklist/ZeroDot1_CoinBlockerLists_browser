@@ -2109,6 +2109,11 @@
         "expiration_date": "12-sep-2021",
         "state": "future"
     },
+    "xmrminingproxy.com": {
+        "epoch": 1608595200.0,
+        "expiration_date": "22-dec-2020",
+        "state": "future"
+    },
     "xmrpool.net": {
         "epoch": 1600732800.0,
         "expiration_date": "22-sep-2020",
