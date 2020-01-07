@@ -349,6 +349,11 @@
         "expiration_date": "01-jan-2021",
         "state": "future"
     },
+    "cieh.mx": {
+        "epoch": 1600732800.0,
+        "expiration_date": "22-sep-2020",
+        "state": "future"
+    },
     "clgserv.pro": {
         "epoch": 1582761600.0,
         "expiration_date": "27-feb-2020",
@@ -849,6 +854,11 @@
         "expiration_date": "05-nov-2020",
         "state": "future"
     },
+    "freecontent.net": {
+        "epoch": 1610064000.0,
+        "expiration_date": "08-jan-2021",
+        "state": "future"
+    },
     "freecontent.party": {
         "epoch": 1579392000.0,
         "expiration_date": "19-jan-2020",
@@ -1034,6 +1044,11 @@
         "expiration_date": "17-dec-2020",
         "state": "future"
     },
+    "hostcontent.live": {
+        "epoch": 1585180800.0,
+        "expiration_date": "26-mar-2020",
+        "state": "future"
+    },
     "hostingcloud.faith": {
         "epoch": 1598832000.0,
         "expiration_date": "31-aug-2020",
@@ -1122,6 +1137,11 @@
     "jqwww.download": {
         "epoch": 1585440000.0,
         "expiration_date": "29-mar-2020",
+        "state": "future"
+    },
+    "jroqvbvw.info": {
+        "epoch": 1582070400.0,
+        "expiration_date": "19-feb-2020",
         "state": "future"
     },
     "jsccnn.com": {
@@ -1457,6 +1477,11 @@
     "nerdorium.org": {
         "epoch": 1598832000.0,
         "expiration_date": "31-aug-2020",
+        "state": "future"
+    },
+    "nerohut.com": {
+        "epoch": 1583798400.0,
+        "expiration_date": "10-mar-2020",
         "state": "future"
     },
     "never.ovh": {
