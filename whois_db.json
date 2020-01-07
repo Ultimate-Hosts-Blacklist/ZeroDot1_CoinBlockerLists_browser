@@ -1474,6 +1474,11 @@
         "expiration_date": "26-may-2020",
         "state": "future"
     },
+    "nexttime.ovh": {
+        "epoch": 1582156800.0,
+        "expiration_date": "20-feb-2020",
+        "state": "future"
+    },
     "nfwebminer.com": {
         "epoch": 1580947200.0,
         "expiration_date": "06-feb-2020",
@@ -1622,6 +1627,11 @@
     "premiumstats.xyz": {
         "epoch": 1584316800.0,
         "expiration_date": "16-mar-2020",
+        "state": "future"
+    },
+    "proj2018.xyz": {
+        "epoch": 1586736000.0,
+        "expiration_date": "13-apr-2020",
         "state": "future"
     },
     "projectpoi.com": {
@@ -1922,6 +1932,11 @@
     "thepiratebay.org": {
         "epoch": 1656374400.0,
         "expiration_date": "28-jun-2022",
+        "state": "future"
+    },
+    "thepiratebay.wtf": {
+        "epoch": 1598572800.0,
+        "expiration_date": "28-aug-2020",
         "state": "future"
     },
     "thewhizproducts.com": {
