@@ -104,6 +104,11 @@
         "expiration_date": "14-jan-2020",
         "state": "future"
     },
+    "besstahete.info": {
+        "epoch": 1607731200.0,
+        "expiration_date": "12-dec-2020",
+        "state": "future"
+    },
     "best-cdn.pl": {
         "epoch": 1578700800.0,
         "expiration_date": "11-jan-2020",
@@ -284,6 +289,11 @@
         "expiration_date": "15-may-2020",
         "state": "future"
     },
+    "de-mi-nis-ner.info": {
+        "epoch": 1592265600.0,
+        "expiration_date": "16-jun-2020",
+        "state": "future"
+    },
     "de-mi-nis-ner2.info": {
         "epoch": 1594252800.0,
         "expiration_date": "09-jul-2020",
@@ -374,6 +384,11 @@
         "expiration_date": "03-jun-2020",
         "state": "future"
     },
+    "firmware.center": {
+        "epoch": 1602374400.0,
+        "expiration_date": "11-oct-2020",
+        "state": "future"
+    },
     "flare-analytics.com": {
         "epoch": 1599350400.0,
         "expiration_date": "06-sep-2020",
@@ -409,9 +424,19 @@
         "expiration_date": "21-jun-2020",
         "state": "future"
     },
+    "fortpush.com": {
+        "epoch": 1611964800.0,
+        "expiration_date": "30-jan-2021",
+        "state": "future"
+    },
     "free4faucet.com": {
         "epoch": 1599091200.0,
         "expiration_date": "03-sep-2020",
+        "state": "future"
+    },
+    "freecontent.com": {
+        "epoch": 1596931200.0,
+        "expiration_date": "09-aug-2020",
         "state": "future"
     },
     "freecontent.faith": {
@@ -442,6 +467,11 @@
     "freshrefresher.com": {
         "epoch": 1586563200.0,
         "expiration_date": "11-apr-2020",
+        "state": "future"
+    },
+    "freshrefreshnerer186.info": {
+        "epoch": 1592438400.0,
+        "expiration_date": "18-jun-2020",
         "state": "future"
     },
     "freshrefreshnerer186rb.info": {
