@@ -2039,6 +2039,11 @@
         "expiration_date": "25-dec-2020",
         "state": "future"
     },
+    "torrent.pw": {
+        "epoch": 1588636800.0,
+        "expiration_date": "05-may-2020",
+        "state": "future"
+    },
     "tpb.tw": {
         "epoch": 1588809600.0,
         "expiration_date": "07-may-2020",
@@ -2077,6 +2082,11 @@
     "ulnawoyyzbljc.ru": {
         "epoch": 1592006400.0,
         "expiration_date": "13-jun-2020",
+        "state": "future"
+    },
+    "unblockedtpb.pw": {
+        "epoch": 1606694400.0,
+        "expiration_date": "30-nov-2020",
         "state": "future"
     },
     "unblocktheship.org": {
