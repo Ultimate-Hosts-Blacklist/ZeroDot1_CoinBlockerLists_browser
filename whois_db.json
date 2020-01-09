@@ -124,6 +124,11 @@
         "expiration_date": "30-jan-2021",
         "state": "future"
     },
+    "bayception.pw": {
+        "epoch": 1577059200.0,
+        "expiration_date": "23-dec-2019",
+        "state": "past"
+    },
     "beatingbytes.com": {
         "epoch": 1578960000.0,
         "expiration_date": "14-jan-2020",
@@ -405,6 +410,11 @@
         "state": "future"
     },
     "doubleclick5.xyz": {
+        "epoch": 1586131200.0,
+        "expiration_date": "06-apr-2020",
+        "state": "future"
+    },
+    "doubleclick6.xyz": {
         "epoch": 1586131200.0,
         "expiration_date": "06-apr-2020",
         "state": "future"
@@ -1122,6 +1132,11 @@
     "srcip.com": {
         "epoch": 1597968000.0,
         "expiration_date": "21-aug-2020",
+        "state": "future"
+    },
+    "stati.in": {
+        "epoch": 1592352000.0,
+        "expiration_date": "17-jun-2020",
         "state": "future"
     },
     "statpipe.ru": {
