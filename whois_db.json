@@ -144,6 +144,11 @@
         "expiration_date": "27-jun-2020",
         "state": "future"
     },
+    "coinhiveproxy.com": {
+        "epoch": 1604620800.0,
+        "expiration_date": "06-nov-2020",
+        "state": "future"
+    },
     "coinminingonline.com": {
         "epoch": 1608854400.0,
         "expiration_date": "25-dec-2020",
@@ -157,6 +162,16 @@
     "cookiescript.info": {
         "epoch": 1597276800.0,
         "expiration_date": "13-aug-2020",
+        "state": "future"
+    },
+    "cookiescriptcdn.pro": {
+        "epoch": 1597190400.0,
+        "expiration_date": "12-aug-2020",
+        "state": "future"
+    },
+    "cuev.in": {
+        "epoch": 1606176000.0,
+        "expiration_date": "24-nov-2020",
         "state": "future"
     },
     "de-mi-nis-ner2.info": {
@@ -259,9 +274,19 @@
         "expiration_date": "16-mar-2020",
         "state": "future"
     },
+    "gridcash.net": {
+        "epoch": 1592352000.0,
+        "expiration_date": "17-jun-2020",
+        "state": "future"
+    },
     "hashforcash.us": {
         "epoch": 1601251200.0,
         "expiration_date": "28-sep-2020",
+        "state": "future"
+    },
+    "hostingcloud.science": {
+        "epoch": 1585958400.0,
+        "expiration_date": "04-apr-2020",
         "state": "future"
     },
     "igrid.org": {
@@ -292,6 +317,11 @@
     "lewd.ninja": {
         "epoch": 1597276800.0,
         "expiration_date": "13-aug-2020",
+        "state": "future"
+    },
+    "ltstyov.ru": {
+        "epoch": 1594080000.0,
+        "expiration_date": "07-jul-2020",
         "state": "future"
     },
     "mi-de-ner-nis3.info": {
@@ -349,6 +379,11 @@
         "expiration_date": "26-jul-2020",
         "state": "future"
     },
+    "nimiqtest.net": {
+        "epoch": 1585526400.0,
+        "expiration_date": "30-mar-2020",
+        "state": "future"
+    },
     "ninaning.com": {
         "epoch": 1595980800.0,
         "expiration_date": "29-jul-2020",
@@ -372,6 +407,11 @@
     "pcejuyhjucmkiny.ru": {
         "epoch": 1594252800.0,
         "expiration_date": "09-jul-2020",
+        "state": "future"
+    },
+    "pema.cl": {
+        "epoch": 1618012800.0,
+        "expiration_date": "10-apr-2021",
         "state": "future"
     },
     "pertholin.com": {
@@ -434,9 +474,19 @@
         "expiration_date": "03-aug-2021",
         "state": "future"
     },
+    "rowherthat.ru": {
+        "epoch": 1594425600.0,
+        "expiration_date": "11-jul-2020",
+        "state": "future"
+    },
     "serv1swork.com": {
         "epoch": 1604188800.0,
         "expiration_date": "01-nov-2020",
+        "state": "future"
+    },
+    "service4refresh.info": {
+        "epoch": 1594080000.0,
+        "expiration_date": "07-jul-2020",
         "state": "future"
     },
     "shrink-service.it": {
@@ -487,6 +537,11 @@
     "stati.in": {
         "epoch": 1592352000.0,
         "expiration_date": "17-jun-2020",
+        "state": "future"
+    },
+    "statpipe.ru": {
+        "epoch": 1603065600.0,
+        "expiration_date": "19-oct-2020",
         "state": "future"
     },
     "stonecalcom.com": {
@@ -557,6 +612,11 @@
     "xmr.co": {
         "epoch": 1631404800.0,
         "expiration_date": "12-sep-2021",
+        "state": "future"
+    },
+    "xmrminingproxy.com": {
+        "epoch": 1608595200.0,
+        "expiration_date": "22-dec-2020",
         "state": "future"
     },
     "yrdrtzmsmt.com": {
