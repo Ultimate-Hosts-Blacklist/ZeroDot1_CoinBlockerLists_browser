@@ -619,6 +619,11 @@
         "expiration_date": "26-dec-2020",
         "state": "future"
     },
+    "csgocpu.com": {
+        "epoch": 1589328000.0,
+        "expiration_date": "13-may-2020",
+        "state": "future"
+    },
     "cuev.in": {
         "epoch": 1606176000.0,
         "expiration_date": "24-nov-2020",
@@ -1837,6 +1842,11 @@
     "siteverification.online": {
         "epoch": 1608163200.0,
         "expiration_date": "17-dec-2020",
+        "state": "future"
+    },
+    "sm3na.com": {
+        "epoch": 1616889600.0,
+        "expiration_date": "28-mar-2021",
         "state": "future"
     },
     "smartoffer.site": {
