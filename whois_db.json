@@ -154,6 +154,11 @@
         "expiration_date": "12-may-2020",
         "state": "future"
     },
+    "auroramine.com": {
+        "epoch": 1600041600.0,
+        "expiration_date": "14-sep-2020",
+        "state": "future"
+    },
     "authcaptcha.com": {
         "epoch": 1593129600.0,
         "expiration_date": "26-jun-2020",
@@ -213,6 +218,11 @@
         "epoch": 1577059200.0,
         "expiration_date": "23-dec-2019",
         "state": "past"
+    },
+    "baypirateproxy.org": {
+        "epoch": 1592006400.0,
+        "expiration_date": "13-jun-2020",
+        "state": "future"
     },
     "baypirateproxy.pw": {
         "epoch": 1595030400.0,
@@ -352,6 +362,11 @@
     "capodannoinversilia.com": {
         "epoch": 1582070400.0,
         "expiration_date": "19-feb-2020",
+        "state": "future"
+    },
+    "cashbeet.com": {
+        "epoch": 1604016000.0,
+        "expiration_date": "30-oct-2020",
         "state": "future"
     },
     "cdn-code.host": {
@@ -609,6 +624,11 @@
         "expiration_date": "30-jul-2020",
         "state": "future"
     },
+    "cryptonoter.com": {
+        "epoch": 1607731200.0,
+        "expiration_date": "12-dec-2020",
+        "state": "future"
+    },
     "cryptosearch.site": {
         "epoch": 1608940800.0,
         "expiration_date": "26-dec-2020",
@@ -707,6 +727,11 @@
     "doubleclick6.xyz": {
         "epoch": 1586131200.0,
         "expiration_date": "06-apr-2020",
+        "state": "future"
+    },
+    "dzizsih.ru": {
+        "epoch": 1594080000.0,
+        "expiration_date": "07-jul-2020",
         "state": "future"
     },
     "easyhash.io": {
@@ -1203,6 +1228,11 @@
         "epoch": 1690502400.0,
         "expiration_date": "28-jul-2023",
         "state": "future"
+    },
+    "jurtym.cf": {
+        "epoch": 1578096000.0,
+        "expiration_date": "04-jan-2020",
+        "state": "past"
     },
     "justintvizletir.tv": {
         "epoch": 1581897600.0,
@@ -2067,6 +2097,11 @@
     "unblockedtpb.pw": {
         "epoch": 1606694400.0,
         "expiration_date": "30-nov-2020",
+        "state": "future"
+    },
+    "unblocktheship.org": {
+        "epoch": 1608681600.0,
+        "expiration_date": "23-dec-2020",
         "state": "future"
     },
     "unrummaged.com": {
