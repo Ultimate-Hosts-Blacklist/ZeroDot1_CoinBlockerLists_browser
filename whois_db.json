@@ -259,6 +259,11 @@
         "expiration_date": "03-oct-2020",
         "state": "future"
     },
+    "bezoglasa.online": {
+        "epoch": 1581724800.0,
+        "expiration_date": "15-feb-2020",
+        "state": "future"
+    },
     "biberukalap.com": {
         "epoch": 1599091200.0,
         "expiration_date": "03-sep-2020",
@@ -625,6 +630,11 @@
         "state": "future"
     },
     "doubleclick4.xyz": {
+        "epoch": 1586131200.0,
+        "expiration_date": "06-apr-2020",
+        "state": "future"
+    },
+    "doubleclick5.xyz": {
         "epoch": 1586131200.0,
         "expiration_date": "06-apr-2020",
         "state": "future"
