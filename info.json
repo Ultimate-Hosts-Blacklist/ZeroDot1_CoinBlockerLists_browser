@@ -1,30 +1,21 @@
 {
-    "current_stats": {
-        "builds": 46,
+    "currently_under_test": "0",
+    "days_until_next_test": 2,
+    "end_datetime": "Thu Jan 16 11:49:04 2020",
+    "end_epoch": 1579175344.442191,
+    "last_autosave_datetime": "Thu Jan 16 11:36:29 2020",
+    "last_autosave_epoch": 1579174589.461165,
+    "name": "ZeroDot1_CoinBlockerLists_browser",
+    "previous_stats": {
+        "builds": 47,
+        "clean.list": 2074,
         "counter": {
             "down": 1738,
             "invalid": 1,
             "tested": 3813,
             "up": 2074
-        }
-    },
-    "currently_under_test": "1",
-    "days_until_next_test": 2,
-    "end_datetime": "Mon Jan 13 08:51:14 2020",
-    "end_epoch": 1578905474.575489,
-    "last_autosave_datetime": "Thu Jan 16 11:36:29 2020",
-    "last_autosave_epoch": 1579174589.461165,
-    "name": "ZeroDot1_CoinBlockerLists_browser",
-    "previous_stats": {
-        "builds": 10,
-        "clean.list": 2074,
-        "counter": {
-            "down": 1729,
-            "invalid": 1,
-            "tested": 3804,
-            "up": 2074
         },
-        "domains.list": 3804,
+        "domains.list": 3813,
         "volatile.list": 2074,
         "whitelisted.list": 2072
     },
