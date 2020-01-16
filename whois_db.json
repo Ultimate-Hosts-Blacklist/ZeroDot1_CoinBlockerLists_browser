@@ -9,6 +9,11 @@
         "expiration_date": "12-may-2020",
         "state": "future"
     },
+    "airproxyboat.in": {
+        "epoch": 1603584000.0,
+        "expiration_date": "25-oct-2020",
+        "state": "future"
+    },
     "analytics.blue": {
         "epoch": 1608249600.0,
         "expiration_date": "18-dec-2020",
@@ -119,6 +124,11 @@
         "expiration_date": "01-may-2020",
         "state": "future"
     },
+    "cuev.in": {
+        "epoch": 1606176000.0,
+        "expiration_date": "24-nov-2020",
+        "state": "future"
+    },
     "de-mi-nis-ner.info": {
         "epoch": 1592265600.0,
         "expiration_date": "16-jun-2020",
@@ -172,6 +182,11 @@
     "freecontent.info": {
         "epoch": 1604534400.0,
         "expiration_date": "05-nov-2020",
+        "state": "future"
+    },
+    "freecontent.science": {
+        "epoch": 1579392000.0,
+        "expiration_date": "19-jan-2020",
         "state": "future"
     },
     "freshrefreshnerer186.info": {
@@ -289,12 +304,22 @@
         "expiration_date": "16-mar-2020",
         "state": "future"
     },
+    "pushno.com": {
+        "epoch": 1582761600.0,
+        "expiration_date": "27-feb-2020",
+        "state": "future"
+    },
     "questionfly.com": {
         "epoch": 1592697600.0,
         "expiration_date": "21-jun-2020",
         "state": "future"
     },
     "refreshnerer27.info": {
+        "epoch": 1593648000.0,
+        "expiration_date": "02-jul-2020",
+        "state": "future"
+    },
+    "refreshnerer27rb.info": {
         "epoch": 1593648000.0,
         "expiration_date": "02-jul-2020",
         "state": "future"
@@ -317,6 +342,11 @@
     "statpipe.ru": {
         "epoch": 1603065600.0,
         "expiration_date": "19-oct-2020",
+        "state": "future"
+    },
+    "stonecalcom.com": {
+        "epoch": 1583452800.0,
+        "expiration_date": "06-mar-2020",
         "state": "future"
     },
     "viaxmr.com": {
