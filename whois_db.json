@@ -609,6 +609,16 @@
         "expiration_date": "03-nov-2020",
         "state": "future"
     },
+    "doubleclick1.xyz": {
+        "epoch": 1586131200.0,
+        "expiration_date": "06-apr-2020",
+        "state": "future"
+    },
+    "doubleclick3.xyz": {
+        "epoch": 1586131200.0,
+        "expiration_date": "06-apr-2020",
+        "state": "future"
+    },
     "doubleclick4.xyz": {
         "epoch": 1586131200.0,
         "expiration_date": "06-apr-2020",
@@ -1232,6 +1242,11 @@
     "minero.cc": {
         "epoch": 1593907200.0,
         "expiration_date": "05-jul-2020",
+        "state": "future"
+    },
+    "minero.pw": {
+        "epoch": 1608940800.0,
+        "expiration_date": "26-dec-2020",
         "state": "future"
     },
     "minescripts.info": {
