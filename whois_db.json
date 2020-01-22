@@ -1379,6 +1379,11 @@
         "expiration_date": "29-sep-2020",
         "state": "future"
     },
+    "moneroocean.stream": {
+        "epoch": 1881100800.0,
+        "expiration_date": "11-aug-2029",
+        "state": "future"
+    },
     "monitoringservice.co": {
         "epoch": 1588723200.0,
         "expiration_date": "06-may-2020",
@@ -1477,6 +1482,11 @@
     "nerohut.com": {
         "epoch": 1583798400.0,
         "expiration_date": "10-mar-2020",
+        "state": "future"
+    },
+    "never.ovh": {
+        "epoch": 1581638400.0,
+        "expiration_date": "14-feb-2020",
         "state": "future"
     },
     "nexioniect.com": {
@@ -1727,6 +1737,11 @@
     "seminarski-diplomski.co.rs": {
         "epoch": 1582243200.0,
         "expiration_date": "21-feb-2020",
+        "state": "future"
+    },
+    "sen-to-zdrowie.ml": {
+        "epoch": 1590710400.0,
+        "expiration_date": "29-may-2020",
         "state": "future"
     },
     "serie-vostfr.com": {
