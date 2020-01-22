@@ -874,6 +874,11 @@
         "expiration_date": "10-oct-2025",
         "state": "future"
     },
+    "freecontent.bid": {
+        "epoch": 1611014400.0,
+        "expiration_date": "19-jan-2021",
+        "state": "future"
+    },
     "freecontent.com": {
         "epoch": 1596931200.0,
         "expiration_date": "09-aug-2020",
@@ -1152,6 +1157,11 @@
     "irrrymucwxjl.ru": {
         "epoch": 1594252800.0,
         "expiration_date": "09-jul-2020",
+        "state": "future"
+    },
+    "istlandoll.com": {
+        "epoch": 1593734400.0,
+        "expiration_date": "03-jul-2020",
         "state": "future"
     },
     "jlzebszkilcz.ru": {
@@ -1589,6 +1599,11 @@
         "expiration_date": "15-nov-2020",
         "state": "future"
     },
+    "pampopholf.com": {
+        "epoch": 1597622400.0,
+        "expiration_date": "17-aug-2020",
+        "state": "future"
+    },
     "panelsave.com": {
         "epoch": 1600128000.0,
         "expiration_date": "15-sep-2020",
@@ -1824,6 +1839,11 @@
         "expiration_date": "12-aug-2020",
         "state": "future"
     },
+    "siteverification.online": {
+        "epoch": 1608163200.0,
+        "expiration_date": "17-dec-2020",
+        "state": "future"
+    },
     "sm3na.com": {
         "epoch": 1616889600.0,
         "expiration_date": "28-mar-2021",
@@ -1967,6 +1987,11 @@
     "thepiratebay.cr": {
         "epoch": 1601078400.0,
         "expiration_date": "26-sep-2020",
+        "state": "future"
+    },
+    "thepiratebay.is": {
+        "epoch": 1592784000.0,
+        "expiration_date": "22-jun-2020",
         "state": "future"
     },
     "thepiratebay.org": {
