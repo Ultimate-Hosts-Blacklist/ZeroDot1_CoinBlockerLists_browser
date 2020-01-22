@@ -139,6 +139,11 @@
         "expiration_date": "12-may-2020",
         "state": "future"
     },
+    "auroramine.com": {
+        "epoch": 1600041600.0,
+        "expiration_date": "14-sep-2020",
+        "state": "future"
+    },
     "authcaptcha.com": {
         "epoch": 1593129600.0,
         "expiration_date": "26-jun-2020",
@@ -784,6 +789,16 @@
         "expiration_date": "11-oct-2020",
         "state": "future"
     },
+    "flare-analytics.com": {
+        "epoch": 1599350400.0,
+        "expiration_date": "06-sep-2020",
+        "state": "future"
+    },
+    "flashx.co": {
+        "epoch": 1584057600.0,
+        "expiration_date": "13-mar-2020",
+        "state": "future"
+    },
     "flashx.pw": {
         "epoch": 1606780800.0,
         "expiration_date": "01-dec-2020",
@@ -1072,6 +1087,11 @@
     "hostingcloud.science": {
         "epoch": 1585958400.0,
         "expiration_date": "04-apr-2020",
+        "state": "future"
+    },
+    "igrid.org": {
+        "epoch": 1607644800.0,
+        "expiration_date": "11-dec-2020",
         "state": "future"
     },
     "indiaproxydl.org": {
@@ -1529,6 +1549,11 @@
         "expiration_date": "30-may-2020",
         "state": "future"
     },
+    "openkatalog.com": {
+        "epoch": 1605398400.0,
+        "expiration_date": "15-nov-2020",
+        "state": "future"
+    },
     "panelsave.com": {
         "epoch": 1600128000.0,
         "expiration_date": "15-sep-2020",
@@ -1667,6 +1692,11 @@
     "rmawm7mw.top": {
         "epoch": 1590710400.0,
         "expiration_date": "29-may-2020",
+        "state": "future"
+    },
+    "rocks.io": {
+        "epoch": 1605398400.0,
+        "expiration_date": "15-nov-2020",
         "state": "future"
     },
     "ron.si": {
@@ -2027,6 +2057,11 @@
     "vkcdnservice.com": {
         "epoch": 1582070400.0,
         "expiration_date": "19-feb-2020",
+        "state": "future"
+    },
+    "vuryua.ru": {
+        "epoch": 1592784000.0,
+        "expiration_date": "22-jun-2020",
         "state": "future"
     },
     "vuuwd.com": {
