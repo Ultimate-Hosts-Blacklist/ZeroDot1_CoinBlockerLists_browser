@@ -1539,6 +1539,11 @@
         "expiration_date": "26-may-2020",
         "state": "future"
     },
+    "nexttime.ovh": {
+        "epoch": 1582156800.0,
+        "expiration_date": "20-feb-2020",
+        "state": "future"
+    },
     "nfwebminer.com": {
         "epoch": 1580947200.0,
         "expiration_date": "06-feb-2020",
@@ -1582,6 +1587,11 @@
     "nullrefexcep.com": {
         "epoch": 1597104000.0,
         "expiration_date": "11-aug-2020",
+        "state": "future"
+    },
+    "oei1.gq": {
+        "epoch": 1591056000.0,
+        "expiration_date": "02-jun-2020",
         "state": "future"
     },
     "offerreality.com": {
@@ -1787,6 +1797,11 @@
     "safelinkconverter.com": {
         "epoch": 1592352000.0,
         "expiration_date": "17-jun-2020",
+        "state": "future"
+    },
+    "scaleway.ovh": {
+        "epoch": 1584576000.0,
+        "expiration_date": "19-mar-2020",
         "state": "future"
     },
     "seminarski-diplomski.co.rs": {
@@ -2132,6 +2147,11 @@
     "viaxmr.com": {
         "epoch": 1629504000.0,
         "expiration_date": "21-aug-2021",
+        "state": "future"
+    },
+    "videoplayer2.xyz": {
+        "epoch": 1592611200.0,
+        "expiration_date": "20-jun-2020",
         "state": "future"
     },
     "vidfile.net": {
