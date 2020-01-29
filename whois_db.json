@@ -35,8 +35,8 @@
         "state": "future"
     },
     "ad-miner.com": {
-        "epoch": 1579996800.0,
-        "expiration_date": "26-jan-2020",
+        "epoch": 1611619200.0,
+        "expiration_date": "26-jan-2021",
         "state": "future"
     },
     "adbtc.top": {
@@ -742,6 +742,11 @@
     "elthamely.com": {
         "epoch": 1603411200.0,
         "expiration_date": "23-oct-2020",
+        "state": "future"
+    },
+    "encoding.ovh": {
+        "epoch": 1585267200.0,
+        "expiration_date": "27-mar-2020",
         "state": "future"
     },
     "estream.nu": {
