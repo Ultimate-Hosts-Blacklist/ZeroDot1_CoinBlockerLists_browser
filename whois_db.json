@@ -74,6 +74,11 @@
         "expiration_date": "09-jun-2023",
         "state": "future"
     },
+    "assetscdn.stream": {
+        "epoch": 1589241600.0,
+        "expiration_date": "12-may-2020",
+        "state": "future"
+    },
     "authedmine.com": {
         "epoch": 1602374400.0,
         "expiration_date": "11-oct-2020",
@@ -315,6 +320,16 @@
         "state": "future"
     },
     "doubleclick1.xyz": {
+        "epoch": 1586131200.0,
+        "expiration_date": "06-apr-2020",
+        "state": "future"
+    },
+    "doubleclick2.xyz": {
+        "epoch": 1586131200.0,
+        "expiration_date": "06-apr-2020",
+        "state": "future"
+    },
+    "doubleclick3.xyz": {
         "epoch": 1586131200.0,
         "expiration_date": "06-apr-2020",
         "state": "future"
@@ -628,6 +643,11 @@
         "epoch": 1593216000.0,
         "expiration_date": "27-jun-2020",
         "state": "future"
+    },
+    "minero.pw": {
+        "epoch": 1577318400.0,
+        "expiration_date": "26-dec-2019",
+        "state": "past"
     },
     "minescripts.info": {
         "epoch": 1586908800.0,
