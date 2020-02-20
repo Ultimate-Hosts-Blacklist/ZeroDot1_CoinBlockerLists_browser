@@ -119,6 +119,11 @@
         "expiration_date": "04-apr-2020",
         "state": "future"
     },
+    "anybest.site": {
+        "epoch": 1608249600.0,
+        "expiration_date": "18-dec-2020",
+        "state": "future"
+    },
     "apdrive.win": {
         "epoch": 1686268800.0,
         "expiration_date": "09-jun-2023",
@@ -562,6 +567,11 @@
     "cryptobara.com": {
         "epoch": 1588291200.0,
         "expiration_date": "01-may-2020",
+        "state": "future"
+    },
+    "cryptoloot.pro": {
+        "epoch": 1596067200.0,
+        "expiration_date": "30-jul-2020",
         "state": "future"
     },
     "cryptonoter.com": {
@@ -1289,6 +1299,11 @@
         "expiration_date": "03-jun-2027",
         "state": "future"
     },
+    "mining.best": {
+        "epoch": 1611792000.0,
+        "expiration_date": "28-jan-2021",
+        "state": "future"
+    },
     "mining711.com": {
         "epoch": 1589068800.0,
         "expiration_date": "10-may-2020",
@@ -1619,6 +1634,11 @@
         "expiration_date": "09-oct-2020",
         "state": "future"
     },
+    "reauthenticator.com": {
+        "epoch": 1597536000.0,
+        "expiration_date": "16-aug-2020",
+        "state": "future"
+    },
     "refreshnerer27.info": {
         "epoch": 1593648000.0,
         "expiration_date": "02-jul-2020",
@@ -1792,6 +1812,11 @@
     "staticsfs.host": {
         "epoch": 1650758400.0,
         "expiration_date": "24-apr-2022",
+        "state": "future"
+    },
+    "statpipe.ru": {
+        "epoch": 1603065600.0,
+        "expiration_date": "19-oct-2020",
         "state": "future"
     },
     "stonecalcom.com": {
@@ -2073,6 +2098,11 @@
         "epoch": 1586390400.0,
         "expiration_date": "09-apr-2020",
         "state": "future"
+    },
+    "webminerpool.com": {
+        "epoch": 1577318400.0,
+        "expiration_date": "26-dec-2019",
+        "state": "past"
     },
     "webmining.co": {
         "epoch": 1604793600.0,
