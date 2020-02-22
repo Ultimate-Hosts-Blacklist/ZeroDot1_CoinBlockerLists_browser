@@ -4,6 +4,11 @@
         "expiration_date": "03-feb-2021",
         "state": "future"
     },
+    "1q2w3.fun": {
+        "epoch": 1591574400.0,
+        "expiration_date": "08-jun-2020",
+        "state": "future"
+    },
     "1q2w3.website": {
         "epoch": 1613865600.0,
         "expiration_date": "21-feb-2021",
@@ -1012,6 +1017,11 @@
     "gridiogrid.com": {
         "epoch": 1583280000.0,
         "expiration_date": "04-mar-2020",
+        "state": "future"
+    },
+    "hallaert.online": {
+        "epoch": 1586995200.0,
+        "expiration_date": "16-apr-2020",
         "state": "future"
     },
     "hashforcash.us": {
