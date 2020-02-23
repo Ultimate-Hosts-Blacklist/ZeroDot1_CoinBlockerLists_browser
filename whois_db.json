@@ -582,7 +582,7 @@
     "cryptaloot.pro": {
         "epoch": 1582416000.0,
         "expiration_date": "23-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "crypto-loot.com": {
         "epoch": 1601769600.0,
@@ -2192,7 +2192,7 @@
     "webmine.pro": {
         "epoch": 1582416000.0,
         "expiration_date": "23-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "webminepool.com": {
         "epoch": 1604102400.0,
