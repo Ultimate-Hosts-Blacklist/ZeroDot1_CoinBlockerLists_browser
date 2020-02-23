@@ -321,8 +321,8 @@
 0.0.0.0 jqcdn.download
 0.0.0.0 jqmrqgaunex.ru
 0.0.0.0 jqrcdn.do
-0.0.0.0 jqr-cdn.download
 0.0.0.0 jqrcdn.download
+0.0.0.0 jqr-cdn.download
 0.0.0.0 jquerrycdn.do
 0.0.0.0 jquerrycdn.download
 0.0.0.0 jquery-cdn.do
@@ -438,6 +438,7 @@
 0.0.0.0 miner-deu-5.inf.nimiq.net
 0.0.0.0 miner-deu-6.inf.nimiq.net
 0.0.0.0 miner-deu-7.inf.nimiq.net
+0.0.0.0 miner-deu-8.inf.nimiq.net
 0.0.0.0 miner.oozing.co
 0.0.0.0 miner.pr0gramm.com
 0.0.0.0 minexmr.st
@@ -561,9 +562,12 @@
 0.0.0.0 pool.cloudcoins.co
 0.0.0.0 pool.coinblind.com
 0.0.0.0 pool.coinimp.com
+0.0.0.0 pool.coinrail.io
 0.0.0.0 pool.cryptonoter.com
 0.0.0.0 pool.electroneum.hashvault.pro
 0.0.0.0 pool.etn.spacepools.org
+0.0.0.0 pool.hws.ru
+0.0.0.0 pool.intense.hashvault.pro
 0.0.0.0 pool.monero.hashvault.pro
 0.0.0.0 pool.nimiqchain.info
 0.0.0.0 pool.sumokoin.hashvault.pro
@@ -802,6 +806,7 @@
 0.0.0.0 worker3.minero.cc
 0.0.0.0 worker4.minero.cc
 0.0.0.0 worker5.minero.cc
+0.0.0.0 worker6.minero.cc
 0.0.0.0 worker7.minero.cc
 0.0.0.0 worker8.minero.cc
 0.0.0.0 worker9.minero.cc
@@ -865,6 +870,7 @@
 0.0.0.0 ws030.authedmine.com
 0.0.0.0 ws031.authedmine.com
 0.0.0.0 ws03.1q2w3.me
+0.0.0.0 ws032.authedmine.com
 0.0.0.0 ws035.coinhive.com
 0.0.0.0 ws09.coinhive.com
 0.0.0.0 ws10.coin-have.com
@@ -888,6 +894,7 @@
 0.0.0.0 ws2.330ca589.space
 0.0.0.0 ws2.340ca71c.space
 0.0.0.0 ws2.360caa42.space
+0.0.0.0 ws2.370cabd5.space
 0.0.0.0 ws2.3c0cb3b4.space
 0.0.0.0 ws2.3d0cb547.space
 0.0.0.0 ws2.coin-have.com
@@ -969,6 +976,7 @@
 0.0.0.0 ws9.360caa42.space
 0.0.0.0 ws9.3c0cb3b4.space
 0.0.0.0 ws9.3d0cb547.space
+0.0.0.0 ws9.coin-have.com
 0.0.0.0 ws.bhzejltg.info
 0.0.0.0 ws.freebitco.in
 0.0.0.0 ws.l33tsite.info
