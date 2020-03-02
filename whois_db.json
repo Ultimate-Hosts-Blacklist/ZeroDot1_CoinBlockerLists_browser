@@ -59,6 +59,11 @@
         "expiration_date": "05-apr-2020",
         "state": "future"
     },
+    "candid.zone": {
+        "epoch": 1577318400.0,
+        "expiration_date": "26-dec-2019",
+        "state": "past"
+    },
     "clgserv.pro": {
         "epoch": 1614384000.0,
         "expiration_date": "27-feb-2021",
@@ -282,6 +287,11 @@
     "monero-miner.net": {
         "epoch": 1601164800.0,
         "expiration_date": "27-sep-2020",
+        "state": "future"
+    },
+    "msdns.online": {
+        "epoch": 1586563200.0,
+        "expiration_date": "11-apr-2020",
         "state": "future"
     },
     "my-rigs.com": {
