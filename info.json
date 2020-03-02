@@ -1,11 +1,11 @@
 {
     "current_stats": {
-        "builds": 7,
+        "builds": 8,
         "counter": {
-            "down": 1433,
+            "down": 1567,
             "invalid": 1,
-            "tested": 3560,
-            "up": 2126
+            "tested": 3696,
+            "up": 2128
         },
         "volatile.list": 2128,
         "whitelisted.list": 2126
@@ -14,8 +14,8 @@
     "days_until_next_test": 2,
     "end_datetime": "Sat Feb 29 07:22:22 2020",
     "end_epoch": 1582960942.679932,
-    "last_autosave_datetime": "Mon Mar  2 07:28:27 2020",
-    "last_autosave_epoch": 1583134107.710779,
+    "last_autosave_datetime": "Mon Mar  2 08:17:46 2020",
+    "last_autosave_epoch": 1583137066.414069,
     "name": "ZeroDot1_CoinBlockerLists_browser",
     "previous_stats": {
         "builds": 9,
