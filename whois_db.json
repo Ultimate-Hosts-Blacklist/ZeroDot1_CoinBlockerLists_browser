@@ -339,6 +339,11 @@
         "expiration_date": "26-dec-2019",
         "state": "past"
     },
+    "mmpool.org": {
+        "epoch": 1617148800.0,
+        "expiration_date": "31-mar-2021",
+        "state": "future"
+    },
     "monero-miner.net": {
         "epoch": 1601164800.0,
         "expiration_date": "27-sep-2020",
