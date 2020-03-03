@@ -74,6 +74,11 @@
         "expiration_date": "26-dec-2019",
         "state": "past"
     },
+    "cdjs.online": {
+        "epoch": 1614729600.0,
+        "expiration_date": "03-mar-2021",
+        "state": "future"
+    },
     "clgserv.pro": {
         "epoch": 1614384000.0,
         "expiration_date": "27-feb-2021",
