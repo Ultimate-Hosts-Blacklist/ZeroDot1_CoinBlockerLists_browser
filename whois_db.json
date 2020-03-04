@@ -1389,6 +1389,11 @@
         "expiration_date": "12-sep-2020",
         "state": "future"
     },
+    "monad.network": {
+        "epoch": 1600992000.0,
+        "expiration_date": "25-sep-2020",
+        "state": "future"
+    },
     "monero-miner.net": {
         "epoch": 1601164800.0,
         "expiration_date": "27-sep-2020",
