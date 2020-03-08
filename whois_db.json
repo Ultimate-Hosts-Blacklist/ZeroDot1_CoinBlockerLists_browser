@@ -1544,9 +1544,24 @@
         "expiration_date": "06-feb-2021",
         "state": "future"
     },
+    "nimiq.watch": {
+        "epoch": 1624147200.0,
+        "expiration_date": "20-jun-2021",
+        "state": "future"
+    },
+    "nimiqpool.com": {
+        "epoch": 1595721600.0,
+        "expiration_date": "26-jul-2020",
+        "state": "future"
+    },
     "nimiqtest.net": {
         "epoch": 1585526400.0,
         "expiration_date": "30-mar-2020",
+        "state": "future"
+    },
+    "ninaning.com": {
+        "epoch": 1595980800.0,
+        "expiration_date": "29-jul-2020",
         "state": "future"
     },
     "ningtoldrop.ru": {
