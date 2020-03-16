@@ -342,7 +342,7 @@
     "buyandfun.review": {
         "epoch": 1584316800.0,
         "expiration_date": "16-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "candid.zone": {
         "epoch": 1614729600.0,
@@ -1022,7 +1022,7 @@
     "goredirect.party": {
         "epoch": 1584316800.0,
         "expiration_date": "16-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "goxmrminer.com": {
         "epoch": 1584921600.0,
