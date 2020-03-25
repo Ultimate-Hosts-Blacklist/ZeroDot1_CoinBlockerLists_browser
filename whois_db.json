@@ -1174,6 +1174,11 @@
         "expiration_date": "29-mar-2020",
         "state": "future"
     },
+    "jqcdn.download": {
+        "epoch": 1616544000.0,
+        "expiration_date": "24-mar-2021",
+        "state": "future"
+    },
     "jquery-cdn.download": {
         "epoch": 1601769600.0,
         "expiration_date": "04-oct-2020",
