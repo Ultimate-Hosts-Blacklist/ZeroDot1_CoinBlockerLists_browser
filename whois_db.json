@@ -389,6 +389,11 @@
         "expiration_date": "22-feb-2020",
         "state": "past"
     },
+    "chainblock.science": {
+        "epoch": 1617840000.0,
+        "expiration_date": "08-apr-2021",
+        "state": "future"
+    },
     "chmproxy.bid": {
         "epoch": 1609459200.0,
         "expiration_date": "01-jan-2021",
