@@ -36,8 +36,8 @@
 0.0.0.0 adfreetv.ch
 0.0.0.0 ad.g-content.bid
 0.0.0.0 adless.io
-0.0.0.0 adminer.com
 0.0.0.0 ad-miner.com
+0.0.0.0 adminer.com
 0.0.0.0 adplusplus.fr
 0.0.0.0 adrenali.gq
 0.0.0.0 adzjzewsma.cf
@@ -203,8 +203,8 @@
 0.0.0.0 coinerra.com
 0.0.0.0 coingive.com
 0.0.0.0 coin-have.com
-0.0.0.0 coin-hive.com
 0.0.0.0 coinhive.com
+0.0.0.0 coin-hive.com
 0.0.0.0 coinhive.info
 0.0.0.0 coinhive.net
 0.0.0.0 coinhive.org
@@ -578,8 +578,10 @@
 0.0.0.0 monad.network
 0.0.0.0 mon-deu-1.inf.nimiq.network
 0.0.0.0 mon-deu-3.inf.nimiq.network
+0.0.0.0 monerise.com
 0.0.0.0 monero.crypto-pool.fr
 0.0.0.0 monero.crypto-webminer.com
+0.0.0.0 monero.hashvault.pro
 0.0.0.0 monero-miner.com
 0.0.0.0 monero-miner.net
 0.0.0.0 monerominer.rocks
@@ -591,6 +593,7 @@
 0.0.0.0 moonbit.co.in
 0.0.0.0 moonify.io
 0.0.0.0 moonsade.com
+0.0.0.0 morningdigit.com
 0.0.0.0 msg-2.me
 0.0.0.0 mu
 0.0.0.0 munero.me
@@ -608,6 +611,7 @@
 0.0.0.0 nerdorium.org
 0.0.0.0 nerohut.com
 0.0.0.0 never.ovh
+0.0.0.0 new.browsermine.com
 0.0.0.0 new.minr.pw
 0.0.0.0 nexioniect.com
 0.0.0.0 nextbdom.ru
@@ -654,6 +658,7 @@
 0.0.0.0 pertholin.com
 0.0.0.0 p.estream.to
 0.0.0.0 phx-2.xmrpool.net
+0.0.0.0 phx-3.xmrpool.net
 0.0.0.0 pirataibay.in
 0.0.0.0 pirateahoy.net
 0.0.0.0 piratebay.tel
@@ -675,12 +680,14 @@
 0.0.0.0 play.go.cloot.ga
 0.0.0.0 play.gramombird.com
 0.0.0.0 play.mix.kinostuff.com
+0.0.0.0 play.pampopholf.com
 0.0.0.0 play.play1.videos.videos.vidto.me
 0.0.0.0 play.play1.videos.vidto.me
 0.0.0.0 play.play.estream.nu
 0.0.0.0 play.play.estream.to
 0.0.0.0 play.play.estream.xyz
 0.0.0.0 play.pocketgolf.host
+0.0.0.0 play.proxy.multikonline.ru
 0.0.0.0 play.s01.vidtodo.pro
 0.0.0.0 play.site.flashx.cc
 0.0.0.0 play.strdef.world
@@ -695,6 +702,7 @@
 0.0.0.0 pool.aeon.hashvault.pro
 0.0.0.0 pool.bmnr.pw
 0.0.0.0 pool.coinlab.biz
+0.0.0.0 pool.cryptopay.org.za
 0.0.0.0 pool.graft.hashvault.pro
 0.0.0.0 pool.nimiq.watch
 0.0.0.0 pool.supportxmr.com
@@ -718,6 +726,7 @@
 0.0.0.0 proxy-fra-1.inf.nimiq.network
 0.0.0.0 proxy-fra-2.inf.nimiq.network
 0.0.0.0 proxy-fra-3.inf.nimiq.network
+0.0.0.0 proxy-gbr-1.inf.nimiq.network
 0.0.0.0 proxy-gbr-2.inf.nimiq.network
 0.0.0.0 proxyindia.net
 0.0.0.0 proxy-khlizawelj.now.sh
@@ -736,6 +745,7 @@
 0.0.0.0 refreshnerer27rb.info
 0.0.0.0 refunevent.com
 0.0.0.0 renhertfo.com
+0.0.0.0 reservedoffers.club
 0.0.0.0 rmawm7mw.top
 0.0.0.0 rock2.authcaptcha.com
 0.0.0.0 rock2.directprimal.com
@@ -747,11 +757,14 @@
 0.0.0.0 rove.cl
 0.0.0.0 rowherthat.ru
 0.0.0.0 s001.monerise.com
+0.0.0.0 s002.monerise.com
 0.0.0.0 s003.monerise.com
 0.0.0.0 s01.hostcontent.live
+0.0.0.0 s01.vidtodo.pro
 0.0.0.0 s04.hostcontent.live
 0.0.0.0 s05.hostcontent.live
 0.0.0.0 s07.hostcontent.live
+0.0.0.0 s100.hostcontent.live
 0.0.0.0 s13.hostcontent.live
 0.0.0.0 s2.analytics.blue
 0.0.0.0 s2p.estream.to
@@ -768,25 +781,30 @@
 0.0.0.0 s3.minexmr.com
 0.0.0.0 s3.pampopholf.com
 0.0.0.0 s3p.estream.to
+0.0.0.0 s3.play1.videos.videos.vidto.me
 0.0.0.0 s3.play1.videos.vidto.me
 0.0.0.0 s3.play.estream.nu
 0.0.0.0 s3.play.estream.to
 0.0.0.0 s3.play.estream.xyz
 0.0.0.0 s3.tercabilis.info
+0.0.0.0 s3.videos.vidto.me
 0.0.0.0 s3.web.flashx.co
 0.0.0.0 s7ven.com
 0.0.0.0 safelinkconverter.com
 0.0.0.0 sa.monerise.com
+0.0.0.0 s.analytics.blue
 0.0.0.0 sass2.authcaptcha.com
 0.0.0.0 sass2.directprimal.com
 0.0.0.0 scaleway.ovh
 0.0.0.0 script.nimiqpool.com
+0.0.0.0 scriptproxy.pie.net.pk
 0.0.0.0 sea2.authcaptcha.com
 0.0.0.0 sea2.directprimal.com
 0.0.0.0 sea.directprimal.com
 0.0.0.0 security.fblaster.com
 0.0.0.0 seed-10.nimiq.com
 0.0.0.0 seed-10.nimiq.network
+0.0.0.0 seed-10.nimiq-network.com
 0.0.0.0 seed-11.nimiq.com
 0.0.0.0 seed-11.nimiq.network
 0.0.0.0 seed-11.nimiq-network.com
@@ -795,6 +813,7 @@
 0.0.0.0 seed-12.nimiq-network.com
 0.0.0.0 seed-13.nimiq.com
 0.0.0.0 seed-13.nimiq-network.com
+0.0.0.0 seed-14.nimiq.com
 0.0.0.0 seed-14.nimiq.network
 0.0.0.0 seed-14.nimiq-network.com
 0.0.0.0 seed-15.nimiq.com
@@ -809,8 +828,10 @@
 0.0.0.0 seed-19.nimiq.network
 0.0.0.0 seed-19.nimiq-network.com
 0.0.0.0 seed-1.nimiq.com
+0.0.0.0 seed-1.nimiq.network
 0.0.0.0 seed-20.nimiq.network
 0.0.0.0 seed-2.nimiq.com
+0.0.0.0 seed-2.nimiq.network
 0.0.0.0 seed-3.nimiq.com
 0.0.0.0 seed-3.nimiq.network
 0.0.0.0 seed-3.nimiq-network.com
@@ -868,6 +889,7 @@
 0.0.0.0 smurf.crypto.csgocpu.com
 0.0.0.0 spacepools.org
 0.0.0.0 sparechange.io
+0.0.0.0 sparnove.com
 0.0.0.0 srcip.com
 0.0.0.0 sr.cookiescript.info
 0.0.0.0 srv01.bitcoiner.win
@@ -882,6 +904,7 @@
 0.0.0.0 static-cnt.bid
 0.0.0.0 static-net.nut.cc
 0.0.0.0 staticsfs.host
+0.0.0.0 static.sparechange.io
 0.0.0.0 stati.in
 0.0.0.0 stat.maalaimalar.com
 0.0.0.0 statpipe.ru
@@ -901,6 +924,7 @@
 0.0.0.0 sumokoin.crypto-webminer.com
 0.0.0.0 sunhd.info
 0.0.0.0 sunnimiq1.cf
+0.0.0.0 sunnimiq3.cf
 0.0.0.0 sunnimiq4.cf
 0.0.0.0 sunnimiq5.cf
 0.0.0.0 sunnimiq6.cf
@@ -909,6 +933,7 @@
 0.0.0.0 supportxmr.com.cdn.cloudflare.net
 0.0.0.0 swanson.ron.si
 0.0.0.0 sweetbook.net
+0.0.0.0 swiftmining.win
 0.0.0.0 sword.directprimal.com
 0.0.0.0 sxcdn02.now.sh
 0.0.0.0 sxcdn03.now.sh
@@ -947,6 +972,7 @@
 0.0.0.0 tulip18.com
 0.0.0.0 turnsocial.com
 0.0.0.0 turnsocial.now.sh
+0.0.0.0 turtlecoin.crypto-webminer.com
 0.0.0.0 ulnawoyyzbljc.ru
 0.0.0.0 ultranote.crypto-webminer.com
 0.0.0.0 unblockedtpb.pw
@@ -984,12 +1010,14 @@
 0.0.0.0 webminepool.tk
 0.0.0.0 webmine.pro
 0.0.0.0 webminer.cryptonote.club
+0.0.0.0 webminer.minergate.com
 0.0.0.0 webminerpool.com
 0.0.0.0 webminer.pro
 0.0.0.0 webmining.co
 0.0.0.0 web.minr.pw
 0.0.0.0 web.rocks.io
 0.0.0.0 web.stati.bid
+0.0.0.0 webwidgetz.duckdns.org
 0.0.0.0 webxmr.com
 0.0.0.0 whathyx.com
 0.0.0.0 whereismommy.gq
@@ -1004,6 +1032,7 @@
 0.0.0.0 wronpeci.com
 0.0.0.0 ws001.hemnes.win
 0.0.0.0 ws001.ws.tidafors.xyz
+0.0.0.0 ws001.www.datasecu.download
 0.0.0.0 ws001.www.jqwww.download
 0.0.0.0 ws002-proxy-ajcryptominer.ajplugins.com
 0.0.0.0 ws002.ws.tidafors.xyz
@@ -1061,6 +1090,7 @@
 0.0.0.0 ws012.ws.tidafors.xyz
 0.0.0.0 ws012.www.datasecu.download
 0.0.0.0 ws012.www.jqwww.download
+0.0.0.0 ws013.coin-hive.com
 0.0.0.0 ws013-proxy-ajcryptominer.ajplugins.com
 0.0.0.0 ws013.ws.tidafors.xyz
 0.0.0.0 ws013.www.datasecu.download
@@ -1075,6 +1105,7 @@
 0.0.0.0 ws015.ws.tidafors.xyz
 0.0.0.0 ws015.www.datasecu.download
 0.0.0.0 ws015.www.jqwww.download
+0.0.0.0 ws016.coin-hive.com
 0.0.0.0 ws016.hemnes.win
 0.0.0.0 ws016.www.datasecu.download
 0.0.0.0 ws016.www.jqwww.download
@@ -1109,10 +1140,13 @@
 0.0.0.0 ws021.www.datasecu.download
 0.0.0.0 ws021.www.jqwww.download
 0.0.0.0 ws022.coin-hive.com
+0.0.0.0 ws022.hemnes.win
 0.0.0.0 ws022-proxy-ajcryptominer.ajplugins.com
 0.0.0.0 ws022.ws.tidafors.xyz
 0.0.0.0 ws022.www.datasecu.download
 0.0.0.0 ws022.www.jqwww.download
+0.0.0.0 ws023.coin-hive.com
+0.0.0.0 ws023.coinhive.com
 0.0.0.0 ws023.hemnes.win
 0.0.0.0 ws023-proxy-ajcryptominer.ajplugins.com
 0.0.0.0 ws023.ws.tidafors.xyz
@@ -1166,6 +1200,7 @@
 0.0.0.0 ws03cn.streamplay.to
 0.0.0.0 ws03.coinnebula.com
 0.0.0.0 ws03.crypto-loot.com
+0.0.0.0 ws04.crypto-loot.com
 0.0.0.0 ws05.crypto.csgocpu.com
 0.0.0.0 ws05.crypto-loot.com
 0.0.0.0 ws06.crypto-loot.com
@@ -1174,6 +1209,7 @@
 0.0.0.0 ws08.crypto-loot.com
 0.0.0.0 ws09.crypto.csgocpu.com
 0.0.0.0 ws09.crypto-loot.com
+0.0.0.0 ws10.crypto-loot.com
 0.0.0.0 ws11.crypto-loot.com
 0.0.0.0 ws12.crypto-loot.com
 0.0.0.0 ws13.crypto-loot.com
@@ -1186,6 +1222,7 @@
 0.0.0.0 ws1.bmcm.ml
 0.0.0.0 ws1.bmcm.pw
 0.0.0.0 ws1.bmnr.pw
+0.0.0.0 ws1.bmst.pw
 0.0.0.0 ws1.static-cnt.bid
 0.0.0.0 ws20.crypto-loot.com
 0.0.0.0 ws22.crypto-loot.com
@@ -1206,6 +1243,7 @@
 0.0.0.0 ws33.crypto-loot.com
 0.0.0.0 ws35.crypto-loot.com
 0.0.0.0 ws36.crypto-loot.com
+0.0.0.0 ws39.crypto-loot.com
 0.0.0.0 ws3.minr.pw
 0.0.0.0 ws40.crypto-loot.com
 0.0.0.0 ws42.crypto.csgocpu.com
@@ -1213,6 +1251,7 @@
 0.0.0.0 ws44.crypto-loot.com
 0.0.0.0 ws45.crypto-loot.com
 0.0.0.0 ws46.crypto-loot.com
+0.0.0.0 ws47.crypto-loot.com
 0.0.0.0 ws48.crypto.csgocpu.com
 0.0.0.0 ws48.crypto-loot.com
 0.0.0.0 ws49.crypto.csgocpu.com
@@ -1229,6 +1268,7 @@
 0.0.0.0 wss-1.monerise.com
 0.0.0.0 wss.nablabee.com
 0.0.0.0 ws.tidafors.xyz
+0.0.0.0 ws.webcaster.pro
 0.0.0.0 wty46.com
 0.0.0.0 ww8.adminer.com
 0.0.0.0 www.0x1f4b0.com
@@ -1277,6 +1317,7 @@
 0.0.0.0 www.andrew.nullrefexcep.com
 0.0.0.0 www.apdrive.win
 0.0.0.0 www.api.coin-hive.com
+0.0.0.0 www.a.proxy4.nullrefexcep.com
 0.0.0.0 www.a.proxy5.nullrefexcep.com
 0.0.0.0 www.arizona-miner.tk
 0.0.0.0 www.auroramine.com
@@ -1553,6 +1594,7 @@
 0.0.0.0 www.mollnia.com
 0.0.0.0 www.momwentthere.cf
 0.0.0.0 www.monad.network
+0.0.0.0 www.monerise.com
 0.0.0.0 www.monero-miner.com
 0.0.0.0 www.monerominer.rocks
 0.0.0.0 www.moneroocean.stream
@@ -1561,6 +1603,7 @@
 0.0.0.0 www.moonbit.co.in
 0.0.0.0 www.moonify.io
 0.0.0.0 www.moonsade.com
+0.0.0.0 www.morningdigit.com
 0.0.0.0 www.msg-2.me
 0.0.0.0 www.munero.me
 0.0.0.0 www.mwor.gq
@@ -1627,8 +1670,10 @@
 0.0.0.0 www.p.tidafors.xyz
 0.0.0.0 www.punchsub.net
 0.0.0.0 www.ratingtoplist.com
+0.0.0.0 www.refresh-js.bitbucket.io
 0.0.0.0 www.refunevent.com
 0.0.0.0 www.renhertfo.com
+0.0.0.0 www.reservedoffers.club
 0.0.0.0 www.rmawm7mw.top
 0.0.0.0 www.rocks.io
 0.0.0.0 www.rove.cl
@@ -1649,6 +1694,7 @@
 0.0.0.0 www.sm3na.com
 0.0.0.0 www.spacepools.org
 0.0.0.0 www.sparechange.io
+0.0.0.0 www.sparnove.com
 0.0.0.0 www.srcip.com
 0.0.0.0 www.statdynamic.com
 0.0.0.0 www.stati.bid
@@ -1662,6 +1708,7 @@
 0.0.0.0 www.sumokoin.crypto-webminer.com
 0.0.0.0 www.sunhd.info
 0.0.0.0 www.sunnimiq1.cf
+0.0.0.0 www.sunnimiq3.cf
 0.0.0.0 www.sunnimiq4.cf
 0.0.0.0 www.sunnimiq5.cf
 0.0.0.0 www.sunnimiq6.cf
@@ -1669,6 +1716,7 @@
 0.0.0.0 www.supportxmr.com
 0.0.0.0 www.supportxmr.com.cdn.cloudflare.net
 0.0.0.0 www.sweetbook.net
+0.0.0.0 www.swiftmining.win
 0.0.0.0 www.sxcdn02.now.sh
 0.0.0.0 www.sxcdn03.now.sh
 0.0.0.0 www.sxcdn04.now.sh
@@ -1702,6 +1750,7 @@
 0.0.0.0 www.tulip18.com
 0.0.0.0 www.turnsocial.com
 0.0.0.0 www.turnsocial.now.sh
+0.0.0.0 www.turtlecoin.crypto-webminer.com
 0.0.0.0 www.ulnawoyyzbljc.ru
 0.0.0.0 www.ultranote.crypto-webminer.com
 0.0.0.0 www.unblockedtpb.pw
@@ -1728,6 +1777,7 @@
 0.0.0.0 www.webminerpool.com
 0.0.0.0 www.webminer.pro
 0.0.0.0 www.webmining.co
+0.0.0.0 www.webwidgetz.duckdns.org
 0.0.0.0 www.webxmr.com
 0.0.0.0 www.whathyx.com
 0.0.0.0 www.whereismommy.gq
@@ -1737,6 +1787,7 @@
 0.0.0.0 www.wpcdn1.herokuapp.com
 0.0.0.0 www.wqgkainysj.ru
 0.0.0.0 www.wronpeci.com
+0.0.0.0 www.ws001.www.datasecu.download
 0.0.0.0 www.ws001.www.jqwww.download
 0.0.0.0 www.ws002.www.jqwww.download
 0.0.0.0 www.ws003.ws.tidafors.xyz
@@ -1785,8 +1836,10 @@
 0.0.0.0 www.ws021.www.jqwww.download
 0.0.0.0 www.ws022.ws.tidafors.xyz
 0.0.0.0 www.ws022.www.datasecu.download
+0.0.0.0 www.ws023.ws.tidafors.xyz
 0.0.0.0 www.ws023.www.datasecu.download
 0.0.0.0 www.ws024.ws.tidafors.xyz
+0.0.0.0 www.ws024.www.jqwww.download
 0.0.0.0 www.ws025.ws.tidafors.xyz
 0.0.0.0 www.ws025.www.jqwww.download
 0.0.0.0 www.ws026.ws.tidafors.xyz
@@ -1794,6 +1847,7 @@
 0.0.0.0 www.ws027.www.datasecu.download
 0.0.0.0 www.ws027.www.jqwww.download
 0.0.0.0 www.ws028.ws.tidafors.xyz
+0.0.0.0 www.ws028.www.datasecu.download
 0.0.0.0 www.ws028.www.jqwww.download
 0.0.0.0 www.ws029.ws.tidafors.xyz
 0.0.0.0 www.ws030.ws.tidafors.xyz
@@ -1834,4 +1888,5 @@
 0.0.0.0 you.tubetitties.com
 0.0.0.0 yrdrtzmsmt.com
 0.0.0.0 zlx.com.br
+0.0.0.0 zminer.zaloapp.com
 0.0.0.0 zona.pl
