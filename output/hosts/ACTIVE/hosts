@@ -36,8 +36,8 @@
 0.0.0.0 adfreetv.ch
 0.0.0.0 ad.g-content.bid
 0.0.0.0 adless.io
-0.0.0.0 adminer.com
 0.0.0.0 ad-miner.com
+0.0.0.0 adminer.com
 0.0.0.0 adplusplus.fr
 0.0.0.0 adrenali.gq
 0.0.0.0 adzjzewsma.cf
@@ -203,8 +203,8 @@
 0.0.0.0 coinerra.com
 0.0.0.0 coingive.com
 0.0.0.0 coin-have.com
-0.0.0.0 coin-hive.com
 0.0.0.0 coinhive.com
+0.0.0.0 coin-hive.com
 0.0.0.0 coinhive.info
 0.0.0.0 coinhive.net
 0.0.0.0 coinhive.org
@@ -567,6 +567,7 @@
 0.0.0.0 mine.xmrpool.net
 0.0.0.0 min.imageflux.cf
 0.0.0.0 mining711.com
+0.0.0.0 mining.best
 0.0.0.0 mining.coin-hive.com
 0.0.0.0 mining.freebitco.in
 0.0.0.0 minr.nullrefexcep.com
@@ -592,6 +593,7 @@
 0.0.0.0 moneroocean.stream
 0.0.0.0 mon-fra-1.inf.nimiq.network
 0.0.0.0 mon-fra-2.inf.nimiq.network
+0.0.0.0 mon-gbr-1.inf.nimiq.network
 0.0.0.0 monitoringservice.co
 0.0.0.0 monkeyminer.net
 0.0.0.0 moonbit.co.in
@@ -641,11 +643,13 @@
 0.0.0.0 norespar.ru
 0.0.0.0 notmining.org
 0.0.0.0 npcdn1.now.sh
+0.0.0.0 ns2.cryptosearch.site
 0.0.0.0 ns2.cryptotab.net
 0.0.0.0 nullrefexcep.com
 0.0.0.0 nunu-001.now.sh
 0.0.0.0 object.de
 0.0.0.0 ocean2.authcaptcha.com
+0.0.0.0 ocean2.directprimal.com
 0.0.0.0 ocean.directprimal.com
 0.0.0.0 oc.monerise.com
 0.0.0.0 oei1.gq
@@ -677,6 +681,7 @@
 0.0.0.0 piratebay.to
 0.0.0.0 pirate.be
 0.0.0.0 piratenbucht.eu
+0.0.0.0 play1.flashx.pw
 0.0.0.0 play1.videos.videos.vidto.me
 0.0.0.0 play1.videos.vidto.me
 0.0.0.0 play2.flashx.pw
@@ -793,6 +798,7 @@
 0.0.0.0 s05.hostcontent.live
 0.0.0.0 s07.hostcontent.live
 0.0.0.0 s100.hostcontent.live
+0.0.0.0 s11.hostcontent.live
 0.0.0.0 s13.hostcontent.live
 0.0.0.0 s2.analytics.blue
 0.0.0.0 s2p.estream.to
@@ -805,6 +811,7 @@
 0.0.0.0 s2.videos.videos.vidto.me
 0.0.0.0 s2.videos.vidto.me
 0.0.0.0 s2.web.flashx.co
+0.0.0.0 s3.analytics.blue
 0.0.0.0 s3.crypto-webminer.com
 0.0.0.0 s3.gasolina.ml
 0.0.0.0 s3.minexmr.com
@@ -942,6 +949,7 @@
 0.0.0.0 sss.freecontent.date
 0.0.0.0 statdynamic.com
 0.0.0.0 stati.bid
+0.0.0.0 static-02.flu.cc
 0.0.0.0 static1.freebitco.in
 0.0.0.0 static2.freebitco.in
 0.0.0.0 static3.freebitco.in
@@ -967,6 +975,7 @@
 0.0.0.0 streamdream.ws
 0.0.0.0 stream.nullrefexcep.com
 0.0.0.0 streamplay.me
+0.0.0.0 streamplay.to
 0.0.0.0 sumo.hashvault.pro
 0.0.0.0 sumokoin.crypto-webminer.com
 0.0.0.0 sunhd.info
@@ -992,9 +1001,11 @@
 0.0.0.0 sxcdn5.herokuapp.com
 0.0.0.0 sxcdn6.now.sh
 0.0.0.0 t.analytics.blue
+0.0.0.0 techtricksworld.com
 0.0.0.0 template-download.top
 0.0.0.0 terethat.ru
 0.0.0.0 test.directprimal.com
+0.0.0.0 test.minr.pw
 0.0.0.0 testnet-api.xmrpool.net
 0.0.0.0 tgtvbngp.ru
 0.0.0.0 thathislitt.ru
@@ -1094,6 +1105,7 @@
 0.0.0.0 ws001.www.datasecu.download
 0.0.0.0 ws001.www.jqwww.download
 0.0.0.0 ws002.coin-hive.com
+0.0.0.0 ws002.hemnes.win
 0.0.0.0 ws002-proxy-ajcryptominer.ajplugins.com
 0.0.0.0 ws002.ws.tidafors.xyz
 0.0.0.0 ws002.www.datasecu.download
@@ -1128,6 +1140,7 @@
 0.0.0.0 ws007.www.datasecu.download
 0.0.0.0 ws007.www.jqwww.download
 0.0.0.0 ws008.coin-hive.com
+0.0.0.0 ws008.hemnes.win
 0.0.0.0 ws008.ws.tidafors.xyz
 0.0.0.0 ws008.www.datasecu.download
 0.0.0.0 ws008.www.jqwww.download
@@ -1230,21 +1243,21 @@
 0.0.0.0 ws025.ws.tidafors.xyz
 0.0.0.0 ws025.www.datasecu.download
 0.0.0.0 ws025.www.jqwww.download
-0.0.0.0 ws026.coinhive.com
 0.0.0.0 ws026.coin-hive.com
+0.0.0.0 ws026.coinhive.com
 0.0.0.0 ws026.hemnes.win
 0.0.0.0 ws026.ws.tidafors.xyz
 0.0.0.0 ws026.www.datasecu.download
 0.0.0.0 ws026.www.jqwww.download
-0.0.0.0 ws027.coinhive.com
 0.0.0.0 ws027.coin-hive.com
+0.0.0.0 ws027.coinhive.com
 0.0.0.0 ws027.hemnes.win
 0.0.0.0 ws027-proxy-ajcryptominer.ajplugins.com
 0.0.0.0 ws027.ws.tidafors.xyz
 0.0.0.0 ws027.www.datasecu.download
 0.0.0.0 ws027.www.jqwww.download
-0.0.0.0 ws028.coinhive.com
 0.0.0.0 ws028.coin-hive.com
+0.0.0.0 ws028.coinhive.com
 0.0.0.0 ws028.hemnes.win
 0.0.0.0 ws028-proxy-ajcryptominer.ajplugins.com
 0.0.0.0 ws028.ws.tidafors.xyz
@@ -1256,19 +1269,20 @@
 0.0.0.0 ws029-proxy-ajcryptominer.ajplugins.com
 0.0.0.0 ws029.ws.tidafors.xyz
 0.0.0.0 ws02cn.streamplay.to
+0.0.0.0 ws02.coinnebula.com
 0.0.0.0 ws02.crypto-loot.com
 0.0.0.0 ws030.coinhive.com
 0.0.0.0 ws030.coin-hive.com
 0.0.0.0 ws030.hemnes.win
 0.0.0.0 ws030.ws.tidafors.xyz
-0.0.0.0 ws031.coinhive.com
 0.0.0.0 ws031.coin-hive.com
+0.0.0.0 ws031.coinhive.com
 0.0.0.0 ws031.hemnes.win
 0.0.0.0 ws031-proxy-ajcryptominer.ajplugins.com
 0.0.0.0 ws03.1q2w3.website
 0.0.0.0 ws031.ws.tidafors.xyz
-0.0.0.0 ws032.coinhive.com
 0.0.0.0 ws032.coin-hive.com
+0.0.0.0 ws032.coinhive.com
 0.0.0.0 ws032-proxy-ajcryptominer.ajplugins.com
 0.0.0.0 ws032.ws.tidafors.xyz
 0.0.0.0 ws03cn.streamplay.to
@@ -1307,6 +1321,7 @@
 0.0.0.0 ws23.crypto.csgocpu.com
 0.0.0.0 ws23.crypto-loot.com
 0.0.0.0 ws24.crypto.csgocpu.com
+0.0.0.0 ws24.crypto-loot.com
 0.0.0.0 ws25.crypto.csgocpu.com
 0.0.0.0 ws25.crypto-loot.com
 0.0.0.0 ws26.crypto-loot.com
@@ -1356,6 +1371,7 @@
 0.0.0.0 wss-2.monerise.com
 0.0.0.0 wss.nablabee.com
 0.0.0.0 wss.rand.com.ru
+0.0.0.0 wss.stati.bid
 0.0.0.0 ws.tidafors.xyz
 0.0.0.0 ws.webcaster.pro
 0.0.0.0 wtm.monitoringservice.co
@@ -1674,6 +1690,7 @@
 0.0.0.0 www.mepirtedic.com
 0.0.0.0 www.mercy.ga
 0.0.0.0 www.mfio.cf
+0.0.0.0 www.mine2-party.nablabee.com
 0.0.0.0 www.minecrunch.co
 0.0.0.0 www.minekitten.io
 0.0.0.0 www.minemytraffic.com
@@ -1813,6 +1830,7 @@
 0.0.0.0 www.sss.freecontent.date
 0.0.0.0 www.statdynamic.com
 0.0.0.0 www.stati.bid
+0.0.0.0 www.static-02.flu.cc
 0.0.0.0 www.static-cnt.bid
 0.0.0.0 www.static-net.nut.cc
 0.0.0.0 www.staticsfs.host
@@ -1821,6 +1839,7 @@
 0.0.0.0 www.streamdream.ws
 0.0.0.0 www.stream.nullrefexcep.com
 0.0.0.0 www.streamplay.me
+0.0.0.0 www.streamplay.to
 0.0.0.0 www.sumokoin.crypto-webminer.com
 0.0.0.0 www.sunhd.info
 0.0.0.0 www.sunnimiq1.cf
@@ -1842,6 +1861,7 @@
 0.0.0.0 www.sxcdn4.now.sh
 0.0.0.0 www.sxcdn5.herokuapp.com
 0.0.0.0 www.sxcdn6.now.sh
+0.0.0.0 www.techtricksworld.com
 0.0.0.0 www.template-download.top
 0.0.0.0 www.terethat.ru
 0.0.0.0 www.tgtvbngp.ru
@@ -1947,6 +1967,7 @@
 0.0.0.0 www.ws012.www.datasecu.download
 0.0.0.0 www.ws012.www.jqwww.download
 0.0.0.0 www.ws013.ws.tidafors.xyz
+0.0.0.0 www.ws013.www.datasecu.download
 0.0.0.0 www.ws013.www.jqwww.download
 0.0.0.0 www.ws014.ws.tidafors.xyz
 0.0.0.0 www.ws014.www.datasecu.download
@@ -2039,3 +2060,4 @@
 0.0.0.0 zlx.com.br
 0.0.0.0 zminer.zaloapp.com
 0.0.0.0 zona.pl
+0.0.0.0 zona.plus
