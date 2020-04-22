@@ -331,6 +331,7 @@
 0.0.0.0 hostingcloud.re
 0.0.0.0 hostingcloud.review
 0.0.0.0 hostingcloud.sc
+0.0.0.0 hostingcloud.st
 0.0.0.0 hostingcloud.stream
 0.0.0.0 hostingcloud.tr
 0.0.0.0 hostingcloud.trade
@@ -443,9 +444,13 @@
 0.0.0.0 miner-14.team.nimiq.ag
 0.0.0.0 miner-14.team.nimiq.agency
 0.0.0.0 miner-15.team.nimiq.ag
+0.0.0.0 miner-15.team.nimiq.agency
 0.0.0.0 miner-16.team.nimiq.ag
 0.0.0.0 miner-16.team.nimiq.agency
+0.0.0.0 miner-17.team.nimiq.ag
+0.0.0.0 miner-17.team.nimiq.agency
 0.0.0.0 miner-18.team.nimiq.ag
+0.0.0.0 miner-18.team.nimiq.agency
 0.0.0.0 miner-19.team.nimiq.ag
 0.0.0.0 miner-19.team.nimiq.agency
 0.0.0.0 miner-1.team.nimiq.ag
@@ -468,6 +473,7 @@
 0.0.0.0 miner.cinemafacil.com
 0.0.0.0 minercry.pt
 0.0.0.0 miner.cryptobara.com
+0.0.0.0 miner-deu-1.inf.nimiq.net
 0.0.0.0 miner-deu-2.inf.nimiq.net
 0.0.0.0 miner-deu-3.inf.nimiq.net
 0.0.0.0 miner-deu-4.inf.nimiq.net
@@ -738,6 +744,7 @@
 0.0.0.0 seed-pol-1.inf.nimiq.net
 0.0.0.0 seed-pol-3.inf.nimiq.net
 0.0.0.0 seed-pol-4.inf.nimiq.net
+0.0.0.0 sentemanactri.com
 0.0.0.0 shannon.nimiqpool.com
 0.0.0.0 singapore01.monero.hashvault.pro
 0.0.0.0 site.freecontent.com
@@ -844,6 +851,7 @@
 0.0.0.0 worker0.minero.cc
 0.0.0.0 worker10.minero.cc
 0.0.0.0 worker1.minero.cc
+0.0.0.0 worker2.minero.cc
 0.0.0.0 worker5.minero.cc
 0.0.0.0 worker8.minero.cc
 0.0.0.0 worker.salon.com
@@ -851,6 +859,7 @@
 0.0.0.0 wrxgandsfcz.ru
 0.0.0.0 ws000.coinhive.com
 0.0.0.0 ws001.authedmine.com
+0.0.0.0 ws001.coinhive.com
 0.0.0.0 ws002.authedmine.com
 0.0.0.0 ws002.coinhive.com
 0.0.0.0 ws003.authedmine.com
@@ -917,6 +926,7 @@
 0.0.0.0 ws1.statistic.date
 0.0.0.0 ws2.1beb2a44.space
 0.0.0.0 ws2.300ca0d0.space
+0.0.0.0 ws2.330ca589.space
 0.0.0.0 ws2.340ca71c.space
 0.0.0.0 ws2.360caa42.space
 0.0.0.0 ws2.3c0cb3b4.space
@@ -999,6 +1009,7 @@
 0.0.0.0 ws.freebitco.in
 0.0.0.0 ws.l33tsite.info
 0.0.0.0 wsnew.freebitco.in
+0.0.0.0 wsp.marketgid.com
 0.0.0.0 ws.xmrm.pw
 0.0.0.0 www.0aqpqdju.me
 0.0.0.0 www1.2giga.link
@@ -1130,6 +1141,7 @@
 0.0.0.0 www.cdncounter.top
 0.0.0.0 www.cdnfile.xyz
 0.0.0.0 www.cdn-jquery.host
+0.0.0.0 www.certificates.freecontent.win
 0.0.0.0 www.cfcd.duckdns.org
 0.0.0.0 www.cfcdist.gd
 0.0.0.0 www.cfcdist.gdn
@@ -1311,6 +1323,7 @@
 0.0.0.0 www.hostingcloud.review
 0.0.0.0 www.hostingcloud.sc
 0.0.0.0 www.hostingcloud.science
+0.0.0.0 www.hostingcloud.st
 0.0.0.0 www.hostingcloud.stream
 0.0.0.0 www.hostingcloud.tr
 0.0.0.0 www.hostingcloud.trade
@@ -1387,8 +1400,10 @@
 0.0.0.0 www.latestpromotions.club
 0.0.0.0 www.lewd.ninja
 0.0.0.0 www.lib.bmst.pw
+0.0.0.0 www.lib.xmrm.pw
 0.0.0.0 www.light.browsermine.com
 0.0.0.0 www.listat.biz
+0.0.0.0 www.live.4480.org
 0.0.0.0 www.livelyoffers.club
 0.0.0.0 www.lmeeulcfttqv.ru
 0.0.0.0 www.lmodr.biz
@@ -1502,6 +1517,7 @@
 0.0.0.0 www.scaleway.ovh
 0.0.0.0 www.seasonaloffers.club
 0.0.0.0 www.secumine.net
+0.0.0.0 www.sentemanactri.com
 0.0.0.0 www.service4refresh.info
 0.0.0.0 www.siteverification.online
 0.0.0.0 www.siteverification.site
@@ -1624,6 +1640,7 @@
 0.0.0.0 www.zymerget.win
 0.0.0.0 www.zzqhsrg.ru
 0.0.0.0 x.browsermine.com
+0.0.0.0 xdn.cpufan.club
 0.0.0.0 xgmc6lu8fs.me
 0.0.0.0 xml.mining.best
 0.0.0.0 xmr10.crypto-pool.fr
