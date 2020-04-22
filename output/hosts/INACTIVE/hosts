@@ -359,8 +359,8 @@
 0.0.0.0 jqcdn.do
 0.0.0.0 jqmrqgaunex.ru
 0.0.0.0 jqrcdn.do
-0.0.0.0 jqr-cdn.download
 0.0.0.0 jqrcdn.download
+0.0.0.0 jqr-cdn.download
 0.0.0.0 jquerrycdn.do
 0.0.0.0 jquerrycdn.download
 0.0.0.0 jquery-cdn.do
@@ -477,6 +477,7 @@
 0.0.0.0 miner-deu-8.inf.nimiq.net
 0.0.0.0 miner.oozing.co
 0.0.0.0 miner.pr0gramm.com
+0.0.0.0 minexmr.st
 0.0.0.0 minexmr.stream
 0.0.0.0 minr.browsermine.com
 0.0.0.0 miscws002.coinhive.com
@@ -545,6 +546,7 @@
 0.0.0.0 p2.assetscdn.stream
 0.0.0.0 p2.interestingz.pw
 0.0.0.0 p3.assetscdn.stream
+0.0.0.0 p3.interestingz.pw
 0.0.0.0 paris01.monero.hashvault.pro
 0.0.0.0 pascal3.science
 0.0.0.0 pasoherb.gq
@@ -601,6 +603,7 @@
 0.0.0.0 pool.coinrail.io
 0.0.0.0 pool.cryptonoter.com
 0.0.0.0 pool.electroneum.hashvault.pro
+0.0.0.0 pool.etn.spacepools.org
 0.0.0.0 pool.hws.ru
 0.0.0.0 pool.intense.hashvault.pro
 0.0.0.0 pool.monero.hashvault.pro
@@ -628,6 +631,7 @@
 0.0.0.0 qlzwfzfatjth.ru
 0.0.0.0 qpmsybxqvlje.ru
 0.0.0.0 r8nu86wg.me
+0.0.0.0 rack.cryptaloot.pro
 0.0.0.0 rbkshort.info
 0.0.0.0 rctfgrazkha.ru
 0.0.0.0 realnetwrk.com
@@ -714,6 +718,7 @@
 0.0.0.0 seed4.nimiqtest.net
 0.0.0.0 seed-5.nimiq.net
 0.0.0.0 seed-8.nimiq.net
+0.0.0.0 seed-9.nimiq.net
 0.0.0.0 seed-can-1.inf.nimiq.net
 0.0.0.0 seed-can-2.inf.nimiq.net
 0.0.0.0 seed-deu-1.inf.nimiq.net
@@ -725,7 +730,9 @@
 0.0.0.0 seed-fra-3.inf.nimiq.net
 0.0.0.0 seed-fra-4.inf.nimiq.net
 0.0.0.0 seed-fra-5.inf.nimiq.net
+0.0.0.0 seed-fra-6.inf.nimiq.net
 0.0.0.0 seed-gbr-1.inf.nimiq.net
+0.0.0.0 seed-gbr-2.inf.nimiq.net
 0.0.0.0 seed-gbr-3.inf.nimiq.net
 0.0.0.0 seed-gbr-4.inf.nimiq.net
 0.0.0.0 seed-pol-1.inf.nimiq.net
@@ -815,6 +822,7 @@
 0.0.0.0 webassembly.st
 0.0.0.0 webdisk.monerominer.rocks
 0.0.0.0 web.dle-news.pw
+0.0.0.0 web-master.sbhmn-miner.com
 0.0.0.0 websocket.minexmr.stream
 0.0.0.0 wemine.pro
 0.0.0.0 w.freecontent.com
@@ -822,6 +830,7 @@
 0.0.0.0 whysoserius.cl
 0.0.0.0 wijzeman.sbhmn-miner.com
 0.0.0.0 willacrit.com
+0.0.0.0 witkom.sbhmn-miner.com
 0.0.0.0 witthethim.com
 0.0.0.0 wittyoffers.club
 0.0.0.0 wkkjfcgjofbix.ru
@@ -881,9 +890,11 @@
 0.0.0.0 ws02.1q2w3.me
 0.0.0.0 ws022.authedmine.com
 0.0.0.0 ws022.coinhive.com
+0.0.0.0 ws023.authedmine.com
 0.0.0.0 ws024.authedmine.com
 0.0.0.0 ws025.authedmine.com
 0.0.0.0 ws026.authedmine.com
+0.0.0.0 ws027.authedmine.com
 0.0.0.0 ws028.authedmine.com
 0.0.0.0 ws029.authedmine.com
 0.0.0.0 ws02.ppoi.org
@@ -898,6 +909,7 @@
 0.0.0.0 ws1.320ca3f6.space
 0.0.0.0 ws1.330ca589.space
 0.0.0.0 ws1.360caa42.space
+0.0.0.0 ws1.370cabd5.space
 0.0.0.0 ws1.3c0cb3b4.space
 0.0.0.0 ws1.3d0cb547.space
 0.0.0.0 ws1.coin-have.com
@@ -953,6 +965,7 @@
 0.0.0.0 ws6.330ca589.space
 0.0.0.0 ws6.360caa42.space
 0.0.0.0 ws6.370cabd5.space
+0.0.0.0 ws6.3d0cb547.space
 0.0.0.0 ws6.coin-have.com
 0.0.0.0 ws7.1beb2a44.space
 0.0.0.0 ws7.300ca0d0.space
@@ -967,6 +980,7 @@
 0.0.0.0 ws8.1beb2a44.space
 0.0.0.0 ws8.300ca0d0.space
 0.0.0.0 ws8.310ca263.space
+0.0.0.0 ws8.320ca3f6.space
 0.0.0.0 ws8.330ca589.space
 0.0.0.0 ws8.340ca71c.space
 0.0.0.0 ws8.360caa42.space
@@ -1126,6 +1140,7 @@
 0.0.0.0 www.cfcs1.duckdns.org
 0.0.0.0 www.chainblock.sc
 0.0.0.0 www.chainblock.science
+0.0.0.0 www.ch.browsermine.com
 0.0.0.0 www.chws.browsermine.com
 0.0.0.0 www.clgserv.pro
 0.0.0.0 www.clickandbuy.review
@@ -1335,6 +1350,7 @@
 0.0.0.0 www.jqwww.do
 0.0.0.0 www.jqxrrygqnagn.ru
 0.0.0.0 www.jsccnn.com
+0.0.0.0 www.js.coinhive.com
 0.0.0.0 www.jshosting.bi
 0.0.0.0 www.jshosting.bid
 0.0.0.0 www.jshosting.date
@@ -1391,6 +1407,7 @@
 0.0.0.0 www.mighbest.si
 0.0.0.0 www.mighbest.site
 0.0.0.0 www.minercry.pt
+0.0.0.0 www.minexmr.st
 0.0.0.0 www.minexmr.stream
 0.0.0.0 www.minr.browsermine.com
 0.0.0.0 www.miscws002.coinhive.com
@@ -1569,6 +1586,7 @@
 0.0.0.0 www.ws5.bmnr.pw
 0.0.0.0 www.wsnew.freebitco.in
 0.0.0.0 www.ws.xmrm.pw
+0.0.0.0 www.www1.2giga.link
 0.0.0.0 www.xbasfbno.info
 0.0.0.0 www.x.browsermine.com
 0.0.0.0 www.xgmc6lu8fs.me
@@ -1583,6 +1601,7 @@
 0.0.0.0 www.xvideosharing.site
 0.0.0.0 www.ybjfsqcevow.ru
 0.0.0.0 www.yoaabgvkm.ru
+0.0.0.0 www.yololike.space
 0.0.0.0 www.yourloganalytics.com
 0.0.0.0 www.yqaywudifu.date
 0.0.0.0 www.yuyyio.com
@@ -1621,6 +1640,7 @@
 0.0.0.0 xvideosharing.site
 0.0.0.0 ybjfsqcevow.ru
 0.0.0.0 yoaabgvkm.ru
+0.0.0.0 yololike.space
 0.0.0.0 yourloganalytics.com
 0.0.0.0 yqaywudifu.date
 0.0.0.0 yuyyio.com

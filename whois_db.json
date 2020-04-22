@@ -1789,6 +1789,11 @@
         "expiration_date": "09-oct-2020",
         "state": "future"
     },
+    "reauthenticator.com": {
+        "epoch": 1597536000.0,
+        "expiration_date": "16-aug-2020",
+        "state": "future"
+    },
     "refreshnerer27.info": {
         "epoch": 1593648000.0,
         "expiration_date": "02-jul-2020",
@@ -2099,6 +2104,11 @@
         "expiration_date": "07-may-2020",
         "state": "future"
     },
+    "tpbproxyone.org": {
+        "epoch": 1610841600.0,
+        "expiration_date": "17-jan-2021",
+        "state": "future"
+    },
     "traviilo.com": {
         "epoch": 1608595200.0,
         "expiration_date": "22-dec-2020",
@@ -2192,6 +2202,11 @@
     "vuuwd.com": {
         "epoch": 1610323200.0,
         "expiration_date": "11-jan-2021",
+        "state": "future"
+    },
+    "vzhjnorkudcxbiy.com": {
+        "epoch": 1592438400.0,
+        "expiration_date": "18-jun-2020",
         "state": "future"
     },
     "wasm.stream": {
