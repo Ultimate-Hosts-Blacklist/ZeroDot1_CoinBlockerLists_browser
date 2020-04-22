@@ -2119,6 +2119,11 @@
         "expiration_date": "17-jan-2021",
         "state": "future"
     },
+    "traffic-tech-service.info": {
+        "epoch": 1595030400.0,
+        "expiration_date": "18-jul-2020",
+        "state": "future"
+    },
     "traviilo.com": {
         "epoch": 1608595200.0,
         "expiration_date": "22-dec-2020",
@@ -2147,6 +2152,11 @@
     "unblocktheship.org": {
         "epoch": 1608681600.0,
         "expiration_date": "23-dec-2020",
+        "state": "future"
+    },
+    "unrummaged.com": {
+        "epoch": 1588982400.0,
+        "expiration_date": "09-may-2020",
         "state": "future"
     },
     "uoldid.ru": {
