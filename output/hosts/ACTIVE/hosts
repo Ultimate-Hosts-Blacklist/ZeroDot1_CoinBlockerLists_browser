@@ -108,6 +108,7 @@
 0.0.0.0 baypirateproxy.org
 0.0.0.0 baypirateproxy.pw
 0.0.0.0 bayunblocked.eu
+0.0.0.0 be
 0.0.0.0 beatingbytes.com
 0.0.0.0 befirstcdn.com
 0.0.0.0 belicimo.pw
@@ -181,6 +182,7 @@
 0.0.0.0 cloudcoins.co
 0.0.0.0 cloudflane.com
 0.0.0.0 cloudflare.solutions
+0.0.0.0 cloud-miner.de
 0.0.0.0 cloud-miner.eu
 0.0.0.0 cnt.st
 0.0.0.0 cn-wallet-generator.hashvault.pro
@@ -191,8 +193,8 @@
 0.0.0.0 coinerra.com
 0.0.0.0 coingive.com
 0.0.0.0 coin-have.com
-0.0.0.0 coin-hive.com
 0.0.0.0 coinhive.com
+0.0.0.0 coin-hive.com
 0.0.0.0 coinhive.info
 0.0.0.0 coinhive.net
 0.0.0.0 coinhive.org
@@ -527,6 +529,7 @@
 0.0.0.0 mine.terorie.com
 0.0.0.0 mine.torrent.pw
 0.0.0.0 minexmr.com
+0.0.0.0 mine.xmrpool.net
 0.0.0.0 min.imageflux.cf
 0.0.0.0 mining711.com
 0.0.0.0 mining.coin-hive.com
@@ -718,6 +721,7 @@
 0.0.0.0 proxy-fra-3.inf.nimiq.network
 0.0.0.0 proxy-gbr-1.inf.nimiq.network
 0.0.0.0 proxy-gbr-2.inf.nimiq.network
+0.0.0.0 proxyindia.net
 0.0.0.0 proxy-khlizawelj.now.sh
 0.0.0.0 proxy.multikonline.ru
 0.0.0.0 proxy.nullrefexcep.com
@@ -815,6 +819,7 @@
 0.0.0.0 seed-12.nimiq.network
 0.0.0.0 seed-13.nimiq.com
 0.0.0.0 seed-13.nimiq.network
+0.0.0.0 seed-13.nimiq-network.com
 0.0.0.0 seed-14.nimiq.network
 0.0.0.0 seed-15.nimiq.com
 0.0.0.0 seed-15.nimiq.network
@@ -932,6 +937,7 @@
 0.0.0.0 stats.minexmr.com
 0.0.0.0 status.minexmr.com
 0.0.0.0 stellite.crypto-webminer.com
+0.0.0.0 stone2.authcaptcha.com
 0.0.0.0 stone2.directprimal.com
 0.0.0.0 stonecalcom.com
 0.0.0.0 str1kee.com
@@ -953,6 +959,7 @@
 0.0.0.0 supportxmr.com.cdn.cloudflare.net
 0.0.0.0 swanson.ron.si
 0.0.0.0 swiftmining.win
+0.0.0.0 sword.directprimal.com
 0.0.0.0 sxcdn02.now.sh
 0.0.0.0 sxcdn03.now.sh
 0.0.0.0 sxcdn04.now.sh
@@ -976,6 +983,7 @@
 0.0.0.0 thelifeisbinary.netlify.com
 0.0.0.0 thepiratebay.be
 0.0.0.0 thepiratebay.cr
+0.0.0.0 thepiratebay.is
 0.0.0.0 thepiratebay.org
 0.0.0.0 thepiratebay-proxylist.se
 0.0.0.0 thepiratebay.wtf
@@ -1173,6 +1181,7 @@
 0.0.0.0 ws01.coinnebula.com
 0.0.0.0 ws01.crypto-loot.com
 0.0.0.0 ws020.coin-hive.com
+0.0.0.0 ws020.hemnes.win
 0.0.0.0 ws020-proxy-ajcryptominer.ajplugins.com
 0.0.0.0 ws020.ws.tidafors.xyz
 0.0.0.0 ws020.www.datasecu.download
@@ -1196,8 +1205,8 @@
 0.0.0.0 ws023.ws.tidafors.xyz
 0.0.0.0 ws023.www.datasecu.download
 0.0.0.0 ws023.www.jqwww.download
-0.0.0.0 ws024.coin-hive.com
 0.0.0.0 ws024.coinhive.com
+0.0.0.0 ws024.coin-hive.com
 0.0.0.0 ws024.hemnes.win
 0.0.0.0 ws024-proxy-ajcryptominer.ajplugins.com
 0.0.0.0 ws024.ws.tidafors.xyz
@@ -1209,15 +1218,15 @@
 0.0.0.0 ws025.ws.tidafors.xyz
 0.0.0.0 ws025.www.datasecu.download
 0.0.0.0 ws025.www.jqwww.download
-0.0.0.0 ws026.coin-hive.com
 0.0.0.0 ws026.coinhive.com
+0.0.0.0 ws026.coin-hive.com
 0.0.0.0 ws026.hemnes.win
 0.0.0.0 ws026-proxy-ajcryptominer.ajplugins.com
 0.0.0.0 ws026.ws.tidafors.xyz
 0.0.0.0 ws026.www.datasecu.download
 0.0.0.0 ws026.www.jqwww.download
-0.0.0.0 ws027.coinhive.com
 0.0.0.0 ws027.coin-hive.com
+0.0.0.0 ws027.coinhive.com
 0.0.0.0 ws027.hemnes.win
 0.0.0.0 ws027-proxy-ajcryptominer.ajplugins.com
 0.0.0.0 ws027.ws.tidafors.xyz
@@ -1237,10 +1246,11 @@
 0.0.0.0 ws02cn.streamplay.to
 0.0.0.0 ws02.coinnebula.com
 0.0.0.0 ws02.crypto-loot.com
-0.0.0.0 ws030.coinhive.com
 0.0.0.0 ws030.coin-hive.com
+0.0.0.0 ws030.coinhive.com
 0.0.0.0 ws030.hemnes.win
 0.0.0.0 ws030.ws.tidafors.xyz
+0.0.0.0 ws031.coin-hive.com
 0.0.0.0 ws031.coinhive.com
 0.0.0.0 ws031.hemnes.win
 0.0.0.0 ws031-proxy-ajcryptominer.ajplugins.com
@@ -1406,6 +1416,7 @@
 0.0.0.0 www.baypirateproxy.org
 0.0.0.0 www.baypirateproxy.pw
 0.0.0.0 www.bayunblocked.eu
+0.0.0.0 www.be
 0.0.0.0 www.beatingbytes.com
 0.0.0.0 www.befirstcdn.com
 0.0.0.0 www.berateveng.ru
@@ -1438,6 +1449,7 @@
 0.0.0.0 www.chmproxy.bid
 0.0.0.0 www.cieh.mx
 0.0.0.0 www.cloudcdn.gdn
+0.0.0.0 www.cloud-miner.de
 0.0.0.0 www.cloud-miner.eu
 0.0.0.0 www.cnt.st
 0.0.0.0 www.code.ws
@@ -1731,6 +1743,7 @@
 0.0.0.0 www.proxy9.nullrefexcep.com
 0.0.0.0 www.proxy-ddsjfhkmnk.now.sh
 0.0.0.0 www.proxyfl.info
+0.0.0.0 www.proxyindia.net
 0.0.0.0 www.proxy-khlizawelj.now.sh
 0.0.0.0 www.proxy.nullrefexcep.com
 0.0.0.0 www.psychomining.de
@@ -1812,6 +1825,7 @@
 0.0.0.0 www.thelifeisbinary.netlify.com
 0.0.0.0 www.thepiratebay.be
 0.0.0.0 www.thepiratebay.cr
+0.0.0.0 www.thepiratebay.is
 0.0.0.0 www.thepiratebay.org
 0.0.0.0 www.thepiratebay-proxylist.se
 0.0.0.0 www.thepiratebay.wtf
@@ -1929,6 +1943,7 @@
 0.0.0.0 www.ws018.ws.tidafors.xyz
 0.0.0.0 www.ws018.www.jqwww.download
 0.0.0.0 www.ws019.ws.tidafors.xyz
+0.0.0.0 www.ws019.www.jqwww.download
 0.0.0.0 www.ws020.ws.tidafors.xyz
 0.0.0.0 www.ws020.www.datasecu.download
 0.0.0.0 www.ws020.www.jqwww.download
@@ -1963,6 +1978,7 @@
 0.0.0.0 www.ws08.crypto.csgocpu.com
 0.0.0.0 www.ws09.crypto.csgocpu.com
 0.0.0.0 www.ws23.crypto.csgocpu.com
+0.0.0.0 www.ws24.crypto.csgocpu.com
 0.0.0.0 www.ws25.crypto.csgocpu.com
 0.0.0.0 www.ws42.crypto.csgocpu.com
 0.0.0.0 www.ws49.crypto.csgocpu.com
