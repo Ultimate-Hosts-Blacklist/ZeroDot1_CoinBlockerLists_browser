@@ -1434,6 +1434,11 @@
         "expiration_date": "16-apr-2021",
         "state": "future"
     },
+    "mmc.center": {
+        "epoch": 1620259200.0,
+        "expiration_date": "06-may-2021",
+        "state": "future"
+    },
     "mmpool.org": {
         "epoch": 1617148800.0,
         "expiration_date": "31-mar-2021",
