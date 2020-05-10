@@ -343,8 +343,8 @@
 0.0.0.0 jqcdn.do
 0.0.0.0 jqmrqgaunex.ru
 0.0.0.0 jqrcdn.do
-0.0.0.0 jqrcdn.download
 0.0.0.0 jqr-cdn.download
+0.0.0.0 jqrcdn.download
 0.0.0.0 jquerrycdn.do
 0.0.0.0 jquerrycdn.download
 0.0.0.0 jquery-cdn.do
@@ -888,6 +888,7 @@
 0.0.0.0 ws001.www.jqwww.download
 0.0.0.0 ws002.authedmine.com
 0.0.0.0 ws002.coinhive.com
+0.0.0.0 ws002.www.jqwww.download
 0.0.0.0 ws003.authedmine.com
 0.0.0.0 ws003.coinhive.com
 0.0.0.0 ws003.www.jqwww.download
@@ -898,6 +899,7 @@
 0.0.0.0 ws005.www.jqwww.download
 0.0.0.0 ws006.authedmine.com
 0.0.0.0 ws006.coinhive.com
+0.0.0.0 ws006.www.jqwww.download
 0.0.0.0 ws007.authedmine.com
 0.0.0.0 ws007.coinhive.com
 0.0.0.0 ws007.www.jqwww.download
@@ -914,6 +916,7 @@
 0.0.0.0 ws011.www.jqwww.download
 0.0.0.0 ws012.authedmine.com
 0.0.0.0 ws012.coinhive.com
+0.0.0.0 ws012.www.jqwww.download
 0.0.0.0 ws013.authedmine.com
 0.0.0.0 ws013.coinhive.com
 0.0.0.0 ws014.authedmine.com
@@ -926,6 +929,7 @@
 0.0.0.0 ws016.www.jqwww.download
 0.0.0.0 ws017.authedmine.com
 0.0.0.0 ws017.coinhive.com
+0.0.0.0 ws017.www.jqwww.download
 0.0.0.0 ws018.authedmine.com
 0.0.0.0 ws018.coinhive.com
 0.0.0.0 ws019.authedmine.com
@@ -1415,8 +1419,8 @@
 0.0.0.0 www.jqcdn.download
 0.0.0.0 www.jqmrqgaunex.ru
 0.0.0.0 www.jqrcdn.do
-0.0.0.0 www.jqrcdn.download
 0.0.0.0 www.jqr-cdn.download
+0.0.0.0 www.jqrcdn.download
 0.0.0.0 www.jquerrycdn.do
 0.0.0.0 www.jquerrycdn.download
 0.0.0.0 www.jquery-cdn.do
@@ -1690,8 +1694,10 @@
 0.0.0.0 www.ws008.www.jqwww.download
 0.0.0.0 www.ws010.www.jqwww.download
 0.0.0.0 www.ws011.www.jqwww.download
+0.0.0.0 www.ws012.www.jqwww.download
 0.0.0.0 www.ws015.www.jqwww.download
 0.0.0.0 www.ws016.www.jqwww.download
+0.0.0.0 www.ws017.www.jqwww.download
 0.0.0.0 www.ws019.www.jqwww.download
 0.0.0.0 www.ws020.www.jqwww.download
 0.0.0.0 www.ws021.www.jqwww.download
