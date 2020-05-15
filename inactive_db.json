@@ -1424,8 +1424,8 @@
         "cndhit.xyz": {
             "included_at_epoch": 1588490762.0,
             "included_at_iso": "2020-05-03T07:26:02",
-            "last_retested_at_epoch": 1589285769.270924,
-            "last_retested_at_iso": "2020-05-12T12:16:09.270924",
+            "last_retested_at_epoch": 1589586109.614319,
+            "last_retested_at_iso": "2020-05-15T23:41:49.614319",
             "status": "INACTIVE"
         },
         "cnt.statistic.date": {
@@ -2635,8 +2635,8 @@
         "hostingcloud.pa": {
             "included_at_epoch": 1588414341.0,
             "included_at_iso": "2020-05-02T10:12:21",
-            "last_retested_at_epoch": 1589325992.867799,
-            "last_retested_at_iso": "2020-05-12T23:26:32.867799",
+            "last_retested_at_epoch": 1589585893.051435,
+            "last_retested_at_iso": "2020-05-15T23:38:13.051435",
             "status": "INACTIVE"
         },
         "hostingcloud.re": {
@@ -5176,8 +5176,8 @@
         "s02.hostcontent.li": {
             "included_at_epoch": 1588396006.0,
             "included_at_iso": "2020-05-02T05:06:46",
-            "last_retested_at_epoch": 1589295034.113964,
-            "last_retested_at_iso": "2020-05-12T14:50:34.113964",
+            "last_retested_at_epoch": 1589585909.61872,
+            "last_retested_at_iso": "2020-05-15T23:38:29.618720",
             "status": "INACTIVE"
         },
         "s02.hostcontent.live": {
@@ -7808,8 +7808,8 @@
         "ws3.330ca589.space": {
             "included_at_epoch": 1588304364.0,
             "included_at_iso": "2020-05-01T03:39:24",
-            "last_retested_at_epoch": 1589344091.597432,
-            "last_retested_at_iso": "2020-05-13T04:28:11.597432",
+            "last_retested_at_epoch": 1589586075.607936,
+            "last_retested_at_iso": "2020-05-15T23:41:15.607936",
             "status": "INACTIVE"
         },
         "ws3.340ca71c.space": {
@@ -9537,8 +9537,8 @@
         "www.cndhit.xyz": {
             "included_at_epoch": 1588490757.0,
             "included_at_iso": "2020-05-03T07:25:57",
-            "last_retested_at_epoch": 1589285764.263855,
-            "last_retested_at_iso": "2020-05-12T12:16:04.263855",
+            "last_retested_at_epoch": 1589586104.694925,
+            "last_retested_at_iso": "2020-05-15T23:41:44.694925",
             "status": "INACTIVE"
         },
         "www.cnhv.co": {
@@ -10727,8 +10727,8 @@
         "www.hostingcloud.pa": {
             "included_at_epoch": 1588414341.0,
             "included_at_iso": "2020-05-02T10:12:21",
-            "last_retested_at_epoch": 1589325993.198333,
-            "last_retested_at_iso": "2020-05-12T23:26:33.198333",
+            "last_retested_at_epoch": 1589585893.505054,
+            "last_retested_at_iso": "2020-05-15T23:38:13.505054",
             "status": "INACTIVE"
         },
         "www.hostingcloud.re": {
