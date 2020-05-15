@@ -605,8 +605,8 @@
         "api.l33tsite.info": {
             "included_at_epoch": 1588418879.0,
             "included_at_iso": "2020-05-02T11:27:59",
-            "last_retested_at_epoch": 1589281323.499137,
-            "last_retested_at_iso": "2020-05-12T11:02:03.499137",
+            "last_retested_at_epoch": 1589582064.502752,
+            "last_retested_at_iso": "2020-05-15T22:34:24.502752",
             "status": "INACTIVE"
         },
         "api.miner.beeppool.org": {
@@ -3195,8 +3195,8 @@
         "latestpromotions.club": {
             "included_at_epoch": 1588469658.0,
             "included_at_iso": "2020-05-03T01:34:18",
-            "last_retested_at_epoch": 1589339258.033874,
-            "last_retested_at_iso": "2020-05-13T03:07:38.033874",
+            "last_retested_at_epoch": 1589582140.366302,
+            "last_retested_at_iso": "2020-05-15T22:35:40.366302",
             "status": "INACTIVE"
         },
         "levin.nimiqpool.com": {
@@ -3972,8 +3972,8 @@
         "money-maker-script.info": {
             "included_at_epoch": 1588483147.0,
             "included_at_iso": "2020-05-03T05:19:07",
-            "last_retested_at_epoch": 1589335074.07595,
-            "last_retested_at_iso": "2020-05-13T01:57:54.075950",
+            "last_retested_at_epoch": 1589581679.143132,
+            "last_retested_at_iso": "2020-05-15T22:27:59.143132",
             "status": "INACTIVE"
         },
         "moscow05.electroneum.hashvault.pro": {
@@ -4308,8 +4308,8 @@
         "p1.assetscdn.stream": {
             "included_at_epoch": 1588475028.0,
             "included_at_iso": "2020-05-03T03:03:48",
-            "last_retested_at_epoch": 1589334671.932842,
-            "last_retested_at_iso": "2020-05-13T01:51:11.932842",
+            "last_retested_at_epoch": 1589581832.134512,
+            "last_retested_at_iso": "2020-05-15T22:30:32.134512",
             "status": "INACTIVE"
         },
         "p1.gnrdomimplementation.com": {
@@ -5775,6 +5775,13 @@
             "last_retested_at_iso": "2020-05-15T03:11:38.011724",
             "status": "INACTIVE"
         },
+        "seed-fra-2.inf.nimiq.network": {
+            "included_at_epoch": 1589581776.270655,
+            "included_at_iso": "2020-05-15T22:29:36.270655",
+            "last_retested_at_epoch": 1589581776.270655,
+            "last_retested_at_iso": "2020-05-15T22:29:36.270655",
+            "status": "INACTIVE"
+        },
         "seed-fra-3.inf.nimiq.net": {
             "included_at_epoch": 1588414533.0,
             "included_at_iso": "2020-05-02T10:15:33",
@@ -5801,6 +5808,13 @@
             "included_at_iso": "2020-05-02T16:22:08",
             "last_retested_at_epoch": 1589520441.875755,
             "last_retested_at_iso": "2020-05-15T05:27:21.875755",
+            "status": "INACTIVE"
+        },
+        "seed-fra-5.inf.nimiq.network": {
+            "included_at_epoch": 1589581641.849023,
+            "included_at_iso": "2020-05-15T22:27:21.849023",
+            "last_retested_at_epoch": 1589581641.849023,
+            "last_retested_at_iso": "2020-05-15T22:27:21.849023",
             "status": "INACTIVE"
         },
         "seed-fra-6.inf.nimiq.net": {
@@ -6303,8 +6317,8 @@
         "tpbpiratbay.cl": {
             "included_at_epoch": 1588469909.0,
             "included_at_iso": "2020-05-03T01:38:29",
-            "last_retested_at_epoch": 1589339322.986786,
-            "last_retested_at_iso": "2020-05-13T03:08:42.986786",
+            "last_retested_at_epoch": 1589581744.302868,
+            "last_retested_at_iso": "2020-05-15T22:29:04.302868",
             "status": "INACTIVE"
         },
         "traffic-gate-service.info": {
@@ -7241,8 +7255,8 @@
         "ws015.coinhive.com": {
             "included_at_epoch": 1588336714.0,
             "included_at_iso": "2020-05-01T12:38:34",
-            "last_retested_at_epoch": 1589330442.72415,
-            "last_retested_at_iso": "2020-05-13T00:40:42.724150",
+            "last_retested_at_epoch": 1589582017.029714,
+            "last_retested_at_iso": "2020-05-15T22:33:37.029714",
             "status": "INACTIVE"
         },
         "ws015.www.jqwww.download": {
@@ -7556,8 +7570,8 @@
         "ws1.300ca0d0.space": {
             "included_at_epoch": 1588487201.0,
             "included_at_iso": "2020-05-03T06:26:41",
-            "last_retested_at_epoch": 1589339420.471882,
-            "last_retested_at_iso": "2020-05-13T03:10:20.471882",
+            "last_retested_at_epoch": 1589582159.812214,
+            "last_retested_at_iso": "2020-05-15T22:35:59.812214",
             "status": "INACTIVE"
         },
         "ws1.320ca3f6.space": {
@@ -10503,8 +10517,8 @@
         "www.goldoffer.online": {
             "included_at_epoch": 1588432020.0,
             "included_at_iso": "2020-05-02T15:07:00",
-            "last_retested_at_epoch": 1589339382.567305,
-            "last_retested_at_iso": "2020-05-13T03:09:42.567305",
+            "last_retested_at_epoch": 1589581723.009977,
+            "last_retested_at_iso": "2020-05-15T22:28:43.009977",
             "status": "INACTIVE"
         },
         "www.googleanalytcs.com": {
@@ -11336,8 +11350,8 @@
         "www.latestpromotions.club": {
             "included_at_epoch": 1588469658.0,
             "included_at_iso": "2020-05-03T01:34:18",
-            "last_retested_at_epoch": 1589339258.263634,
-            "last_retested_at_iso": "2020-05-13T03:07:38.263634",
+            "last_retested_at_epoch": 1589582140.319574,
+            "last_retested_at_iso": "2020-05-15T22:35:40.319574",
             "status": "INACTIVE"
         },
         "www.ledinund.com": {
@@ -11693,8 +11707,8 @@
         "www.money-maker-script.info": {
             "included_at_epoch": 1588350661.0,
             "included_at_iso": "2020-05-01T16:31:01",
-            "last_retested_at_epoch": 1589357394.929038,
-            "last_retested_at_iso": "2020-05-13T08:09:54.929038",
+            "last_retested_at_epoch": 1589581679.126864,
+            "last_retested_at_iso": "2020-05-15T22:27:59.126864",
             "status": "INACTIVE"
         },
         "www.moonsade.com": {
@@ -11917,8 +11931,8 @@
         "www.old.browsermine.com": {
             "included_at_epoch": 1588483408.0,
             "included_at_iso": "2020-05-03T05:23:28",
-            "last_retested_at_epoch": 1589339278.012023,
-            "last_retested_at_iso": "2020-05-13T03:07:58.012023",
+            "last_retested_at_epoch": 1589582134.682718,
+            "last_retested_at_iso": "2020-05-15T22:35:34.682718",
             "status": "INACTIVE"
         },
         "www.olecintri.com": {
@@ -12694,8 +12708,8 @@
         "www.tpbpiratbay.cl": {
             "included_at_epoch": 1588469909.0,
             "included_at_iso": "2020-05-03T01:38:29",
-            "last_retested_at_epoch": 1589339322.927607,
-            "last_retested_at_iso": "2020-05-13T03:08:42.927607",
+            "last_retested_at_epoch": 1589581744.034717,
+            "last_retested_at_iso": "2020-05-15T22:29:04.034717",
             "status": "INACTIVE"
         },
         "www.traffic-gate-service.info": {

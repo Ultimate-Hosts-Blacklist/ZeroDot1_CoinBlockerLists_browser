@@ -347,8 +347,8 @@
 0.0.0.0 jqcdn.do
 0.0.0.0 jqmrqgaunex.ru
 0.0.0.0 jqrcdn.do
-0.0.0.0 jqr-cdn.download
 0.0.0.0 jqrcdn.download
+0.0.0.0 jqr-cdn.download
 0.0.0.0 jquerrycdn.do
 0.0.0.0 jquerrycdn.download
 0.0.0.0 jquery-cdn.do
@@ -747,10 +747,12 @@
 0.0.0.0 seed-deu-4.inf.nimiq.net
 0.0.0.0 seed-fra-1.inf.nimiq.net
 0.0.0.0 seed-fra-2.inf.nimiq.net
+0.0.0.0 seed-fra-2.inf.nimiq.network
 0.0.0.0 seed-fra-3.inf.nimiq.net
 0.0.0.0 seed-fra-4.inf.nimiq.net
 0.0.0.0 seed-fra-4.inf.nimiq.network
 0.0.0.0 seed-fra-5.inf.nimiq.net
+0.0.0.0 seed-fra-5.inf.nimiq.network
 0.0.0.0 seed-fra-6.inf.nimiq.net
 0.0.0.0 seed-gbr-1.inf.nimiq.net
 0.0.0.0 seed-gbr-2.inf.nimiq.net
@@ -1441,8 +1443,8 @@
 0.0.0.0 www.jqcdn.download
 0.0.0.0 www.jqmrqgaunex.ru
 0.0.0.0 www.jqrcdn.do
-0.0.0.0 www.jqr-cdn.download
 0.0.0.0 www.jqrcdn.download
+0.0.0.0 www.jqr-cdn.download
 0.0.0.0 www.jquerrycdn.do
 0.0.0.0 www.jquerrycdn.download
 0.0.0.0 www.jquery-cdn.do
