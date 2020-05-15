@@ -868,6 +868,13 @@
             "last_retested_at_iso": "2020-05-15T09:06:29.290570",
             "status": "INACTIVE"
         },
+        "bayhypertpb.be": {
+            "included_at_epoch": 1589574619.498154,
+            "included_at_iso": "2020-05-15T20:30:19.498154",
+            "last_retested_at_epoch": 1589574619.498154,
+            "last_retested_at_iso": "2020-05-15T20:30:19.498154",
+            "status": "INACTIVE"
+        },
         "baywttgdhe.do": {
             "included_at_epoch": 1588469528.0,
             "included_at_iso": "2020-05-03T01:32:08",
@@ -899,8 +906,8 @@
         "best-cdn.pl": {
             "included_at_epoch": 1588409965.0,
             "included_at_iso": "2020-05-02T08:59:25",
-            "last_retested_at_epoch": 1589326055.58521,
-            "last_retested_at_iso": "2020-05-12T23:27:35.585210",
+            "last_retested_at_epoch": 1589574666.493334,
+            "last_retested_at_iso": "2020-05-15T20:31:06.493334",
             "status": "INACTIVE"
         },
         "beta.coinblind.com": {
@@ -3363,8 +3370,8 @@
         "marcycoin.org": {
             "included_at_epoch": 1588409799.0,
             "included_at_iso": "2020-05-02T08:56:39",
-            "last_retested_at_epoch": 1589325612.088825,
-            "last_retested_at_iso": "2020-05-12T23:20:12.088825",
+            "last_retested_at_epoch": 1589574490.32376,
+            "last_retested_at_iso": "2020-05-15T20:28:10.323760",
             "status": "INACTIVE"
         },
         "mataharirama.xyz": {
@@ -4182,8 +4189,8 @@
         "ns1.mutuza.win": {
             "included_at_epoch": 1588465489.0,
             "included_at_iso": "2020-05-03T00:24:49",
-            "last_retested_at_epoch": 1589290165.799189,
-            "last_retested_at_iso": "2020-05-12T13:29:25.799189",
+            "last_retested_at_epoch": 1589574520.181311,
+            "last_retested_at_iso": "2020-05-15T20:28:40.181311",
             "status": "INACTIVE"
         },
         "ns2.freecontent.com": {
@@ -4315,8 +4322,8 @@
         "p1.interestingz.pw": {
             "included_at_epoch": 1588479596.0,
             "included_at_iso": "2020-05-03T04:19:56",
-            "last_retested_at_epoch": 1589311957.297141,
-            "last_retested_at_iso": "2020-05-12T19:32:37.297141",
+            "last_retested_at_epoch": 1589574412.312552,
+            "last_retested_at_iso": "2020-05-15T20:26:52.312552",
             "status": "INACTIVE"
         },
         "p2.assetscdn.stream": {
@@ -5341,6 +5348,13 @@
             "last_retested_at_iso": "2020-05-15T06:41:51.685673",
             "status": "INACTIVE"
         },
+        "s2.play.estream.nu": {
+            "included_at_epoch": 1589574462.10023,
+            "included_at_iso": "2020-05-15T20:27:42.100230",
+            "last_retested_at_epoch": 1589574462.10023,
+            "last_retested_at_iso": "2020-05-15T20:27:42.100230",
+            "status": "INACTIVE"
+        },
         "s2.play.tainiesonline.pw": {
             "included_at_epoch": 1588414054.0,
             "included_at_iso": "2020-05-02T10:07:34",
@@ -6226,8 +6240,8 @@
         "thelifeisbinary.ddns.net": {
             "included_at_epoch": 1588479536.0,
             "included_at_iso": "2020-05-03T04:18:56",
-            "last_retested_at_epoch": 1589277172.017498,
-            "last_retested_at_iso": "2020-05-12T09:52:52.017498",
+            "last_retested_at_epoch": 1589574669.359908,
+            "last_retested_at_iso": "2020-05-15T20:31:09.359908",
             "status": "INACTIVE"
         },
         "thepiratebay.bl": {
@@ -6443,8 +6457,8 @@
         "vcfs6ip5h6.bi": {
             "included_at_epoch": 1588396314.0,
             "included_at_iso": "2020-05-02T05:11:54",
-            "last_retested_at_epoch": 1589357693.958393,
-            "last_retested_at_iso": "2020-05-13T08:14:53.958393",
+            "last_retested_at_epoch": 1589574587.901937,
+            "last_retested_at_iso": "2020-05-15T20:29:47.901937",
             "status": "INACTIVE"
         },
         "verifier.li": {
@@ -7528,8 +7542,8 @@
         "ws1.1beb2a44.space": {
             "included_at_epoch": 1588427327.0,
             "included_at_iso": "2020-05-02T13:48:47",
-            "last_retested_at_epoch": 1589272324.450197,
-            "last_retested_at_iso": "2020-05-12T08:32:04.450197",
+            "last_retested_at_epoch": 1589574137.368289,
+            "last_retested_at_iso": "2020-05-15T20:22:17.368289",
             "status": "INACTIVE"
         },
         "ws1.300ca0d0.space": {
@@ -8974,6 +8988,13 @@
             "last_retested_at_iso": "2020-05-15T11:20:34.430394",
             "status": "INACTIVE"
         },
+        "www.bayhypertpb.be": {
+            "included_at_epoch": 1589574619.603786,
+            "included_at_iso": "2020-05-15T20:30:19.603786",
+            "last_retested_at_epoch": 1589574619.603786,
+            "last_retested_at_iso": "2020-05-15T20:30:19.603786",
+            "status": "INACTIVE"
+        },
         "www.baywttgdhe.do": {
             "included_at_epoch": 1588419049.0,
             "included_at_iso": "2020-05-02T11:30:49",
@@ -9026,8 +9047,8 @@
         "www.best-cdn.pl": {
             "included_at_epoch": 1588409967.0,
             "included_at_iso": "2020-05-02T08:59:27",
-            "last_retested_at_epoch": 1589326056.170843,
-            "last_retested_at_iso": "2020-05-12T23:27:36.170843",
+            "last_retested_at_epoch": 1589574667.600083,
+            "last_retested_at_iso": "2020-05-15T20:31:07.600083",
             "status": "INACTIVE"
         },
         "www.bestcoinsignals.com": {
@@ -9726,8 +9747,8 @@
         "www.d1e1rbybdt265x.cloudfront.net": {
             "included_at_epoch": 1588490782.0,
             "included_at_iso": "2020-05-03T07:26:22",
-            "last_retested_at_epoch": 1589361990.579783,
-            "last_retested_at_iso": "2020-05-13T09:26:30.579783",
+            "last_retested_at_epoch": 1589574598.220902,
+            "last_retested_at_iso": "2020-05-15T20:29:58.220902",
             "status": "INACTIVE"
         },
         "www.d3ahinqqx1dy5v.cloudfront.net": {
@@ -11420,8 +11441,8 @@
         "www.marcycoin.org": {
             "included_at_epoch": 1588400540.0,
             "included_at_iso": "2020-05-02T06:22:20",
-            "last_retested_at_epoch": 1589325612.159698,
-            "last_retested_at_iso": "2020-05-12T23:20:12.159698",
+            "last_retested_at_epoch": 1589574490.307987,
+            "last_retested_at_iso": "2020-05-15T20:28:10.307987",
             "status": "INACTIVE"
         },
         "www.mataharirama.xyz": {
@@ -11588,8 +11609,8 @@
         "www.miscws027.coinhive.com": {
             "included_at_epoch": 1588414185.0,
             "included_at_iso": "2020-05-02T10:09:45",
-            "last_retested_at_epoch": 1589281792.321352,
-            "last_retested_at_iso": "2020-05-12T11:09:52.321352",
+            "last_retested_at_epoch": 1589574134.68186,
+            "last_retested_at_iso": "2020-05-15T20:22:14.681860",
             "status": "INACTIVE"
         },
         "www.miscws029.coinhive.com": {
@@ -12610,8 +12631,8 @@
         "www.thelifeisbinary.ddns.net": {
             "included_at_epoch": 1588479536.0,
             "included_at_iso": "2020-05-03T04:18:56",
-            "last_retested_at_epoch": 1589277172.175896,
-            "last_retested_at_iso": "2020-05-12T09:52:52.175896",
+            "last_retested_at_epoch": 1589574669.29751,
+            "last_retested_at_iso": "2020-05-15T20:31:09.297510",
             "status": "INACTIVE"
         },
         "www.thepiratebay.bl": {
@@ -12778,8 +12799,8 @@
         "www.vcfs6ip5h6.bi": {
             "included_at_epoch": 1588396314.0,
             "included_at_iso": "2020-05-02T05:11:54",
-            "last_retested_at_epoch": 1589357693.95754,
-            "last_retested_at_iso": "2020-05-13T08:14:53.957540",
+            "last_retested_at_epoch": 1589574588.071607,
+            "last_retested_at_iso": "2020-05-15T20:29:48.071607",
             "status": "INACTIVE"
         },
         "www.verifier.li": {
