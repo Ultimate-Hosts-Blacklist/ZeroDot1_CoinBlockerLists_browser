@@ -5246,8 +5246,8 @@
         "s08.hostcontent.live": {
             "included_at_epoch": 1588456391.0,
             "included_at_iso": "2020-05-02T21:53:11",
-            "last_retested_at_epoch": 1589316850.205723,
-            "last_retested_at_iso": "2020-05-12T20:54:10.205723",
+            "last_retested_at_epoch": 1589596768.417863,
+            "last_retested_at_iso": "2020-05-16T02:39:28.417863",
             "status": "INACTIVE"
         },
         "s09.hostcontent.li": {
@@ -5610,8 +5610,8 @@
         "seed-13.nimiq.net": {
             "included_at_epoch": 1588461183.0,
             "included_at_iso": "2020-05-02T23:13:03",
-            "last_retested_at_epoch": 1589311889.937142,
-            "last_retested_at_iso": "2020-05-12T19:31:29.937142",
+            "last_retested_at_epoch": 1589597232.091902,
+            "last_retested_at_iso": "2020-05-16T02:47:12.091902",
             "status": "INACTIVE"
         },
         "seed-14.nimiq.net": {
@@ -7731,8 +7731,8 @@
         "ws2.370cabd5.space": {
             "included_at_epoch": 1588441054.0,
             "included_at_iso": "2020-05-02T17:37:34",
-            "last_retested_at_epoch": 1589302880.986258,
-            "last_retested_at_iso": "2020-05-12T17:01:20.986258",
+            "last_retested_at_epoch": 1589596695.892303,
+            "last_retested_at_iso": "2020-05-16T02:38:15.892303",
             "status": "INACTIVE"
         },
         "ws2.3c0cb3b4.space": {
