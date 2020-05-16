@@ -5477,8 +5477,8 @@
         "s3.video2.stream.vidzi.tv": {
             "included_at_epoch": 1588479769.0,
             "included_at_iso": "2020-05-03T04:22:49",
-            "last_retested_at_epoch": 1589259159.832832,
-            "last_retested_at_iso": "2020-05-12T04:52:39.832832",
+            "last_retested_at_epoch": 1589592506.966254,
+            "last_retested_at_iso": "2020-05-16T01:28:26.966254",
             "status": "INACTIVE"
         },
         "s3.vidtod.me": {
@@ -5822,6 +5822,13 @@
             "included_at_iso": "2020-05-02T23:04:13",
             "last_retested_at_epoch": 1589538239.061947,
             "last_retested_at_iso": "2020-05-15T10:23:59.061947",
+            "status": "INACTIVE"
+        },
+        "seed-fra-6.inf.nimiq.network": {
+            "included_at_epoch": 1589592447.901551,
+            "included_at_iso": "2020-05-16T01:27:27.901551",
+            "last_retested_at_epoch": 1589592447.901551,
+            "last_retested_at_iso": "2020-05-16T01:27:27.901551",
             "status": "INACTIVE"
         },
         "seed-gbr-1.inf.nimiq.net": {
