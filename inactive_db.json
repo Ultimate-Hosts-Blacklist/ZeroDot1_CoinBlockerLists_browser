@@ -871,8 +871,8 @@
         "bayhypertpb.be": {
             "included_at_epoch": 1589574619.498154,
             "included_at_iso": "2020-05-15T20:30:19.498154",
-            "last_retested_at_epoch": 1589574619.498154,
-            "last_retested_at_iso": "2020-05-15T20:30:19.498154",
+            "last_retested_at_epoch": 1589676845.981955,
+            "last_retested_at_iso": "2020-05-17T00:54:05.981955",
             "status": "INACTIVE"
         },
         "baywttgdhe.do": {
@@ -1368,8 +1368,8 @@
         "clickwith.bi": {
             "included_at_epoch": 1588461102.0,
             "included_at_iso": "2020-05-02T23:11:42",
-            "last_retested_at_epoch": 1589512034.182341,
-            "last_retested_at_iso": "2020-05-15T03:07:14.182341",
+            "last_retested_at_epoch": 1589676806.62866,
+            "last_retested_at_iso": "2020-05-17T00:53:26.628660",
             "status": "INACTIVE"
         },
         "clickwith.bid": {
@@ -1697,8 +1697,8 @@
         "datasecu.do": {
             "included_at_epoch": 1588483158.0,
             "included_at_iso": "2020-05-03T05:19:18",
-            "last_retested_at_epoch": 1589555434.240911,
-            "last_retested_at_iso": "2020-05-15T15:10:34.240911",
+            "last_retested_at_epoch": 1589677325.30494,
+            "last_retested_at_iso": "2020-05-17T01:02:05.304940",
             "status": "INACTIVE"
         },
         "dataservices.download": {
@@ -2418,8 +2418,8 @@
         "go.bestmobiworld.com": {
             "included_at_epoch": 1586856242.0,
             "included_at_iso": "2020-04-14T09:24:02",
-            "last_retested_at_epoch": 1589579232.913884,
-            "last_retested_at_iso": "2020-05-15T21:47:12.913884",
+            "last_retested_at_epoch": 1589676829.869656,
+            "last_retested_at_iso": "2020-05-17T00:53:49.869656",
             "status": "INACTIVE"
         },
         "go.megabanners.cf": {
@@ -4014,8 +4014,8 @@
         "my-retrospace.sbhmn-miner.com": {
             "included_at_epoch": 1588483468.0,
             "included_at_iso": "2020-05-03T05:24:28",
-            "last_retested_at_epoch": 1589579708.368102,
-            "last_retested_at_iso": "2020-05-15T21:55:08.368102",
+            "last_retested_at_epoch": 1589677020.911335,
+            "last_retested_at_iso": "2020-05-17T00:57:00.911335",
             "status": "INACTIVE"
         },
         "myadstats.com": {
@@ -5610,8 +5610,8 @@
         "seed-11.nimiq.net": {
             "included_at_epoch": 1588441454.0,
             "included_at_iso": "2020-05-02T17:44:14",
-            "last_retested_at_epoch": 1589555471.093158,
-            "last_retested_at_iso": "2020-05-15T15:11:11.093158",
+            "last_retested_at_epoch": 1589677248.559171,
+            "last_retested_at_iso": "2020-05-17T01:00:48.559171",
             "status": "INACTIVE"
         },
         "seed-12.nimiq.net": {
@@ -5883,8 +5883,8 @@
         "seed-pol-2.inf.nimiq.net": {
             "included_at_epoch": 1588456387.0,
             "included_at_iso": "2020-05-02T21:53:07",
-            "last_retested_at_epoch": 1589525135.2322,
-            "last_retested_at_iso": "2020-05-15T06:45:35.232200",
+            "last_retested_at_epoch": 1589677178.567872,
+            "last_retested_at_iso": "2020-05-17T00:59:38.567872",
             "status": "INACTIVE"
         },
         "seed-pol-3.inf.nimiq.net": {
@@ -5925,8 +5925,8 @@
         "seed3.nimiqtest.net": {
             "included_at_epoch": 1588456324.0,
             "included_at_iso": "2020-05-02T21:52:04",
-            "last_retested_at_epoch": 1589525227.022179,
-            "last_retested_at_iso": "2020-05-15T06:47:07.022179",
+            "last_retested_at_epoch": 1589676937.010304,
+            "last_retested_at_iso": "2020-05-17T00:55:37.010304",
             "status": "INACTIVE"
         },
         "seed4.nimiqtest.net": {
@@ -6338,8 +6338,8 @@
         "tpbpiratbay.cl": {
             "included_at_epoch": 1588469909.0,
             "included_at_iso": "2020-05-03T01:38:29",
-            "last_retested_at_epoch": 1589581744.302868,
-            "last_retested_at_iso": "2020-05-15T22:29:04.302868",
+            "last_retested_at_epoch": 1589676900.091828,
+            "last_retested_at_iso": "2020-05-17T00:55:00.091828",
             "status": "INACTIVE"
         },
         "traffic-gate-service.info": {
@@ -7591,8 +7591,8 @@
         "ws1.300ca0d0.space": {
             "included_at_epoch": 1588487201.0,
             "included_at_iso": "2020-05-03T06:26:41",
-            "last_retested_at_epoch": 1589582159.812214,
-            "last_retested_at_iso": "2020-05-15T22:35:59.812214",
+            "last_retested_at_epoch": 1589677056.851421,
+            "last_retested_at_iso": "2020-05-17T00:57:36.851421",
             "status": "INACTIVE"
         },
         "ws1.320ca3f6.space": {
@@ -9033,8 +9033,8 @@
         "www.bayhypertpb.be": {
             "included_at_epoch": 1589574619.603786,
             "included_at_iso": "2020-05-15T20:30:19.603786",
-            "last_retested_at_epoch": 1589574619.603786,
-            "last_retested_at_iso": "2020-05-15T20:30:19.603786",
+            "last_retested_at_epoch": 1589676845.948513,
+            "last_retested_at_iso": "2020-05-17T00:54:05.948513",
             "status": "INACTIVE"
         },
         "www.baywttgdhe.do": {
@@ -9481,8 +9481,8 @@
         "www.clickwith.bi": {
             "included_at_epoch": 1588461102.0,
             "included_at_iso": "2020-05-02T23:11:42",
-            "last_retested_at_epoch": 1589512035.057152,
-            "last_retested_at_iso": "2020-05-15T03:07:15.057152",
+            "last_retested_at_epoch": 1589676806.373218,
+            "last_retested_at_iso": "2020-05-17T00:53:26.373218",
             "status": "INACTIVE"
         },
         "www.clickwith.bid": {
@@ -9789,8 +9789,8 @@
         "www.d1e1rbybdt265x.cloudfront.net": {
             "included_at_epoch": 1588490782.0,
             "included_at_iso": "2020-05-03T07:26:22",
-            "last_retested_at_epoch": 1589574598.220902,
-            "last_retested_at_iso": "2020-05-15T20:29:58.220902",
+            "last_retested_at_epoch": 1589677240.362345,
+            "last_retested_at_iso": "2020-05-17T01:00:40.362345",
             "status": "INACTIVE"
         },
         "www.d3ahinqqx1dy5v.cloudfront.net": {
@@ -9831,8 +9831,8 @@
         "www.datasecu.do": {
             "included_at_epoch": 1588483158.0,
             "included_at_iso": "2020-05-03T05:19:18",
-            "last_retested_at_epoch": 1589555434.335343,
-            "last_retested_at_iso": "2020-05-15T15:10:34.335343",
+            "last_retested_at_epoch": 1589677325.386593,
+            "last_retested_at_iso": "2020-05-17T01:02:05.386593",
             "status": "INACTIVE"
         },
         "www.datasecu.download": {
@@ -10489,8 +10489,8 @@
         "www.g-content.bid": {
             "included_at_epoch": 1588441441.0,
             "included_at_iso": "2020-05-02T17:44:01",
-            "last_retested_at_epoch": 1589579236.575879,
-            "last_retested_at_iso": "2020-05-15T21:47:16.575879",
+            "last_retested_at_epoch": 1589676872.188924,
+            "last_retested_at_iso": "2020-05-17T00:54:32.188924",
             "status": "INACTIVE"
         },
         "www.gazanew.com": {
@@ -11812,8 +11812,8 @@
         "www.nametraff.com": {
             "included_at_epoch": 1588396141.0,
             "included_at_iso": "2020-05-02T05:09:01",
-            "last_retested_at_epoch": 1589538317.913226,
-            "last_retested_at_iso": "2020-05-15T10:25:17.913226",
+            "last_retested_at_epoch": 1589677210.9343,
+            "last_retested_at_iso": "2020-05-17T01:00:10.934300",
             "status": "INACTIVE"
         },
         "www.nathetsof.com": {
@@ -11952,8 +11952,8 @@
         "www.old.browsermine.com": {
             "included_at_epoch": 1588483408.0,
             "included_at_iso": "2020-05-03T05:23:28",
-            "last_retested_at_epoch": 1589582134.682718,
-            "last_retested_at_iso": "2020-05-15T22:35:34.682718",
+            "last_retested_at_epoch": 1589677178.735274,
+            "last_retested_at_iso": "2020-05-17T00:59:38.735274",
             "status": "INACTIVE"
         },
         "www.olecintri.com": {
@@ -12729,8 +12729,8 @@
         "www.tpbpiratbay.cl": {
             "included_at_epoch": 1588469909.0,
             "included_at_iso": "2020-05-03T01:38:29",
-            "last_retested_at_epoch": 1589581744.034717,
-            "last_retested_at_iso": "2020-05-15T22:29:04.034717",
+            "last_retested_at_epoch": 1589676899.740358,
+            "last_retested_at_iso": "2020-05-17T00:54:59.740358",
             "status": "INACTIVE"
         },
         "www.traffic-gate-service.info": {
