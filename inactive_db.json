@@ -1326,8 +1326,8 @@
         "chainblock.sc": {
             "included_at_epoch": 1588423110.0,
             "included_at_iso": "2020-05-02T12:38:30",
-            "last_retested_at_epoch": 1590129009.255363,
-            "last_retested_at_iso": "2020-05-22T06:30:09.255363",
+            "last_retested_at_epoch": 1590364393.673846,
+            "last_retested_at_iso": "2020-05-24T23:53:13.673846",
             "status": "INACTIVE"
         },
         "chainblock.science": {
@@ -5862,8 +5862,8 @@
         "seed-fra-4.inf.nimiq.network": {
             "included_at_epoch": 1589579237.673983,
             "included_at_iso": "2020-05-15T21:47:17.673983",
-            "last_retested_at_epoch": 1590079741.959736,
-            "last_retested_at_iso": "2020-05-21T16:49:01.959736",
+            "last_retested_at_epoch": 1590364235.539958,
+            "last_retested_at_iso": "2020-05-24T23:50:35.539958",
             "status": "INACTIVE"
         },
         "seed-fra-5.inf.nimiq.net": {
@@ -8046,8 +8046,8 @@
         "ws4.300ca0d0.space": {
             "included_at_epoch": 1588427835.0,
             "included_at_iso": "2020-05-02T13:57:15",
-            "last_retested_at_epoch": 1590119960.836286,
-            "last_retested_at_iso": "2020-05-22T03:59:20.836286",
+            "last_retested_at_epoch": 1590364287.371432,
+            "last_retested_at_iso": "2020-05-24T23:51:27.371432",
             "status": "INACTIVE"
         },
         "ws4.310ca263.space": {
@@ -8102,8 +8102,8 @@
         "ws4.3d0cb547.space": {
             "included_at_epoch": 1588474936.0,
             "included_at_iso": "2020-05-03T03:02:16",
-            "last_retested_at_epoch": 1590153426.551438,
-            "last_retested_at_iso": "2020-05-22T13:17:06.551438",
+            "last_retested_at_epoch": 1590363992.113903,
+            "last_retested_at_iso": "2020-05-24T23:46:32.113903",
             "status": "INACTIVE"
         },
         "ws4.bmnr.pw": {
@@ -8158,8 +8158,8 @@
         "ws5.310ca263.space": {
             "included_at_epoch": 1588486932.0,
             "included_at_iso": "2020-05-03T06:22:12",
-            "last_retested_at_epoch": 1590079826.19228,
-            "last_retested_at_iso": "2020-05-21T16:50:26.192280",
+            "last_retested_at_epoch": 1590364439.618826,
+            "last_retested_at_iso": "2020-05-24T23:53:59.618826",
             "status": "INACTIVE"
         },
         "ws5.320ca3f6.space": {
@@ -8501,8 +8501,8 @@
         "ws9.3d0cb547.space": {
             "included_at_epoch": 1588431951.0,
             "included_at_iso": "2020-05-02T15:05:51",
-            "last_retested_at_epoch": 1590051330.219726,
-            "last_retested_at_iso": "2020-05-21T08:55:30.219726",
+            "last_retested_at_epoch": 1590364432.798709,
+            "last_retested_at_iso": "2020-05-24T23:53:52.798709",
             "status": "INACTIVE"
         },
         "ws9.coin-have.com": {
@@ -8592,8 +8592,8 @@
         "www.2giga.download": {
             "included_at_epoch": 1588319463.0,
             "included_at_iso": "2020-05-01T07:51:03",
-            "last_retested_at_epoch": 1588319463.0,
-            "last_retested_at_iso": "2020-05-01T07:51:03",
+            "last_retested_at_epoch": 1590364205.802034,
+            "last_retested_at_iso": "2020-05-24T23:50:05.802034",
             "status": "INACTIVE"
         },
         "www.2giga.link": {
@@ -9614,8 +9614,8 @@
         "www.chainblock.sc": {
             "included_at_epoch": 1588441566.0,
             "included_at_iso": "2020-05-02T17:46:06",
-            "last_retested_at_epoch": 1590129009.271612,
-            "last_retested_at_iso": "2020-05-22T06:30:09.271612",
+            "last_retested_at_epoch": 1590364393.608724,
+            "last_retested_at_iso": "2020-05-24T23:53:13.608724",
             "status": "INACTIVE"
         },
         "www.chainblock.science": {
