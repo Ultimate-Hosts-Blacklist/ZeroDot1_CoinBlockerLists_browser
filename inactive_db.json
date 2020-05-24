@@ -850,8 +850,8 @@
         "back4.2giga.link": {
             "included_at_epoch": 1588479632.0,
             "included_at_iso": "2020-05-03T04:20:32",
-            "last_retested_at_epoch": 1590094655.616235,
-            "last_retested_at_iso": "2020-05-21T20:57:35.616235",
+            "last_retested_at_epoch": 1590350242.544863,
+            "last_retested_at_iso": "2020-05-24T19:57:22.544863",
             "status": "INACTIVE"
         },
         "backend.freecontent.win": {
@@ -1830,8 +1830,8 @@
         "donate.cpufan.club": {
             "included_at_epoch": 1588383051.0,
             "included_at_iso": "2020-05-02T01:30:51",
-            "last_retested_at_epoch": 1590069992.316873,
-            "last_retested_at_iso": "2020-05-21T14:06:32.316873",
+            "last_retested_at_epoch": 1590350357.579583,
+            "last_retested_at_iso": "2020-05-24T19:59:17.579583",
             "status": "INACTIVE"
         },
         "doubleclick1.xyz": {
@@ -2376,8 +2376,8 @@
         "g-content.bi": {
             "included_at_epoch": 1588441361.0,
             "included_at_iso": "2020-05-02T17:42:41",
-            "last_retested_at_epoch": 1590163297.20484,
-            "last_retested_at_iso": "2020-05-22T16:01:37.204840",
+            "last_retested_at_epoch": 1590350197.863154,
+            "last_retested_at_iso": "2020-05-24T19:56:37.863154",
             "status": "INACTIVE"
         },
         "ganymed.beeppool.org": {
@@ -3993,8 +3993,8 @@
         "monerominer.ro": {
             "included_at_epoch": 1588441023.0,
             "included_at_iso": "2020-05-02T17:37:03",
-            "last_retested_at_epoch": 1590085097.666925,
-            "last_retested_at_iso": "2020-05-21T18:18:17.666925",
+            "last_retested_at_epoch": 1590350477.250013,
+            "last_retested_at_iso": "2020-05-24T20:01:17.250013",
             "status": "INACTIVE"
         },
         "money-maker-default.info": {
@@ -5645,8 +5645,8 @@
         "seed-1.nimiq.net": {
             "included_at_epoch": 1588414053.0,
             "included_at_iso": "2020-05-02T10:07:33",
-            "last_retested_at_epoch": 1590138610.396415,
-            "last_retested_at_iso": "2020-05-22T09:10:10.396415",
+            "last_retested_at_epoch": 1590350016.991284,
+            "last_retested_at_iso": "2020-05-24T19:53:36.991284",
             "status": "INACTIVE"
         },
         "seed-10.nimiq.net": {
@@ -7976,15 +7976,15 @@
         "ws3.340ca71c.space": {
             "included_at_epoch": 1588465404.0,
             "included_at_iso": "2020-05-03T00:23:24",
-            "last_retested_at_epoch": 1590094646.769395,
-            "last_retested_at_iso": "2020-05-21T20:57:26.769395",
+            "last_retested_at_epoch": 1590350006.267212,
+            "last_retested_at_iso": "2020-05-24T19:53:26.267212",
             "status": "INACTIVE"
         },
         "ws3.360caa42.space": {
             "included_at_epoch": 1588409746.0,
             "included_at_iso": "2020-05-02T08:55:46",
-            "last_retested_at_epoch": 1590074757.872794,
-            "last_retested_at_iso": "2020-05-21T15:25:57.872794",
+            "last_retested_at_epoch": 1590350250.963013,
+            "last_retested_at_iso": "2020-05-24T19:57:30.963013",
             "status": "INACTIVE"
         },
         "ws3.370cabd5.space": {
@@ -10664,8 +10664,8 @@
         "www.g-content.bi": {
             "included_at_epoch": 1588441362.0,
             "included_at_iso": "2020-05-02T17:42:42",
-            "last_retested_at_epoch": 1590163297.297213,
-            "last_retested_at_iso": "2020-05-22T16:01:37.297213",
+            "last_retested_at_epoch": 1590350196.781793,
+            "last_retested_at_iso": "2020-05-24T19:56:36.781793",
             "status": "INACTIVE"
         },
         "www.g-content.bid": {
@@ -11903,15 +11903,15 @@
         "www.monero.crypto-pool.fr": {
             "included_at_epoch": 1588414137.0,
             "included_at_iso": "2020-05-02T10:08:57",
-            "last_retested_at_epoch": 1590099541.205884,
-            "last_retested_at_iso": "2020-05-21T22:19:01.205884",
+            "last_retested_at_epoch": 1590350245.300062,
+            "last_retested_at_iso": "2020-05-24T19:57:25.300062",
             "status": "INACTIVE"
         },
         "www.monerominer.ro": {
             "included_at_epoch": 1588441023.0,
             "included_at_iso": "2020-05-02T17:37:03",
-            "last_retested_at_epoch": 1590085097.984522,
-            "last_retested_at_iso": "2020-05-21T18:18:17.984522",
+            "last_retested_at_epoch": 1590350478.152449,
+            "last_retested_at_iso": "2020-05-24T20:01:18.152449",
             "status": "INACTIVE"
         },
         "www.money-maker-default.info": {
@@ -13408,8 +13408,8 @@
         "www.ws008.www.jqwww.download": {
             "included_at_epoch": 1589100753.51352,
             "included_at_iso": "2020-05-10T08:52:33.513520",
-            "last_retested_at_epoch": 1590074742.533575,
-            "last_retested_at_iso": "2020-05-21T15:25:42.533575",
+            "last_retested_at_epoch": 1590350272.664638,
+            "last_retested_at_iso": "2020-05-24T19:57:52.664638",
             "status": "INACTIVE"
         },
         "www.ws009.www.jqwww.download": {
