@@ -129,8 +129,8 @@
         "3c0cb3b4.space": {
             "included_at_epoch": 1588474673.0,
             "included_at_iso": "2020-05-03T02:57:53",
-            "last_retested_at_epoch": 1590070240.474579,
-            "last_retested_at_iso": "2020-05-21T14:10:40.474579",
+            "last_retested_at_epoch": 1590368958.415241,
+            "last_retested_at_iso": "2020-05-25T01:09:18.415241",
             "status": "INACTIVE"
         },
         "3d0cb547.space": {
@@ -1263,8 +1263,8 @@
         "cfcd.duckdns.org": {
             "included_at_epoch": 1586781376.0,
             "included_at_iso": "2020-04-13T12:36:16",
-            "last_retested_at_epoch": 1589738452.924379,
-            "last_retested_at_iso": "2020-05-17T18:00:52.924379",
+            "last_retested_at_epoch": 1590369113.458099,
+            "last_retested_at_iso": "2020-05-25T01:11:53.458099",
             "status": "INACTIVE"
         },
         "cfcdist.gd": {
@@ -5509,6 +5509,13 @@
             "last_retested_at_iso": "2020-05-24T10:23:25.344889",
             "status": "INACTIVE"
         },
+        "s3.play.estream.xyz": {
+            "included_at_epoch": 1590368789.221994,
+            "included_at_iso": "2020-05-25T01:06:29.221994",
+            "last_retested_at_epoch": 1590368789.221994,
+            "last_retested_at_iso": "2020-05-25T01:06:29.221994",
+            "status": "INACTIVE"
+        },
         "s3.play.tainiesonline.pw": {
             "included_at_epoch": 1588441112.0,
             "included_at_iso": "2020-05-02T17:38:32",
@@ -8494,8 +8501,8 @@
         "ws9.3c0cb3b4.space": {
             "included_at_epoch": 1588432232.0,
             "included_at_iso": "2020-05-02T15:10:32",
-            "last_retested_at_epoch": 1590133761.55886,
-            "last_retested_at_iso": "2020-05-22T07:49:21.558860",
+            "last_retested_at_epoch": 1590369171.342743,
+            "last_retested_at_iso": "2020-05-25T01:12:51.342743",
             "status": "INACTIVE"
         },
         "ws9.3d0cb547.space": {
@@ -8662,8 +8669,8 @@
         "www.3c0cb3b4.space": {
             "included_at_epoch": 1588490631.0,
             "included_at_iso": "2020-05-03T07:23:51",
-            "last_retested_at_epoch": 1590070235.565779,
-            "last_retested_at_iso": "2020-05-21T14:10:35.565779",
+            "last_retested_at_epoch": 1590368958.093608,
+            "last_retested_at_iso": "2020-05-25T01:09:18.093608",
             "status": "INACTIVE"
         },
         "www.3d0cb547.space": {
@@ -9551,8 +9558,8 @@
         "www.cfcd.duckdns.org": {
             "included_at_epoch": 1586748494.0,
             "included_at_iso": "2020-04-13T03:28:14",
-            "last_retested_at_epoch": 1589738466.111359,
-            "last_retested_at_iso": "2020-05-17T18:01:06.111359",
+            "last_retested_at_epoch": 1590369120.9954,
+            "last_retested_at_iso": "2020-05-25T01:12:00.995400",
             "status": "INACTIVE"
         },
         "www.cfcdist.gd": {
