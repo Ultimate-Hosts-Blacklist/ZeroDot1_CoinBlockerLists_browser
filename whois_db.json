@@ -244,6 +244,11 @@
         "expiration_date": "06-mar-2021",
         "state": "future"
     },
+    "beeppool.org": {
+        "epoch": 1594252800.0,
+        "expiration_date": "09-jul-2020",
+        "state": "future"
+    },
     "befirstcdn.com": {
         "epoch": 1634688000.0,
         "expiration_date": "20-oct-2021",
@@ -1887,6 +1892,11 @@
     "safelinkconverter.com": {
         "epoch": 1592352000.0,
         "expiration_date": "17-jun-2020",
+        "state": "future"
+    },
+    "scalaproject.io": {
+        "epoch": 1595548800.0,
+        "expiration_date": "24-jul-2020",
         "state": "future"
     },
     "scaleway.ovh": {
