@@ -1604,6 +1604,11 @@
         "expiration_date": "06-feb-2021",
         "state": "future"
     },
+    "nimiq.agency": {
+        "epoch": 1599177600.0,
+        "expiration_date": "04-sep-2020",
+        "state": "future"
+    },
     "nimiq.com": {
         "epoch": 1672531200.0,
         "expiration_date": "01-jan-2023",
@@ -1982,6 +1987,11 @@
     "srcip.com": {
         "epoch": 1597968000.0,
         "expiration_date": "21-aug-2020",
+        "state": "future"
+    },
+    "srcips.com": {
+        "epoch": 1602374400.0,
+        "expiration_date": "11-oct-2020",
         "state": "future"
     },
     "srcu.com": {
