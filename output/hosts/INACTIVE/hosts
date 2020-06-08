@@ -270,6 +270,9 @@
 0.0.0.0 foxton.nimiqpool.com
 0.0.0.0 frankfurt01.monero.hashvault.pro
 0.0.0.0 fra-rbx-c1-s1.inf.nimiq.network
+0.0.0.0 fra-rbx-c1-s2.inf.nimiq.network
+0.0.0.0 fra-rbx-c2-s1.inf.nimiq.network
+0.0.0.0 fra-rbx-c2-s2.inf.nimiq.network
 0.0.0.0 freecontent.bi
 0.0.0.0 freecontent.do
 0.0.0.0 freecontent.download
@@ -490,6 +493,7 @@
 0.0.0.0 miner-deu-6.inf.nimiq.net
 0.0.0.0 miner-deu-7.inf.nimiq.net
 0.0.0.0 miner-deu-8.inf.nimiq.net
+0.0.0.0 miner.nimiq.network
 0.0.0.0 miner.oozing.co
 0.0.0.0 miner.pr0gramm.com
 0.0.0.0 minexmr.st
@@ -687,6 +691,7 @@
 0.0.0.0 rock.cryptoloot.pro
 0.0.0.0 rock.webmine.pro
 0.0.0.0 rottenwhorememe.cf
+0.0.0.0 ru.nimiq.com
 0.0.0.0 ruvuryua.ru
 0.0.0.0 s003.papoto.com
 0.0.0.0 s01.hostcontent.li
@@ -747,6 +752,7 @@
 0.0.0.0 sass.cryptoloot.pro
 0.0.0.0 sass.webmine.pro
 0.0.0.0 sbhmn-miner.com
+0.0.0.0 scm.nimiq.com
 0.0.0.0 sea.cryptaloot.pro
 0.0.0.0 sea.cryptoloot.pro
 0.0.0.0 seasonaloffers.club
@@ -764,6 +770,7 @@
 0.0.0.0 seed-18.nimiq.net
 0.0.0.0 seed-19.nimiq.net
 0.0.0.0 seed-1.nimiq.net
+0.0.0.0 seed1.nimiq-network.com
 0.0.0.0 seed1.nimiqtest.net
 0.0.0.0 seed1.sushipool.com
 0.0.0.0 seed-20.nimiq.net
@@ -833,10 +840,12 @@
 0.0.0.0 statistic.date
 0.0.0.0 stat.miraben.pw
 0.0.0.0 stats.infogenservice.com
+0.0.0.0 stats.nimiq.network
 0.0.0.0 st.kjli.fi
 0.0.0.0 stone.cryptaloot.pro
 0.0.0.0 stone.cryptoloot.pro
 0.0.0.0 stone.webmine.pro
+0.0.0.0 subdomain001.smectapop12.pl
 0.0.0.0 subloader.cf
 0.0.0.0 sumo.cpufan.club
 0.0.0.0 sumo.cryptonoter.com
@@ -914,6 +923,7 @@
 0.0.0.0 webassembly.st
 0.0.0.0 web.clod.pw
 0.0.0.0 webdisk.monerominer.rocks
+0.0.0.0 webdisk.nimiq.com
 0.0.0.0 web.dle-news.pw
 0.0.0.0 webmail.nimiq.com
 0.0.0.0 web-master.sbhmn-miner.com
@@ -1292,6 +1302,7 @@
 0.0.0.0 www.buyandfun.review
 0.0.0.0 www.c0i8h8ac7e.bid
 0.0.0.0 www.can-bhs-c1-p1.inf.nimiq.network
+0.0.0.0 www.can-bhs-c1-s1.inf.nimiq.network
 0.0.0.0 www.can-bhs-c1-s2.inf.nimiq.network
 0.0.0.0 www.carrel.services
 0.0.0.0 www.carry.myeffect.net
@@ -1368,6 +1379,7 @@
 0.0.0.0 www.dataservices.download
 0.0.0.0 www.de-mi-nis-ner.info
 0.0.0.0 www.depttake.ga
+0.0.0.0 www.deu-lim-c1-s1.inf.nimiq.network
 0.0.0.0 www.deu-lim-c2-s1.inf.nimiq.network
 0.0.0.0 www.deu-lim-c2-s2.inf.nimiq.network
 0.0.0.0 www.dev.ratingtoplist.com
@@ -1431,6 +1443,9 @@
 0.0.0.0 www.fra-gra-c1-s1.inf.nimiq.network
 0.0.0.0 www.fra-gra-c1-s2.inf.nimiq.network
 0.0.0.0 www.fra-rbx-c1-s1.inf.nimiq.network
+0.0.0.0 www.fra-rbx-c1-s2.inf.nimiq.network
+0.0.0.0 www.fra-rbx-c2-s1.inf.nimiq.network
+0.0.0.0 www.fra-rbx-c2-s2.inf.nimiq.network
 0.0.0.0 www.freecontent.bi
 0.0.0.0 www.freecontent.com
 0.0.0.0 www.freecontent.do
@@ -1456,6 +1471,7 @@
 0.0.0.0 www.ftzivuesohvebj.ru
 0.0.0.0 www.gasolina.ml
 0.0.0.0 www.gazanew.com
+0.0.0.0 www.gbr-eri-c1-s1.inf.nimiq.network
 0.0.0.0 www.gbr-eri-c1-s2.inf.nimiq.network
 0.0.0.0 www.gbr-eri-c2-s1.inf.nimiq.network
 0.0.0.0 www.gbr-eri-c2-s2.inf.nimiq.network
@@ -1574,6 +1590,7 @@
 0.0.0.0 www.jwwhsqz.ru
 0.0.0.0 www.kdmkauchahynhrs.ru
 0.0.0.0 www.kedtise.com
+0.0.0.0 www.keyguard.nimiq.com
 0.0.0.0 www.kho3au7l4z.me
 0.0.0.0 www.kippbeak.cf
 0.0.0.0 www.kissdoujin.com
@@ -1608,6 +1625,7 @@
 0.0.0.0 www.mighbest.si
 0.0.0.0 www.mighbest.site
 0.0.0.0 www.minercry.pt
+0.0.0.0 www.miner.nimiq.com
 0.0.0.0 www.minexmr.st
 0.0.0.0 www.minexmr.stream
 0.0.0.0 www.mining.best
@@ -1645,6 +1663,7 @@
 0.0.0.0 www.nametraff.com
 0.0.0.0 www.nddmcconmqsy.ru
 0.0.0.0 www.nebabrop.com
+0.0.0.0 www.network-next.nimiq.com
 0.0.0.0 www.new.browsermine.com
 0.0.0.0 www.nexttime.ovh
 0.0.0.0 www.nimiq.agency
@@ -1686,6 +1705,7 @@
 0.0.0.0 www.play.intellecthosting.net
 0.0.0.0 www.plexcoin.info
 0.0.0.0 www.podrltid.info
+0.0.0.0 www.pol-waw-c1-s1.inf.nimiq.network
 0.0.0.0 www.pol-waw-c1-s2.inf.nimiq.network
 0.0.0.0 www.pol-waw-c2-s1.inf.nimiq.network
 0.0.0.0 www.pol-waw-c2-s2.inf.nimiq.network
@@ -1729,6 +1749,7 @@
 0.0.0.0 www.seed-16.nimiq.com
 0.0.0.0 www.seed-19.nimiq.com
 0.0.0.0 www.seed-3.nimiq.com
+0.0.0.0 www.seed-5.nimiq-network.com
 0.0.0.0 www.seed-6.nimiq-network.com
 0.0.0.0 www.seed-9.nimiq.network
 0.0.0.0 www.sentemanactri.com
