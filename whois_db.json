@@ -1604,6 +1604,16 @@
         "expiration_date": "06-feb-2021",
         "state": "future"
     },
+    "nimiq.com": {
+        "epoch": 1672531200.0,
+        "expiration_date": "01-jan-2023",
+        "state": "future"
+    },
+    "nimiq.network": {
+        "epoch": 1622160000.0,
+        "expiration_date": "28-may-2021",
+        "state": "future"
+    },
     "nimiq.watch": {
         "epoch": 1624147200.0,
         "expiration_date": "20-jun-2021",
