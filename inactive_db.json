@@ -1403,8 +1403,8 @@
         "clickwith.date": {
             "included_at_epoch": 1588441372.0,
             "included_at_iso": "2020-05-02T17:42:52",
-            "last_retested_at_epoch": 1592381969.000659,
-            "last_retested_at_iso": "2020-06-17T08:19:29.000659",
+            "last_retested_at_epoch": 1592535085.865595,
+            "last_retested_at_iso": "2020-06-19T02:51:25.865595",
             "status": "INACTIVE"
         },
         "cliggi.download": {
@@ -5813,8 +5813,8 @@
         "salamaleyum.com": {
             "included_at_epoch": 1588414499.0,
             "included_at_iso": "2020-05-02T10:14:59",
-            "last_retested_at_epoch": 1592410757.753263,
-            "last_retested_at_iso": "2020-06-17T16:19:17.753263",
+            "last_retested_at_epoch": 1592534497.101022,
+            "last_retested_at_iso": "2020-06-19T02:41:37.101022",
             "status": "INACTIVE"
         },
         "sass.cryptaloot.pro": {
@@ -5911,8 +5911,8 @@
         "seed-11.nimiq.net": {
             "included_at_epoch": 1588441454.0,
             "included_at_iso": "2020-05-02T17:44:14",
-            "last_retested_at_epoch": 1592405260.715648,
-            "last_retested_at_iso": "2020-06-17T14:47:40.715648",
+            "last_retested_at_epoch": 1592535134.854395,
+            "last_retested_at_iso": "2020-06-19T02:52:14.854395",
             "status": "INACTIVE"
         },
         "seed-12.nimiq.net": {
@@ -6135,8 +6135,8 @@
         "seed-fra-6.inf.nimiq.net": {
             "included_at_epoch": 1588460653.0,
             "included_at_iso": "2020-05-02T23:04:13",
-            "last_retested_at_epoch": 1592416980.788752,
-            "last_retested_at_iso": "2020-06-17T18:03:00.788752",
+            "last_retested_at_epoch": 1592534491.070356,
+            "last_retested_at_iso": "2020-06-19T02:41:31.070356",
             "status": "INACTIVE"
         },
         "seed-fra-6.inf.nimiq.network": {
@@ -6534,8 +6534,8 @@
         "subloader.cf": {
             "included_at_epoch": 1588405088.0,
             "included_at_iso": "2020-05-02T07:38:08",
-            "last_retested_at_epoch": 1592423103.525183,
-            "last_retested_at_iso": "2020-06-17T19:45:03.525183",
+            "last_retested_at_epoch": 1592534494.970895,
+            "last_retested_at_iso": "2020-06-19T02:41:34.970895",
             "status": "INACTIVE"
         },
         "sumo.cpufan.club": {
@@ -7864,8 +7864,8 @@
         "ws021.coinhive.com": {
             "included_at_epoch": 1588405158.0,
             "included_at_iso": "2020-05-02T07:39:18",
-            "last_retested_at_epoch": 1592398957.342115,
-            "last_retested_at_iso": "2020-06-17T13:02:37.342115",
+            "last_retested_at_epoch": 1592534694.445507,
+            "last_retested_at_iso": "2020-06-19T02:44:54.445507",
             "status": "INACTIVE"
         },
         "ws021.www.jqwww.download": {
@@ -8382,8 +8382,8 @@
         "ws3.3d0cb547.space": {
             "included_at_epoch": 1588461158.0,
             "included_at_iso": "2020-05-02T23:12:38",
-            "last_retested_at_epoch": 1592404657.148621,
-            "last_retested_at_iso": "2020-06-17T14:37:37.148621",
+            "last_retested_at_epoch": 1592535044.852169,
+            "last_retested_at_iso": "2020-06-19T02:50:44.852169",
             "status": "INACTIVE"
         },
         "ws3.bmnr.pw": {
@@ -8676,8 +8676,8 @@
         "ws6.coin-have.com": {
             "included_at_epoch": 1588436914.0,
             "included_at_iso": "2020-05-02T16:28:34",
-            "last_retested_at_epoch": 1592370709.635974,
-            "last_retested_at_iso": "2020-06-17T05:11:49.635974",
+            "last_retested_at_epoch": 1592534963.743997,
+            "last_retested_at_iso": "2020-06-19T02:49:23.743997",
             "status": "INACTIVE"
         },
         "ws7.1beb2a44.space": {
@@ -9922,8 +9922,8 @@
         "www.cdjs.online": {
             "included_at_epoch": 1588414109.0,
             "included_at_iso": "2020-05-02T10:08:29",
-            "last_retested_at_epoch": 1592435516.238673,
-            "last_retested_at_iso": "2020-06-17T23:11:56.238673",
+            "last_retested_at_epoch": 1592534641.6406,
+            "last_retested_at_iso": "2020-06-19T02:44:01.640600",
             "status": "INACTIVE"
         },
         "www.cdn-analytics.pl": {
@@ -10097,8 +10097,8 @@
         "www.clickwith.date": {
             "included_at_epoch": 1588422790.0,
             "included_at_iso": "2020-05-02T12:33:10",
-            "last_retested_at_epoch": 1592381968.998336,
-            "last_retested_at_iso": "2020-06-17T08:19:28.998336",
+            "last_retested_at_epoch": 1592535085.806009,
+            "last_retested_at_iso": "2020-06-19T02:51:25.806009",
             "status": "INACTIVE"
         },
         "www.cliggi.download": {
@@ -12673,8 +12673,8 @@
         "www.nimiq.agency": {
             "included_at_epoch": 1591627223.89243,
             "included_at_iso": "2020-06-08T14:40:23.892430",
-            "last_retested_at_epoch": 1592442754.245051,
-            "last_retested_at_iso": "2020-06-18T01:12:34.245051",
+            "last_retested_at_epoch": 1592534588.060174,
+            "last_retested_at_iso": "2020-06-19T02:43:08.060174",
             "status": "INACTIVE"
         },
         "www.nimiq.network": {
@@ -13261,8 +13261,8 @@
         "www.salamaleyum.com": {
             "included_at_epoch": 1588456063.0,
             "included_at_iso": "2020-05-02T21:47:43",
-            "last_retested_at_epoch": 1592410757.680034,
-            "last_retested_at_iso": "2020-06-17T16:19:17.680034",
+            "last_retested_at_epoch": 1592534497.114603,
+            "last_retested_at_iso": "2020-06-19T02:41:37.114603",
             "status": "INACTIVE"
         },
         "www.sbhmn-miner.com": {
@@ -13611,8 +13611,8 @@
         "www.subloader.cf": {
             "included_at_epoch": 1588441524.0,
             "included_at_iso": "2020-05-02T17:45:24",
-            "last_retested_at_epoch": 1592423103.747269,
-            "last_retested_at_iso": "2020-06-17T19:45:03.747269",
+            "last_retested_at_epoch": 1592534494.777001,
+            "last_retested_at_iso": "2020-06-19T02:41:34.777001",
             "status": "INACTIVE"
         },
         "www.sunnimiq.cf": {
@@ -14458,8 +14458,8 @@
         "www.ws08.crypto.csgocpu.com": {
             "included_at_epoch": 1589872601.621004,
             "included_at_iso": "2020-05-19T07:16:41.621004",
-            "last_retested_at_epoch": 1592375852.886857,
-            "last_retested_at_iso": "2020-06-17T06:37:32.886857",
+            "last_retested_at_epoch": 1592535038.4686,
+            "last_retested_at_iso": "2020-06-19T02:50:38.468600",
             "status": "INACTIVE"
         },
         "www.ws09.coinhive.com": {
