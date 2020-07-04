@@ -389,6 +389,11 @@
         "expiration_date": "08-jun-2021",
         "state": "future"
     },
+    "cdnfile.xyz": {
+        "epoch": 1625356800.0,
+        "expiration_date": "04-jul-2021",
+        "state": "future"
+    },
     "cfcdist.gdn": {
         "epoch": 1585699200.0,
         "expiration_date": "01-apr-2020",
