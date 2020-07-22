@@ -6373,8 +6373,8 @@
         "seed3.nimiqtest.net": {
             "included_at_epoch": 1588456324.0,
             "included_at_iso": "2020-05-02T21:52:04",
-            "last_retested_at_epoch": 1595137514.638945,
-            "last_retested_at_iso": "2020-07-19T05:45:14.638945",
+            "last_retested_at_epoch": 1595384844.013061,
+            "last_retested_at_iso": "2020-07-22T02:27:24.013061",
             "status": "INACTIVE"
         },
         "seed4.nimiq-network.com": {
@@ -10741,8 +10741,8 @@
         "www.doubleclick2.xyz": {
             "included_at_epoch": 1588474851.0,
             "included_at_iso": "2020-05-03T03:00:51",
-            "last_retested_at_epoch": 1595142277.27637,
-            "last_retested_at_iso": "2020-07-19T07:04:37.276370",
+            "last_retested_at_epoch": 1595384764.281448,
+            "last_retested_at_iso": "2020-07-22T02:26:04.281448",
             "status": "INACTIVE"
         },
         "www.doubleclick3.xyz": {
