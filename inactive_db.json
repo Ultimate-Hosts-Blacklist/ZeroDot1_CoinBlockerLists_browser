@@ -2166,8 +2166,8 @@
         "ewtuyytdf45.com": {
             "included_at_epoch": 1588423041.0,
             "included_at_iso": "2020-05-02T12:37:21",
-            "last_retested_at_epoch": 1595314700.468326,
-            "last_retested_at_iso": "2020-07-21T06:58:20.468326",
+            "last_retested_at_epoch": 1595463554.109374,
+            "last_retested_at_iso": "2020-07-23T00:19:14.109374",
             "status": "INACTIVE"
         },
         "explorer.jsecoin.com": {
@@ -3993,8 +3993,8 @@
         "miner-deu-8.inf.nimiq.net": {
             "included_at_epoch": 1588441036.0,
             "included_at_iso": "2020-05-02T17:37:16",
-            "last_retested_at_epoch": 1595320409.847285,
-            "last_retested_at_iso": "2020-07-21T08:33:29.847285",
+            "last_retested_at_epoch": 1595463080.748361,
+            "last_retested_at_iso": "2020-07-23T00:11:20.748361",
             "status": "INACTIVE"
         },
         "miner.cinemafacil.com": {
@@ -4476,8 +4476,8 @@
         "ns1.freecontent.com": {
             "included_at_epoch": 1588400978.0,
             "included_at_iso": "2020-05-02T06:29:38",
-            "last_retested_at_epoch": 1595374110.082003,
-            "last_retested_at_iso": "2020-07-21T23:28:30.082003",
+            "last_retested_at_epoch": 1595463707.370037,
+            "last_retested_at_iso": "2020-07-23T00:21:47.370037",
             "status": "INACTIVE"
         },
         "ns1.mutuza.win": {
@@ -5204,8 +5204,8 @@
         "pool.sumokoin.hashvault.pro": {
             "included_at_epoch": 1588277282.0,
             "included_at_iso": "2020-04-30T20:08:02",
-            "last_retested_at_epoch": 1595303835.273753,
-            "last_retested_at_iso": "2020-07-21T03:57:15.273753",
+            "last_retested_at_epoch": 1595463761.834148,
+            "last_retested_at_iso": "2020-07-23T00:22:41.834148",
             "status": "INACTIVE"
         },
         "pool2.coinimp.com": {
@@ -5946,8 +5946,8 @@
         "scm.nimiq.com": {
             "included_at_epoch": 1591632115.490932,
             "included_at_iso": "2020-06-08T16:01:55.490932",
-            "last_retested_at_epoch": 1595326725.489788,
-            "last_retested_at_iso": "2020-07-21T10:18:45.489788",
+            "last_retested_at_epoch": 1595463249.453246,
+            "last_retested_at_iso": "2020-07-23T00:14:09.453246",
             "status": "INACTIVE"
         },
         "script.nimiqpool.com": {
@@ -6023,8 +6023,8 @@
         "seed-12.nimiq.net": {
             "included_at_epoch": 1588487132.0,
             "included_at_iso": "2020-05-03T06:25:32",
-            "last_retested_at_epoch": 1595362050.348702,
-            "last_retested_at_iso": "2020-07-21T20:07:30.348702",
+            "last_retested_at_epoch": 1595463217.680585,
+            "last_retested_at_iso": "2020-07-23T00:13:37.680585",
             "status": "INACTIVE"
         },
         "seed-13.nimiq.net": {
@@ -6317,8 +6317,8 @@
         "seed-pol-4.inf.nimiq.net": {
             "included_at_epoch": 1588479371.0,
             "included_at_iso": "2020-05-03T04:16:11",
-            "last_retested_at_epoch": 1595344472.847538,
-            "last_retested_at_iso": "2020-07-21T15:14:32.847538",
+            "last_retested_at_epoch": 1595463540.854378,
+            "last_retested_at_iso": "2020-07-23T00:19:00.854378",
             "status": "INACTIVE"
         },
         "seed.nimiqpool.com": {
@@ -6338,8 +6338,8 @@
         "seed1.nimiqtest.net": {
             "included_at_epoch": 1588437015.0,
             "included_at_iso": "2020-05-02T16:30:15",
-            "last_retested_at_epoch": 1595338715.10911,
-            "last_retested_at_iso": "2020-07-21T13:38:35.109110",
+            "last_retested_at_epoch": 1595462958.450127,
+            "last_retested_at_iso": "2020-07-23T00:09:18.450127",
             "status": "INACTIVE"
         },
         "seed1.sushipool.com": {
@@ -9999,8 +9999,8 @@
         "www.can-bhs-c1-s1.inf.nimiq.network": {
             "included_at_epoch": 1591632254.424029,
             "included_at_iso": "2020-06-08T16:04:14.424029",
-            "last_retested_at_epoch": 1595309897.667186,
-            "last_retested_at_iso": "2020-07-21T05:38:17.667186",
+            "last_retested_at_epoch": 1595463003.617372,
+            "last_retested_at_iso": "2020-07-23T00:10:03.617372",
             "status": "INACTIVE"
         },
         "www.can-bhs-c1-s2.inf.nimiq.network": {
@@ -10958,8 +10958,8 @@
         "www.ewtuyytdf45.com": {
             "included_at_epoch": 1588405046.0,
             "included_at_iso": "2020-05-02T07:37:26",
-            "last_retested_at_epoch": 1595314700.434491,
-            "last_retested_at_iso": "2020-07-21T06:58:20.434491",
+            "last_retested_at_epoch": 1595463554.108424,
+            "last_retested_at_iso": "2020-07-23T00:19:14.108424",
             "status": "INACTIVE"
         },
         "www.exdynsrv.com": {
@@ -12379,8 +12379,8 @@
         "www.lib.xmrm.pw": {
             "included_at_epoch": 1588427826.0,
             "included_at_iso": "2020-05-02T13:57:06",
-            "last_retested_at_epoch": 1595320520.059102,
-            "last_retested_at_iso": "2020-07-21T08:35:20.059102",
+            "last_retested_at_epoch": 1595463642.899737,
+            "last_retested_at_iso": "2020-07-23T00:20:42.899737",
             "status": "INACTIVE"
         },
         "www.light.browsermine.com": {
@@ -14444,8 +14444,8 @@
         "www.wp-monero-miner.de": {
             "included_at_epoch": 1588378482.0,
             "included_at_iso": "2020-05-02T00:14:42",
-            "last_retested_at_epoch": 1595350559.380353,
-            "last_retested_at_iso": "2020-07-21T16:55:59.380353",
+            "last_retested_at_epoch": 1595463239.499133,
+            "last_retested_at_iso": "2020-07-23T00:13:59.499133",
             "status": "INACTIVE"
         },
         "www.wronpeci.com": {
@@ -14654,8 +14654,8 @@
         "www.ws025.www.jqwww.download": {
             "included_at_epoch": 1589095574.929613,
             "included_at_iso": "2020-05-10T07:26:14.929613",
-            "last_retested_at_epoch": 1595362284.211211,
-            "last_retested_at_iso": "2020-07-21T20:11:24.211211",
+            "last_retested_at_epoch": 1595463258.13135,
+            "last_retested_at_iso": "2020-07-23T00:14:18.131350",
             "status": "INACTIVE"
         },
         "www.ws026.www.jqwww.download": {
@@ -15137,8 +15137,8 @@
         "www3.2giga.link": {
             "included_at_epoch": 1588460840.0,
             "included_at_iso": "2020-05-02T23:07:20",
-            "last_retested_at_epoch": 1595368407.163673,
-            "last_retested_at_iso": "2020-07-21T21:53:27.163673",
+            "last_retested_at_epoch": 1595463141.402028,
+            "last_retested_at_iso": "2020-07-23T00:12:21.402028",
             "status": "INACTIVE"
         },
         "www4.2giga.link": {
