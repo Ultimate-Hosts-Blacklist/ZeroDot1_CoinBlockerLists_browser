@@ -80,8 +80,8 @@
         "300ca0d0.space": {
             "included_at_epoch": 1588436660.0,
             "included_at_iso": "2020-05-02T16:24:20",
-            "last_retested_at_epoch": 1595344863.393688,
-            "last_retested_at_iso": "2020-07-21T15:21:03.393688",
+            "last_retested_at_epoch": 1595474208.887873,
+            "last_retested_at_iso": "2020-07-23T03:16:48.887873",
             "status": "INACTIVE"
         },
         "310ca263.space": {
@@ -3503,8 +3503,8 @@
         "m.anyfiles.ovh": {
             "included_at_epoch": 1588378308.0,
             "included_at_iso": "2020-05-02T00:11:48",
-            "last_retested_at_epoch": 1595309940.609327,
-            "last_retested_at_iso": "2020-07-21T05:39:00.609327",
+            "last_retested_at_epoch": 1595474298.545736,
+            "last_retested_at_iso": "2020-07-23T03:18:18.545736",
             "status": "INACTIVE"
         },
         "m1.stream.vidzi.tv": {
@@ -5008,8 +5008,8 @@
         "play.tainiesonline.stream": {
             "included_at_epoch": 1588483081.0,
             "included_at_iso": "2020-05-03T05:18:01",
-            "last_retested_at_epoch": 1595362212.529631,
-            "last_retested_at_iso": "2020-07-21T20:10:12.529631",
+            "last_retested_at_epoch": 1595474994.640931,
+            "last_retested_at_iso": "2020-07-23T03:29:54.640931",
             "status": "INACTIVE"
         },
         "play.vb.wearesaudis.net": {
@@ -6072,8 +6072,8 @@
         "seed-19.nimiq.net": {
             "included_at_epoch": 1588427440.0,
             "included_at_iso": "2020-05-02T13:50:40",
-            "last_retested_at_epoch": 1595338814.721382,
-            "last_retested_at_iso": "2020-07-21T13:40:14.721382",
+            "last_retested_at_epoch": 1595474513.18578,
+            "last_retested_at_iso": "2020-07-23T03:21:53.185780",
             "status": "INACTIVE"
         },
         "seed-2.nimiq.net": {
@@ -7073,8 +7073,8 @@
         "vg02h8z1ul.me": {
             "included_at_epoch": 1588383401.0,
             "included_at_iso": "2020-05-02T01:36:41",
-            "last_retested_at_epoch": 1595320618.035445,
-            "last_retested_at_iso": "2020-07-21T08:36:58.035445",
+            "last_retested_at_epoch": 1595474430.040625,
+            "last_retested_at_iso": "2020-07-23T03:20:30.040625",
             "status": "INACTIVE"
         },
         "video.estream.nu": {
@@ -9138,8 +9138,8 @@
         "www.300ca0d0.space": {
             "included_at_epoch": 1588401000.0,
             "included_at_iso": "2020-05-02T06:30:00",
-            "last_retested_at_epoch": 1595344863.186584,
-            "last_retested_at_iso": "2020-07-21T15:21:03.186584",
+            "last_retested_at_epoch": 1595474208.800256,
+            "last_retested_at_iso": "2020-07-23T03:16:48.800256",
             "status": "INACTIVE"
         },
         "www.310ca263.space": {
@@ -10293,8 +10293,8 @@
         "www.cloudflare.solutions": {
             "included_at_epoch": 1588486708.0,
             "included_at_iso": "2020-05-03T06:18:28",
-            "last_retested_at_epoch": 1595320706.045589,
-            "last_retested_at_iso": "2020-07-21T08:38:26.045589",
+            "last_retested_at_epoch": 1595474820.097722,
+            "last_retested_at_iso": "2020-07-23T03:27:00.097722",
             "status": "INACTIVE"
         },
         "www.cloudmedia.gdn": {
@@ -11777,8 +11777,8 @@
         "www.hub.nimiq.com": {
             "included_at_epoch": 1591621586.392238,
             "included_at_iso": "2020-06-08T13:06:26.392238",
-            "last_retested_at_epoch": 1595362619.925183,
-            "last_retested_at_iso": "2020-07-21T20:16:59.925183",
+            "last_retested_at_epoch": 1595474300.340521,
+            "last_retested_at_iso": "2020-07-23T03:18:20.340521",
             "status": "INACTIVE"
         },
         "www.hzsod71wov.me": {
@@ -13338,8 +13338,8 @@
         "www.questionfly.com": {
             "included_at_epoch": 1588405363.0,
             "included_at_iso": "2020-05-02T07:42:43",
-            "last_retested_at_epoch": 1595315545.994546,
-            "last_retested_at_iso": "2020-07-21T07:12:25.994546",
+            "last_retested_at_epoch": 1595474516.391916,
+            "last_retested_at_iso": "2020-07-23T03:21:56.391916",
             "status": "INACTIVE"
         },
         "www.r8nu86wg.me": {
@@ -14199,8 +14199,8 @@
         "www.vg02h8z1ul.me": {
             "included_at_epoch": 1588396383.0,
             "included_at_iso": "2020-05-02T05:13:03",
-            "last_retested_at_epoch": 1595320618.126034,
-            "last_retested_at_iso": "2020-07-21T08:36:58.126034",
+            "last_retested_at_epoch": 1595474430.031435,
+            "last_retested_at_iso": "2020-07-23T03:20:30.031435",
             "status": "INACTIVE"
         },
         "www.viaxmr.com": {
