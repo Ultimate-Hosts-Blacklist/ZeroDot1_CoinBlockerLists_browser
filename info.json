@@ -1,38 +1,16 @@
 {
-    "current_stats": {
-        "builds": 3242,
-        "counter": {
-            "down": 0,
-            "invalid": 0,
-            "malicious": 0,
-            "sane": 0,
-            "tested": 0,
-            "up": 0,
-            "valid": 0
-        },
-        "volatile.list": 2127,
-        "whitelisted.list": 2125
-    },
     "currently_under_test": true,
+    "custom_pyfunceble_config": {},
     "days_until_next_test": 2,
     "end_datetime": "2020-03-03T15:57:38.785432",
     "end_epoch": 1582960942.679932,
-    "last_autosave_datetime": "2020-03-03T15:57:38.785445",
-    "last_autosave_epoch": 1583246793.253897,
     "name": "ZeroDot1_CoinBlockerLists_browser",
-    "previous_stats": {
-        "builds": 9,
-        "clean.list": 2128,
-        "counter": {
-            "down": 1673,
-            "invalid": 1,
-            "tested": 3802,
-            "up": 2128
-        },
-        "domains.list": 3802,
-        "ip.list": 0,
-        "volatile.list": 2128,
-        "whitelisted.list": 2126
+    "previous_end_datetime": "2020-01-25T04:19:06.560912",
+    "previous_end_epoch": 1579925946.560915,
+    "previous_start_datetime": "2020-01-25T04:19:06.560900",
+    "previous_start_epoch": 1579925946.560914,
+    "pyfunceble": {
+        "config": {}
     },
     "raw_link": "https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list_browser.txt",
     "start_datetime": "2020-03-03T15:57:38.792835",

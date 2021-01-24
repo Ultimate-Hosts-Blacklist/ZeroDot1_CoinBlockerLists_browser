@@ -1,0 +1,15 @@
+{
+    "abs_source": "/home/runner/work/ZeroDot1_CoinBlockerLists_browser/ZeroDot1_CoinBlockerLists_browser/domains.list",
+    "checker_type": "AVAILABILITY",
+    "destination": "domains.list",
+    "hash": "bdb45764b287675529fde84b19182a5a87dec73b7d8c2f03282d490b",
+    "line_number": 4027,
+    "output_dir": "/home/runner/work/ZeroDot1_CoinBlockerLists_browser/ZeroDot1_CoinBlockerLists_browser/output/domains.list",
+    "previous_hash": "bdb45764b287675529fde84b19182a5a87dec73b7d8c2f03282d490b",
+    "rel_source": "domains.list",
+    "session_id": "c8d86802170a52fb824341d8",
+    "source": "/home/runner/work/ZeroDot1_CoinBlockerLists_browser/ZeroDot1_CoinBlockerLists_browser/domains.list",
+    "subject": "/home/runner/work/ZeroDot1_CoinBlockerLists_browser/ZeroDot1_CoinBlockerLists_browser/domains.list",
+    "subject_type": "domain",
+    "type": "file"
+}
