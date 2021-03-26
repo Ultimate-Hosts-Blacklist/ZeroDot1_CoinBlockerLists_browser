@@ -1,0 +1,13 @@
+{
+    "checker_type": "AVAILABILITY",
+    "destination": "domains.list",
+    "hash": "4e0b60755f1f3f8ecf281fe3b2bff0bfba333f37b1e6c6d074dadc40",
+    "line_number": 4027,
+    "output_dir": "/home/runner/work/ZeroDot1_CoinBlockerLists_browser/ZeroDot1_CoinBlockerLists_browser/output/domains.list",
+    "previous_hash": "4e0b60755f1f3f8ecf281fe3b2bff0bfba333f37b1e6c6d074dadc40",
+    "session_id": "6c7a04ad95cc0fab54452cea",
+    "source": "domains.list",
+    "subject": "domains.list",
+    "subject_type": "domain",
+    "type": "file"
+}
