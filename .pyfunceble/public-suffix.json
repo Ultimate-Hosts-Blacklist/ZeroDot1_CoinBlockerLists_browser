@@ -6482,9 +6482,9 @@
         "np"
     ],
     "nr": [
+        "gov.nr",
         "biz.nr",
         "info.nr",
-        "gov.nr",
         "edu.nr",
         "org.nr",
         "net.nr",
@@ -6789,7 +6789,6 @@
         "info.pk"
     ],
     "pl": [
-        "gov.pl",
         "com.pl",
         "net.pl",
         "org.pl",
@@ -6823,6 +6822,7 @@
         "tourism.pl",
         "travel.pl",
         "turystyka.pl",
+        "gov.pl",
         "ap.gov.pl",
         "ic.gov.pl",
         "is.gov.pl",
