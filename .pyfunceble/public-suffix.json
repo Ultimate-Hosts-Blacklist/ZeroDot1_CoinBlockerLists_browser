@@ -1288,7 +1288,6 @@
         "quipelements.com",
         "r.appspot.com",
         "rackmaze.com",
-        "radio.fm",
         "rag-cloud-ch.hosteur.com",
         "rag-cloud.hosteur.com",
         "remotewd.com",
@@ -1770,7 +1769,8 @@
         "com.fm",
         "edu.fm",
         "net.fm",
-        "org.fm"
+        "org.fm",
+        "radio.fm"
     ],
     "fr": [
         "aeroport.fr",
@@ -7430,6 +7430,7 @@
     ],
     "ro": [
         "arts.ro",
+        "barsy.ro",
         "blogspot.ro",
         "co.ro",
         "com.ro",
@@ -7512,7 +7513,8 @@
         "development.run",
         "hs.run",
         "ravendb.run",
-        "repl.run"
+        "repl.run",
+        "servers.run"
     ],
     "rw": [
         "ac.rw",
