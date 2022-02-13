@@ -163,6 +163,7 @@
     ],
     "app": [
         "a.run.app",
+        "beget.app",
         "bookonline.app",
         "clerk.app",
         "clerkstage.app",
@@ -730,6 +731,7 @@
         "co.ca",
         "gc.ca",
         "mb.ca",
+        "mil.cn",
         "myspreadshop.ca",
         "nb.ca",
         "nf.ca",
@@ -1418,6 +1420,7 @@
         "uy.com",
         "vipsinaapp.com",
         "vs.mythic-beasts.com",
+        "vultrobjects.com",
         "wafflecell.com",
         "withgoogle.com",
         "withyoutube.com",
@@ -2719,7 +2722,6 @@
         "jm"
     ],
     "jo": [
-        "com.jo",
         "edu.jo",
         "gov.jo",
         "mil.jo",
@@ -2868,6 +2870,7 @@
         "chuo.tokyo.jp",
         "chuo.yamanashi.jp",
         "co.jp",
+        "com.jo",
         "daigo.ibaraki.jp",
         "daisen.akita.jp",
         "daito.osaka.jp",
