@@ -1,10 +1,12 @@
 {
     "counter": {
+        "CommuniGal Communications Ltd.": 1,
         "Dynadot LLC": 1,
-        "total": 1
+        "total": 2
     },
     "percentage": {
-        "Dynadot LLC": 100.0,
+        "CommuniGal Communications Ltd.": 50.0,
+        "Dynadot LLC": 50.0,
         "total": 100.0
     }
 }
