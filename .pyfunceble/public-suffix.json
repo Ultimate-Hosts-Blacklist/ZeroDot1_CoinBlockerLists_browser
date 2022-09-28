@@ -5211,6 +5211,7 @@
         "co.mu",
         "com.mu",
         "gov.mu",
+        "net.mu",
         "or.mu",
         "org.mu"
     ],
@@ -5570,7 +5571,6 @@
         "naumburg.museum",
         "naval.museum",
         "nebraska.museum",
-        "net.mu",
         "neues.museum",
         "newhampshire.museum",
         "newjersey.museum",
@@ -5855,6 +5855,7 @@
     ],
     "net": [
         "1.azurestaticapps.net",
+        "2.azurestaticapps.net",
         "a.prod.fastly.net",
         "a.ssl.fastly.net",
         "adobeaemcloud.net",
