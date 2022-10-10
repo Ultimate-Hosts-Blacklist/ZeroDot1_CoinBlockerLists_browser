@@ -1,15 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-api.inwemo.com,AVAILABILITY,domains.list,2022-10-08 18:04:23.059995
-sfe-eu.beeppool.org,AVAILABILITY,domains.list,2022-10-08 18:04:46.441259
-solo-etig.beeppool.org,AVAILABILITY,domains.list,2022-10-08 18:04:49.313847
-solo-vdl.beeppool.org,AVAILABILITY,domains.list,2022-10-08 18:04:49.750204
-solo-xsg.beeppool.org,AVAILABILITY,domains.list,2022-10-08 18:04:50.202360
-stratum-uk.beeppool.org,AVAILABILITY,domains.list,2022-10-08 18:04:51.824522
-test-api-explorer.beeppool.org,AVAILABILITY,domains.list,2022-10-08 18:04:53.439237
-test-explorer.beeppool.org,AVAILABILITY,domains.list,2022-10-08 18:04:53.857200
-us-east.beeppool.org,AVAILABILITY,domains.list,2022-10-08 18:05:01.821802
-us-pool.beeppool.org,AVAILABILITY,domains.list,2022-10-08 18:05:02.291150
-ws027.www.jqwww.download,AVAILABILITY,domains.list,2022-10-08 18:06:31.276148
 www.mmc.center,AVAILABILITY,domains.list,2022-10-08 18:06:48.606503
 www.myadstats.com,AVAILABILITY,domains.list,2022-10-08 18:06:54.810018
 xhv-au.beeppool.org,AVAILABILITY,domains.list,2022-10-08 18:07:02.715002
@@ -1875,3 +1864,14 @@ mining-etcc.beeppool.org,AVAILABILITY,domains.list,2022-10-09 16:41:04.848700
 mix.kinostuff.com,AVAILABILITY,domains.list,2022-10-09 16:41:08.364752
 napi-sumo.beeppool.org,AVAILABILITY,domains.list,2022-10-09 16:41:11.574913
 xbasfbno.info,AVAILABILITY,domains.list,2022-10-09 16:41:16.109608
+api.inwemo.com,AVAILABILITY,domains.list,2022-10-10 21:12:23.067550
+sfe-eu.beeppool.org,AVAILABILITY,domains.list,2022-10-10 21:12:23.513981
+solo-etig.beeppool.org,AVAILABILITY,domains.list,2022-10-10 21:12:23.950711
+solo-vdl.beeppool.org,AVAILABILITY,domains.list,2022-10-10 21:12:24.360197
+solo-xsg.beeppool.org,AVAILABILITY,domains.list,2022-10-10 21:12:24.798141
+stratum-uk.beeppool.org,AVAILABILITY,domains.list,2022-10-10 21:12:25.227735
+test-api-explorer.beeppool.org,AVAILABILITY,domains.list,2022-10-10 21:12:25.630861
+test-explorer.beeppool.org,AVAILABILITY,domains.list,2022-10-10 21:12:26.012546
+us-east.beeppool.org,AVAILABILITY,domains.list,2022-10-10 21:12:26.410005
+us-pool.beeppool.org,AVAILABILITY,domains.list,2022-10-10 21:12:26.803636
+ws027.www.jqwww.download,AVAILABILITY,domains.list,2022-10-10 21:19:27.339486
