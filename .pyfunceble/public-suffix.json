@@ -1879,7 +1879,8 @@
         "edu.fm",
         "net.fm",
         "org.fm",
-        "radio.fm"
+        "radio.fm",
+        "user.fm"
     ],
     "fr": [
         "aeroport.fr",
@@ -8667,6 +8668,7 @@
         "vi.us",
         "vt.us",
         "wa.us",
+        "washtenaw.mi.us",
         "wi.us",
         "wv.us",
         "wy.us"
@@ -8845,8 +8847,7 @@
         "co.zw",
         "gov.zw",
         "mil.zw",
-        "org.zw",
-        "washtenaw.mi.us"
+        "org.zw"
     ],
     "рус": [
         "xn--41a.xn--p1acf",
