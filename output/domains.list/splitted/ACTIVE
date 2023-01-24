@@ -1837,5 +1837,10 @@ zona.pl                                                                         
 zona.plus                                                                                            ACTIVE      COLLECTION Unknown           Unknown    AVAILABILITY 
 zymerget.bid                                                                                         ACTIVE      COLLECTION Unknown           Unknown    AVAILABILITY 
 zymerget.win                                                                                         ACTIVE      COLLECTION Unknown           200        AVAILABILITY 
-ws004.www.jqwww.download                                                                             ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
-ws011.www.jqwww.download                                                                             ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
+ws004.www.jqwww.download                                                                             ACTIVE      COLLECTION Unknown           Unknown    AVAILABILITY 
+ws011.www.jqwww.download                                                                             ACTIVE      COLLECTION Unknown           Unknown    AVAILABILITY 
+ws012.www.jqwww.download                                                                             ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
+ws013-proxy-ajcryptominer.ajplugins.com                                                              ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
+cdn.inwemo.com                                                                                       ACTIVE      DNSLOOKUP  Unknown           404        AVAILABILITY 
+cdn2.inwemo.com                                                                                      ACTIVE      DNSLOOKUP  Unknown           404        AVAILABILITY 
+dashboard.inwemo.com                                                                                 ACTIVE      DNSLOOKUP  Unknown           404        AVAILABILITY 
