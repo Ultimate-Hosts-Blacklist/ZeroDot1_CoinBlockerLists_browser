@@ -1,8 +1,8 @@
 {
-    "currently_under_test": true,
+    "currently_under_test": false,
     "days_until_next_test": 2,
-    "end_datetime": "2023-03-05T14:47:26.664664",
-    "end_epoch": 1678027646.664664,
+    "end_datetime": "2023-03-06T08:55:34.800129",
+    "end_epoch": 1678092934.800129,
     "name": "ZeroDot1_CoinBlockerLists_browser",
     "previous_end_datetime": "2023-03-05T14:47:26.664664",
     "previous_end_epoch": 1678027646.664664,
