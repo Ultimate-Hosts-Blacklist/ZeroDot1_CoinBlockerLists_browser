@@ -1,10 +1,12 @@
 {
     "counter": {
+        "CommuniGal Communications Ltd.": 6,
         "NameCheap, Inc.": 4,
-        "total": 4
+        "total": 10
     },
     "percentage": {
-        "NameCheap, Inc.": 100.0,
+        "CommuniGal Communications Ltd.": 60.0,
+        "NameCheap, Inc.": 40.0,
         "total": 100.0
     }
 }
