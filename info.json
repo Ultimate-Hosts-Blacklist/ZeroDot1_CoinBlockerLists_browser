@@ -1,17 +1,17 @@
 {
-    "currently_under_test": false,
+    "currently_under_test": true,
     "days_until_next_test": 2,
     "end_datetime": "2023-09-29T14:22:23.698660",
     "end_epoch": 1695997343.69866,
     "name": "ZeroDot1_CoinBlockerLists_browser",
-    "previous_end_datetime": "2023-09-29T09:47:58.005516",
-    "previous_end_epoch": 1695980878.005516,
-    "previous_start_datetime": "2023-09-29T05:03:12.129494",
-    "previous_start_epoch": 1695963792.129494,
+    "previous_end_datetime": "2023-09-29T14:22:23.698660",
+    "previous_end_epoch": 1695997343.69866,
+    "previous_start_datetime": "2023-09-29T10:44:19.713733",
+    "previous_start_epoch": 1695984259.713733,
     "pyfunceble": {
         "config": {}
     },
     "raw_link": "https://gitlab.com/ZeroDot1/CoinBlockerLists/-/raw/master/list_browser.txt",
-    "start_datetime": "2023-09-29T10:44:19.713733",
-    "start_epoch": 1695984259.713733
+    "start_datetime": "2023-09-30T02:56:13.126650",
+    "start_epoch": 1696042573.12665
 }
