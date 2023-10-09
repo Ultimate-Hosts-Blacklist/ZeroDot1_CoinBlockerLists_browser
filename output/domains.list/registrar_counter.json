@@ -1,14 +1,18 @@
 {
     "counter": {
         "1API GmbH": 2,
+        "CommuniGal Communication Ltd.": 2,
+        "CommuniGal Communications Ltd.": 2,
         "GoDaddy.com, LLC": 2,
-        "NameCheap, Inc.": 2,
-        "total": 6
+        "NameCheap, Inc.": 22,
+        "total": 30
     },
     "percentage": {
-        "1API GmbH": 33.333333333333336,
-        "GoDaddy.com, LLC": 33.333333333333336,
-        "NameCheap, Inc.": 33.333333333333336,
+        "1API GmbH": 6.666666666666667,
+        "CommuniGal Communication Ltd.": 6.666666666666667,
+        "CommuniGal Communications Ltd.": 6.666666666666667,
+        "GoDaddy.com, LLC": 6.666666666666667,
+        "NameCheap, Inc.": 73.33333333333333,
         "total": 100.0
     }
 }
