@@ -59,6 +59,7 @@ api.monerise.com
 api.moneroocean.stream
 api.netflare.info
 api.pzoifaum.info
+api.viaxmr.com
 api.xmrpool.net
 apib.monerise.com
 api-etn.beeppool.org
@@ -156,7 +157,6 @@ captchas.freebitco.in
 cashbeet.com
 cdjs.online
 cdn1.pebx.pl
-cdn2.inwemo.com
 cdn-102.statdynamic.com
 cdn.adless.io
 cdn.akubebas.com
@@ -264,7 +264,6 @@ darking02.tk
 darking03.tk
 darking08.tk
 darking09.tk
-dashboard.inwemo.com
 dashboard.monerise.com
 datasecu.download
 db.xmrpool.net
@@ -661,6 +660,7 @@ multipools.beeppool.org
 munero.me
 mutuza.win
 mwallet1.beeppool.org
+mwnodes.viaxmr.com
 mwor.gq
 mx.nimiq.com
 myadstats.com
@@ -712,6 +712,8 @@ node7.nimiq-network.com
 node8.nimiq-network.com
 node9.nimiq-network.com
 node22.nimiq-network.com
+node.viaxmr.com
+nodes.viaxmr.com
 norespar.ru
 notmining.org
 ns0.freecontent.com
@@ -776,6 +778,7 @@ play.mine.gay-hotvideo.net
 play.mnr.dorama.site
 play.nexioniect.com
 play.on.animeteatr.ru
+play.pampopholf.com
 play.pc.belicimo.pw
 play.play1.videos.videos.vidto.me
 play.play1.videos.vidto.me
@@ -1039,6 +1042,7 @@ site.freecontent.com
 siteverification.online
 sm3na.com
 smartoffer.site
+smurf.crypto.csgocpu.com
 snahome.com
 snapshot.beeppool.org
 solo-etig.beeppool.org
@@ -1254,6 +1258,7 @@ ws01.crypto-loot.com
 ws001.hemnes.win
 ws1.minr.pw
 ws1.stati.bid
+ws1.statistic.date
 ws001.www.datasecu.download
 ws001.www.jqwww.download
 ws01cn.streamplay.to
@@ -1267,12 +1272,14 @@ ws2.minr.pw
 ws2.stati.bid
 ws2.statistic.date
 ws002.www.datasecu.download
+ws002.www.jqwww.download
 ws02cn.streamplay.to
 ws002-proxy-ajcryptominer.ajplugins.com
 ws03.coinnebula.com
 ws03.crypto-loot.com
 ws003.hemnes.win
 ws3.minr.pw
+ws3.statistic.date
 ws003.www.datasecu.download
 ws003.www.jqwww.download
 ws03cn.streamplay.to
@@ -1293,11 +1300,13 @@ ws006.hemnes.win
 ws006.www.datasecu.download
 ws006.www.jqwww.download
 ws006-proxy-ajcryptominer.ajplugins.com
+ws07.crypto.csgocpu.com
 ws07.crypto-loot.com
 ws007.hemnes.win
 ws007.www.datasecu.download
 ws007.www.jqwww.download
 ws007-proxy-ajcryptominer.ajplugins.com
+ws08.crypto.csgocpu.com
 ws08.crypto-loot.com
 ws008.hemnes.win
 ws008.www.datasecu.download
@@ -1364,6 +1373,7 @@ ws021.www.jqwww.download
 ws22.crypto-loot.com
 ws022.hemnes.win
 ws022.www.datasecu.download
+ws022.www.jqwww.download
 ws022-proxy-ajcryptominer.ajplugins.com
 ws023.beeppool.org
 ws23.crypto.csgocpu.com
@@ -1372,11 +1382,13 @@ ws023.hemnes.win
 ws023.www.datasecu.download
 ws023.www.jqwww.download
 ws023-proxy-ajcryptominer.ajplugins.com
+ws24.crypto.csgocpu.com
 ws24.crypto-loot.com
 ws024.hemnes.win
 ws024.www.datasecu.download
 ws024.www.jqwww.download
 ws024-proxy-ajcryptominer.ajplugins.com
+ws25.crypto.csgocpu.com
 ws25.crypto-loot.com
 ws025.hemnes.win
 ws025.www.datasecu.download
@@ -1385,6 +1397,7 @@ ws025-proxy-ajcryptominer.ajplugins.com
 ws26.crypto-loot.com
 ws026.hemnes.win
 ws026.www.datasecu.download
+ws026.www.jqwww.download
 ws026-proxy-ajcryptominer.ajplugins.com
 ws27.crypto-loot.com
 ws027.hemnes.win
@@ -1397,6 +1410,7 @@ ws028.www.jqwww.download
 ws028-proxy-ajcryptominer.ajplugins.com
 ws29.crypto-loot.com
 ws029.hemnes.win
+ws029-proxy-ajcryptominer.ajplugins.com
 ws30.crypto-loot.com
 ws030.hemnes.win
 ws31.crypto-loot.com
@@ -1425,6 +1439,7 @@ ws48.crypto.csgocpu.com
 ws48.crypto-loot.com
 ws49.crypto.csgocpu.com
 ws49.crypto-loot.com
+ws50.crypto.csgocpu.com
 ws50.crypto-loot.com
 ws.bhzejltg.info
 ws.l33tsite.info
@@ -1477,7 +1492,6 @@ www.arizona-miner.tk
 www.auroramine.com
 www.auth.crypto-webminer.com
 www.authcaptcha.com
-www.averoconnector.com
 www.bablace.com
 www.be
 www.befirstcdn.com
@@ -1498,7 +1512,6 @@ www.chmproxy.bid
 www.clgserv.pro
 www.clod.pw
 www.cloudcoins.co
-www.cloud-miner.eu
 www.coinerra.com
 www.coingive.com
 www.coinhive.com
@@ -1544,8 +1557,6 @@ www.ethereum-pocket.eu
 www.eth-pocket.com
 www.eth-pocket.de
 www.eth-pocket.eu
-www.ethtrader.de
-www.eucsoft.com
 www.f1tbit.com
 www.fili.cc
 www.flare-analytics.com
@@ -1571,11 +1582,11 @@ www.hashto.cash
 www.hemnes.win
 www.hostcontent.live
 www.hostingcloud.racing
+www.infamylists.com
 www.intensecoin.crypto-webminer.com
 www.intucoin.crypto-webminer.com
 www.ipbc.crypto-webminer.com
 www.ipv6.freebitco.in
-www.jhondi33.duckdns.org
 www.jqcdn01.herokuapp.com
 www.jqcdn2.herokuapp.com
 www.jqcdn03.herokuapp.com
@@ -1590,7 +1601,6 @@ www.lightminer.co
 www.masari.crypto-webminer.com
 www.megabanners.cf
 www.mi-de-ner-nis3.info
-www.minecrunch.co
 www.minemytraffic.com
 www.minero.cc
 www.minexmr.com
@@ -1650,7 +1660,6 @@ www.sxcdn1.herokuapp.com
 www.sxcdn5.herokuapp.com
 www.techtricksworld.com
 www.theappguruz.com
-www.thepiratebay.cr
 www.thepiratebay.wtf
 www.thewhizmarketing.com
 www.thewhizproducts.com
@@ -1663,6 +1672,7 @@ www.upload.crypto-webminer.com
 www.vcrypt.net
 www.verifier.live
 www.veritrol.com
+www.viaxmr.com
 www.w.crypto-webminer.com
 www.wallet.brominer.com
 www.wasm.stream
@@ -1682,6 +1692,7 @@ www.ws002.www.jqwww.download
 www.ws003.www.datasecu.download
 www.ws003.www.jqwww.download
 www.ws004.www.datasecu.download
+www.ws004.www.jqwww.download
 www.ws05.crypto.csgocpu.com
 www.ws005.www.datasecu.download
 www.ws005.www.jqwww.download
@@ -1744,6 +1755,7 @@ www.www1.2giga.link
 www.xmg.cool
 www.xmr.cool
 www.xmrpool.net
+www.youporn.sexy
 xbasfbno.info
 xcoin.beeppool.org
 xdn.cpufan.club
