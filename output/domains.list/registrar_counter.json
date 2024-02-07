@@ -1,10 +1,12 @@
 {
     "counter": {
+        "Gransy, s.r.o.": 2,
         "Radix FZC": 2,
-        "total": 2
+        "total": 4
     },
     "percentage": {
-        "Radix FZC": 100.0,
+        "Gransy, s.r.o.": 50.0,
+        "Radix FZC": 50.0,
         "total": 100.0
     }
 }
