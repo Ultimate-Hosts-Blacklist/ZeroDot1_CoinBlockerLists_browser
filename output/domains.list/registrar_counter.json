@@ -1,12 +1,16 @@
 {
     "counter": {
-        "Gransy, s.r.o.": 2,
-        "Radix FZC": 2,
-        "total": 4
+        "1API GmbH": 2,
+        "CommuniGal Communications Ltd.": 2,
+        "GoDaddy.com, LLC": 2,
+        "NameCheap, Inc.": 2,
+        "total": 8
     },
     "percentage": {
-        "Gransy, s.r.o.": 50.0,
-        "Radix FZC": 50.0,
+        "1API GmbH": 25.0,
+        "CommuniGal Communications Ltd.": 25.0,
+        "GoDaddy.com, LLC": 25.0,
+        "NameCheap, Inc.": 25.0,
         "total": 100.0
     }
 }
