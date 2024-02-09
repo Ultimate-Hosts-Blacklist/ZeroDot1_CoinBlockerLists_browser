@@ -1,10 +1,18 @@
 {
     "counter": {
-        "NameCheap, Inc.": 16,
-        "total": 16
+        "CommuniGal Communication Ltd.": 2,
+        "CommuniGal Communications Ltd.": 2,
+        "Dynadot LLC": 2,
+        "Name.com, Inc.": 2,
+        "NameCheap, Inc.": 18,
+        "total": 26
     },
     "percentage": {
-        "NameCheap, Inc.": 100.0,
+        "CommuniGal Communication Ltd.": 7.6923076923076925,
+        "CommuniGal Communications Ltd.": 7.6923076923076925,
+        "Dynadot LLC": 7.6923076923076925,
+        "Name.com, Inc.": 7.6923076923076925,
+        "NameCheap, Inc.": 69.23076923076923,
         "total": 100.0
     }
 }
