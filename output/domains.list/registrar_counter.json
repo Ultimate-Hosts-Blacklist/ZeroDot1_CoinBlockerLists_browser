@@ -2,21 +2,25 @@
     "counter": {
         "1API GmbH": 8,
         "GoDaddy.com, LLC": 2,
+        "HOSTINGER operations, UAB": 2,
         "NAMECHEAP": 2,
-        "NameCheap, Inc.": 2,
+        "NameCheap, Inc.": 4,
+        "NameSilo,LLC": 2,
         "OVH SAS": 2,
         "PDR Ltd. d/b/a PublicDomainRegistry.com": 2,
         "Sav.com, LLC": 2,
-        "total": 20
+        "total": 26
     },
     "percentage": {
-        "1API GmbH": 40.0,
-        "GoDaddy.com, LLC": 10.0,
-        "NAMECHEAP": 10.0,
-        "NameCheap, Inc.": 10.0,
-        "OVH SAS": 10.0,
-        "PDR Ltd. d/b/a PublicDomainRegistry.com": 10.0,
-        "Sav.com, LLC": 10.0,
+        "1API GmbH": 30.76923076923077,
+        "GoDaddy.com, LLC": 7.6923076923076925,
+        "HOSTINGER operations, UAB": 7.6923076923076925,
+        "NAMECHEAP": 7.6923076923076925,
+        "NameCheap, Inc.": 15.384615384615385,
+        "NameSilo,LLC": 7.6923076923076925,
+        "OVH SAS": 7.6923076923076925,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 7.6923076923076925,
+        "Sav.com, LLC": 7.6923076923076925,
         "total": 100.0
     }
 }
