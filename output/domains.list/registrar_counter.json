@@ -1,10 +1,12 @@
 {
     "counter": {
+        "Dynadot Inc": 2,
         "NameCheap, Inc.": 4,
-        "total": 4
+        "total": 6
     },
     "percentage": {
-        "NameCheap, Inc.": 100.0,
+        "Dynadot Inc": 33.333333333333336,
+        "NameCheap, Inc.": 66.66666666666667,
         "total": 100.0
     }
 }
