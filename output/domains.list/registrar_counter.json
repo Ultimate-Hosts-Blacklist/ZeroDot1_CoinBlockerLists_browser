@@ -1,24 +1,26 @@
 {
     "counter": {
-        "1API GmbH": 4,
-        "CommuniGal Communications Ltd.": 4,
+        "1API GmbH": 8,
+        "CommuniGal Communications Ltd.": 6,
         "Dynadot LLC": 2,
-        "GoDaddy.com, LLC": 2,
+        "GoDaddy.com, LLC": 4,
+        "Gransy, s.r.o.": 2,
         "NAMECHEAP": 2,
-        "NameCheap, Inc.": 4,
-        "Radix FZC": 2,
-        "Sav.com, LLC": 2,
-        "total": 22
+        "NameCheap, Inc.": 22,
+        "Radix FZC": 4,
+        "Sav.com, LLC": 4,
+        "total": 54
     },
     "percentage": {
-        "1API GmbH": 18.181818181818183,
-        "CommuniGal Communications Ltd.": 18.181818181818183,
-        "Dynadot LLC": 9.090909090909092,
-        "GoDaddy.com, LLC": 9.090909090909092,
-        "NAMECHEAP": 9.090909090909092,
-        "NameCheap, Inc.": 18.181818181818183,
-        "Radix FZC": 9.090909090909092,
-        "Sav.com, LLC": 9.090909090909092,
-        "total": 100.00000000000001
+        "1API GmbH": 14.814814814814815,
+        "CommuniGal Communications Ltd.": 11.11111111111111,
+        "Dynadot LLC": 3.7037037037037037,
+        "GoDaddy.com, LLC": 7.407407407407407,
+        "Gransy, s.r.o.": 3.7037037037037037,
+        "NAMECHEAP": 3.7037037037037037,
+        "NameCheap, Inc.": 40.74074074074074,
+        "Radix FZC": 7.407407407407407,
+        "Sav.com, LLC": 7.407407407407407,
+        "total": 99.99999999999999
     }
 }
