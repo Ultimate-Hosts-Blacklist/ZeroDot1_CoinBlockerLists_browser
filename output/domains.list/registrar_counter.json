@@ -1,24 +1,36 @@
 {
     "counter": {
-        "1API GmbH": 4,
-        "CommuniGal Communications Ltd.": 4,
-        "Dynadot LLC": 2,
-        "GoDaddy.com, LLC": 2,
+        "1API GmbH": 8,
+        "CommuniGal Communication Ltd.": 4,
+        "CommuniGal Communications Ltd.": 16,
+        "Dynadot Inc": 2,
+        "Dynadot LLC": 4,
+        "GoDaddy.com, LLC": 4,
+        "Gransy, s.r.o.": 2,
+        "HOSTINGER operations, UAB": 2,
         "NAMECHEAP": 2,
-        "NameCheap, Inc.": 4,
-        "Radix FZC": 2,
-        "Sav.com, LLC": 2,
-        "total": 22
+        "NameCheap, Inc.": 46,
+        "OVH SAS": 2,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 2,
+        "Radix FZC": 6,
+        "Sav.com, LLC": 4,
+        "total": 104
     },
     "percentage": {
-        "1API GmbH": 18.181818181818183,
-        "CommuniGal Communications Ltd.": 18.181818181818183,
-        "Dynadot LLC": 9.090909090909092,
-        "GoDaddy.com, LLC": 9.090909090909092,
-        "NAMECHEAP": 9.090909090909092,
-        "NameCheap, Inc.": 18.181818181818183,
-        "Radix FZC": 9.090909090909092,
-        "Sav.com, LLC": 9.090909090909092,
-        "total": 100.00000000000001
+        "1API GmbH": 7.6923076923076925,
+        "CommuniGal Communication Ltd.": 3.8461538461538463,
+        "CommuniGal Communications Ltd.": 15.384615384615385,
+        "Dynadot Inc": 1.9230769230769231,
+        "Dynadot LLC": 3.8461538461538463,
+        "GoDaddy.com, LLC": 3.8461538461538463,
+        "Gransy, s.r.o.": 1.9230769230769231,
+        "HOSTINGER operations, UAB": 1.9230769230769231,
+        "NAMECHEAP": 1.9230769230769231,
+        "NameCheap, Inc.": 44.23076923076923,
+        "OVH SAS": 1.9230769230769231,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 1.9230769230769231,
+        "Radix FZC": 5.769230769230769,
+        "Sav.com, LLC": 3.8461538461538463,
+        "total": 99.99999999999999
     }
 }
